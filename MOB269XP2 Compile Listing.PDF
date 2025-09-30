@@ -1,0 +1,1392 @@
+%PDF-1.3  v1.00198066100060001000003*STD                ZSYSPRT   *CPI      EVANS     EVANS
+1 0 obj
+<<
+/Type /Catalog
+/Pages 5 0 R
+/Outlines 2 0 R
+/PageMode /UseNone
+>>
+endobj
+2 0 obj
+<<
+/Type /Outlines
+/Count 18
+/First 9 0 R
+/Last  77 0 R
+>>
+endobj
+3 0 obj
+[/PDF /Text]
+endobj
+4 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+>>
+endobj
+5 0 obj
+<<
+/Type /Pages
+/Count 18
+/Kids [6 0 R
+       10 0 R
+       14 0 R
+       18 0 R
+       22 0 R
+       26 0 R
+       30 0 R
+       34 0 R
+       38 0 R
+       42 0 R
+       46 0 R
+       50 0 R
+       54 0 R
+       58 0 R
+       62 0 R
+       66 0 R
+       70 0 R
+       74 0 R
+       ]
+>>
+endobj
+6 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/MediaBox [0 0   612 792]
+/Rotate 90
+/Resources << /Font << /F1 4 0 R >> /ProcSet 3 0 R >>
+/Contents 7 0 R
+>>
+endobj
+7 0 obj
+<< /Length 8 0 R >>
+stream
+BT
+0 1 -1 0 07 07 Tm
+/F1 9 Tf
+99  Tz
+9 TL
+T* (    5722WDS V5R4M0  060210 RN        IBM ILE RPG             QTEMP/MOB269XP2          IACI5A     10/04/13 10:22:53        Page      1) Tj
+T* () Tj
+T* (     Command  . . . . . . . . . . . . :   CRTBNDRPG) Tj
+T* (       Issued by  . . . . . . . . . . :     EVANS) Tj
+T* (     Program  . . . . . . . . . . . . :   MOB269XP2) Tj
+T* (       Library  . . . . . . . . . . . :     QTEMP) Tj
+T* (     Text 'description' . . . . . . . :   *SRCMBRTXT) Tj
+T* () Tj
+T* (     Source Member  . . . . . . . . . :   MOB269XP2) Tj
+T* (     Source File  . . . . . . . . . . :   QRPGSRC) Tj
+T* (       Library  . . . . . . . . . . . :     CEMOB) Tj
+T* (       CCSID  . . . . . . . . . . . . :     37) Tj
+T* (     Text 'description' . . . . . . . :   Detail Sovereign Claims to Excel) Tj
+T* (     Last Change  . . . . . . . . . . :   12/04/12  09:20:49) Tj
+T* () Tj
+T* (     Generation severity level  . . . :   10) Tj
+T* (     Default activation group . . . . :   *YES) Tj
+T* (     Compiler options . . . . . . . . :   *XREF      *GEN       *NOSECLVL  *SHOWCPY) Tj
+T* (                                          *EXPDDS    *EXT       *NOSHOWSKP *NOSRCSTMT) Tj
+T* (                                          *DEBUGIO   *NOEVENTF) Tj
+T* (     Debugging views  . . . . . . . . :   *STMT) Tj
+T* (     Output . . . . . . . . . . . . . :   *PRINT) Tj
+T* (     Optimization level . . . . . . . :   *NONE) Tj
+T* (     Source listing indentation . . . :   *NONE) Tj
+T* (     Type conversion options  . . . . :   *NONE) Tj
+T* (     Sort sequence  . . . . . . . . . :   *HEX) Tj
+T* (     Language identifier  . . . . . . :   *JOBRUN) Tj
+T* (     Replace program  . . . . . . . . :   *NO) Tj
+T* (     User profile . . . . . . . . . . :   *USER) Tj
+T* (     Authority  . . . . . . . . . . . :   *LIBCRTAUT) Tj
+T* (     Truncate numeric . . . . . . . . :   *YES) Tj
+T* (     Fix numeric  . . . . . . . . . . :   *NONE) Tj
+T* (     Target release . . . . . . . . . :   *CURRENT) Tj
+T* (     Allow null values  . . . . . . . :   *NO) Tj
+T* (     Define condition names . . . . . :   *NONE) Tj
+T* (     Enable performance collection  . :   *PEP) Tj
+T* (     Profiling data . . . . . . . . . :   *NOCOL) Tj
+T* (     Licensed Internal Code options . :) Tj
+T* (     Generate program interface . . . :   *NO) Tj
+T* (     Include directory  . . . . . . . :) Tj
+T* (     Preprocessor options . . . . . . :   *NONE) Tj
+ET
+endstream
+endobj
+8 0 obj
+2469
+endobj
+9 0 obj
+<<
+/Parent 2 0 R
+/Title  (Page 1)
+/Next 00013 0 R
+/Dest [6 0 R /XYZ 0 792 0]
+>>
+endobj
+10 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/MediaBox [0 0   612 792]
+/Rotate 90
+/Resources << /Font << /F1 4 0 R >> /ProcSet 3 0 R >>
+/Contents 11 0 R
+>>
+endobj
+11 0 obj
+<< /Length 12 0 R >>
+stream
+BT
+0 1 -1 0 07 07 Tm
+/F1 9 Tf
+99  Tz
+9 TL
+T* (    5722WDS V5R4M0  060210 RN        IBM ILE RPG             QTEMP/MOB269XP2          IACI5A     10/04/13 10:22:53        Page      2) Tj
+T* () Tj
+T* (   Line   <---------------------- Source Specifications ----------------------------><---- Comments ----> Do  Page  Change Src Seq) Tj
+T* (   Number ....1....+....2....+....3....+....4....+....5....+....6....+....7....+....8....+....9....+...10 Num Line  Date   Id  Number) Tj
+T* () Tj
+T* (                             S o u r c e   L i s t i n g) Tj
+T* () Tj
+T* (        1 F**************************************************************************                               110331     000100) Tj
+T* (        2 F*                                                                                                        110331     000200) Tj
+T* (        3 F*    Sovereign Claims                                                                                    110414     000300) Tj
+T* (        4 F*      \(Detail\)                                                                                          111024     000400) Tj
+T* (        5 F*                                                                                                        110331     000500) Tj
+T* (        6 F*                                                                                                        110331     000600) Tj
+T* (        7 F**************************************************************************                               110331     000700) Tj
+T* () Tj
+T* () Tj
+T* (        8 FSovClm    IP   E             Disk                                                                        111024     000800) Tj
+T* (           *--------------------------------------------------------------------------------------------*) Tj
+T* (           *                               RPG name         External name                               *) Tj
+T* (           * File name. . . . . . . . . :  SOVCLM           CEMOB/SOVCLM                                *) Tj
+T* (           * Record format\(s\) . . . . . :  SOVCLMR          SOVCLMR                                     *) Tj
+T* (           *--------------------------------------------------------------------------------------------*) Tj
+T* (        9 FSovDeny   IS   E             Disk                                                                        120330     000900) Tj
+T* (       10                                                                                                           110331     001000) Tj
+T* (           *--------------------------------------------------------------------------------------------*) Tj
+T* (           *                               RPG name         External name                               *) Tj
+T* (           * File name. . . . . . . . . :  SOVDENY          CEMOB/SOVDENY                               *) Tj
+T* (           * Record format\(s\) . . . . . :  SOVDENYR         SOVDENYR                                    *) Tj
+T* (           *--------------------------------------------------------------------------------------------*) Tj
+T* () Tj
+T* () Tj
+T* (       11 D @M              S              9    DIM\(12\) CTDATA PERRCD\(11\)                                           110402     001100) Tj
+T* (       12                                                                                                           110404     001200) Tj
+T* (       13 D CabDte          S              6  0                                                                     110415     001300) Tj
+T* (       14 D X               S              3  0                                                                     110331     001400) Tj
+T* (       15 D FileNam         S            120                                                                        111024     001500) Tj
+T* (       16                                                                                                           111024     001600) Tj
+T* (       17 D                 DS                                                                                      111024     001700) Tj
+T* (       18 D Split                   1      6S 0                                                                     111024     001800) Tj
+T* (       19 D Year                    1      4                                                                        111024     001900) Tj
+T* (       20 D M                       5      6S 0                                                                     111024     002000) Tj
+T* (       21                                                                                                           111024     002100) Tj
+T* (       22 D                 DS                                                                                      111024     002200) Tj
+T* (       23 D CpPost                  1      8S 0                                                                     111024     002300) Tj
+T* (       24 D Month                   1      6S 0                                                                     111024     002400) Tj
+T* (       25                                                                                                           110331     002500) Tj
+T* (       26 D                 DS                                                                                      110331     002600) Tj
+T* (       27 D Row#                    1      5S 0                                                                     110331     002700) Tj
+T* (       28 D RowA                    1      5                                                                        110331     002800) Tj
+T* (       29                                                                                                           111024     002900) Tj
+T* (       30 D                 DS                                                                                      111024     003000) Tj
+T* (       31 D Work#                   1     11S 2                                                                     111024     003100) Tj
+T* (       32 D WorkA                   1     11                                                                        111024     003200) Tj
+T* (       33                                                                                                           111024     003300) Tj
+T* (       34 D                 DS                                                                                      111024     003400) Tj
+T* (       35 D Work#2                  1      8S 0                                                                     111024     003500) Tj
+T* (       36 D WorkA2                  1      8                                                                        111024     003600) Tj
+T* (       37                                                                                                           110331     003700) Tj
+T* (       38 D Handle          S             50    inz\('*ONLY'\)                                                        110331     003800) Tj
+T* (       39 D SvrAddr         S             30    inz\('172.16.100.10'\)                                                110331     003900) Tj
+ET
+endstream
+endobj
+12 0 obj
+7354
+endobj
+13 0 obj
+<<
+/Parent 2 0 R
+/Title  (Page 2)
+/Prev 0009 0 R
+/Next 00017 0 R
+/Dest [10 0 R /XYZ 0 792 0]
+>>
+endobj
+14 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/MediaBox [0 0   612 792]
+/Rotate 90
+/Resources << /Font << /F1 4 0 R >> /ProcSet 3 0 R >>
+/Contents 15 0 R
+>>
+endobj
+15 0 obj
+<< /Length 16 0 R >>
+stream
+BT
+0 1 -1 0 07 07 Tm
+/F1 9 Tf
+99  Tz
+9 TL
+T* (    5722WDS V5R4M0  060210 RN        IBM ILE RPG             QTEMP/MOB269XP2          IACI5A     10/04/13 10:22:53        Page      3) Tj
+T* () Tj
+T* (   Line   <---------------------- Source Specifications ----------------------------><---- Comments ----> Do  Page  Change Src Seq) Tj
+T* (   Number ....1....+....2....+....3....+....4....+....5....+....6....+....7....+....8....+....9....+...10 Num Line  Date   Id  Number) Tj
+T* (       40 D CcsID           S             10    inz\('*JOB'\)                                                         110331     004000) Tj
+T* (       41 D Cmd             S             10                                                                        110331     004100) Tj
+T* (       42 D Opt             S              1                                                                        110331     004200) Tj
+T* (       43 D Parm1           S            512                                                                        110331     004300) Tj
+T* (       44 D Parm2           S           1024                                                                        110331     004400) Tj
+T* (       45 D Result          S            512                                                                        110331     004500) Tj
+T* (       46 D Edit$           S             75                                                                        110406     004600) Tj
+T* (       47 D DetailInit      S              1                                                                        120330     004700) Tj
+T* (       48 D DenyInit        S              1                                                                        120330     004800) Tj
+T* (       49                                                                                                           120330     004900) Tj
+T* () Tj
+T* () Tj
+T* (       50 ISovClmr       01                                                                                         120330     005000) Tj
+T* (           *--------------------------------------------------------------------------------------------*                     1) Tj
+T* (           * RPG record format  . . . . :  SOVCLMR                                                      *                     1) Tj
+T* (           * External format  . . . . . :  SOVCLMR : CEMOB/SOVCLM                                       *                     1) Tj
+T* (           *--------------------------------------------------------------------------------------------*                     1) Tj
+T* (       51=I                             A    1   10  CPAGNT                          Agent Number ID                          1000001) Tj
+T* (       52=I                             A   11   30  CPCERT                          Certificate Number                       1000002) Tj
+T* (       53=I                             S   31   38 0CAEFFT                          Effective Date                           1000003) Tj
+T* (       54=I                             A   39   48  CPCMPT                          Component Code                           1000004) Tj
+T* (       55=I                             A   49   50  CABST                           State                                    1000005) Tj
+T* (       56=I                             P   51   54 0CPCLM#                          Claim Number                             1000006) Tj
+T* (       57=I                             A   55   79  IMLNAM                          Patron Last Name                         1000007) Tj
+T* (       58=I                             A   80  104  IMFNAM                          Patron First Name                        1000008) Tj
+T* (       59=I                             S  105  112 0CLINCR                          Incurred Date                            1000009) Tj
+T* (       60=I                             S  113  120 0CLRPTD                          Reported Date                            1000010) Tj
+T* (       61=I                             S  121  128 0CPFROM                          From Date                                1000011) Tj
+T* (       62=I                             S  129  136 0CPTHRU                          Thru Date                                1000012) Tj
+T* (       63=I                             S  137  144 0CPPOST                          Posted Date                              1000013) Tj
+T* (       64=I                             P  145  150 2CPAMNT                          Claim Amount                             1000014) Tj
+T* (       65=I                             A  151  151  CAOORC                          OPEN/CLOSED                              1000015) Tj
+T* (       66=I                             P  152  154 0CAAREA                          BRANCH AREA                              1000016) Tj
+T* (       67=I                             P  155  157 0CALOC                           BRANCH LOCATION                          1000017) Tj
+T* (       68=I                             P  158  160 0CABBRH                          Branch                                   1000018) Tj
+T* (       69 ISovDenyR      02                                                                                         120330     005100) Tj
+T* (       70                                                                                                           110331     005200) Tj
+T* (           *--------------------------------------------------------------------------------------------*                     2) Tj
+T* (           * RPG record format  . . . . :  SOVDENYR                                                     *                     2) Tj
+T* (           * External format  . . . . . :  SOVDENYR : CEMOB/SOVDENY                                     *                     2) Tj
+T* (           * Format text  . . . . . . . :  BANK DENIED CLAIMS                                           *                     2) Tj
+T* (           *--------------------------------------------------------------------------------------------*                     2) Tj
+T* (       71=I                             P    1    3 0CAAREA                          BRANCH AREA                              2000001) Tj
+T* (       72=I                             P    4    6 0CALOC                           BRANCH LOCATION                          2000002) Tj
+T* (       73=I                             P    7    9 0CABBRH                          Branch                                   2000003) Tj
+T* (       74=I                             A   10   19  CLAGNT                          Agent Number ID                          2000004) Tj
+T* (       75=I                             P   20   23 0CLCLM#                          Claim Number                             2000005) Tj
+T* (       76=I                             A   24   43  CLCERT                          Certificate Number                       2000006) Tj
+T* (       77=I                             A   44   73  CLMANT                          CLAIMANT                                 2000007) Tj
+T* (       78=I                             A   74   78  CLTYPE                          CLAIM TYPE                               2000008) Tj
+T* (       79=I                             S   79   86 0CLINCR                          Incurred Date                            2000009) Tj
+T* (       80=I                             S   87   94 0CLCLOS                          Closed Date                              2000010) Tj
+T* (       81=I                             A   95  144  CPDESC                          Disposition Description                  2000011) Tj
+T* () Tj
+T* () Tj
+T* (       82 C     *Entry        Plist                                                                                 111024     005300) Tj
+ET
+endstream
+endobj
+16 0 obj
+7911
+endobj
+17 0 obj
+<<
+/Parent 2 0 R
+/Title  (Page 3)
+/Prev 00013 0 R
+/Next 00021 0 R
+/Dest [14 0 R /XYZ 0 792 0]
+>>
+endobj
+18 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/MediaBox [0 0   612 792]
+/Rotate 90
+/Resources << /Font << /F1 4 0 R >> /ProcSet 3 0 R >>
+/Contents 19 0 R
+>>
+endobj
+19 0 obj
+<< /Length 20 0 R >>
+stream
+BT
+0 1 -1 0 07 07 Tm
+/F1 9 Tf
+99  Tz
+9 TL
+T* (    5722WDS V5R4M0  060210 RN        IBM ILE RPG             QTEMP/MOB269XP2          IACI5A     10/04/13 10:22:53        Page      4) Tj
+T* () Tj
+T* (   Line   <---------------------- Source Specifications ----------------------------><---- Comments ----> Do  Page  Change Src Seq) Tj
+T* (   Number ....1....+....2....+....3....+....4....+....5....+....6....+....7....+....8....+....9....+...10 Num Line  Date   Id  Number) Tj
+T* (       83 C     Split         Parm                    CabDte                                                        111024     005400) Tj
+T* (       84 C                                                                                                         120330     005500) Tj
+T* (       85 C     *IN01         CasEq     '1'           Detail                                                        120330     005600) Tj
+T* (       86 C     *IN02         CasEq     '1'           Deny                                                          120330     005700) Tj
+T* (       87 C                   EndCs                                                                                 120330     005800) Tj
+T* (       88                                                                                                           111024     005900) Tj
+T* (       89 CLR                 ExSr      Save                                                                        110331     006000) Tj
+T* (       90 CLR                 Call      'LNCCLOSE'                                                                  110331     006100) Tj
+T* (       91 CLR                 Parm                    Handle                                                        110331     006200) Tj
+T* (       92                                                                                                           110331     006300) Tj
+T* (       93 C     *InzSr        BegSr                                                                                 110331     006400) Tj
+T* (       94 C                   Eval      FileNam = '\\\\IACPDCSRV\\Account\\Sovereign DCC+                               111024     006500) Tj
+T* (       95 C                                \\CLP files\\Sovereign Claims\\' +                                          111024     006600) Tj
+T* (       96 C                                %Trim\(@M\(M\)\) + ' ' + Year + '.xls'                                       111024     006700) Tj
+T* (       97                                                                                                           111024     006800) Tj
+T* (       98 C                   Call      'LNCOPEN'                                                                   110331     006900) Tj
+T* (       99 C                   Parm                    Handle                                                        110331     007000) Tj
+T* (      100 C                   Parm                    SvrAddr                                                       110331     007100) Tj
+T* (      101 C                   Parm                    CcsID                                                         110331     007200) Tj
+T* (      102                                                                                                           110331     007300) Tj
+T* (      103 C                   Eval      Cmd      = 'EXCELOPEN'                                                      110331     007400) Tj
+T* (      104 C                   Eval      Opt      = *Blanks                                                          110331     007500) Tj
+T* (      105 C                   Eval      Parm1    = *Blanks                                                          110331     007600) Tj
+T* (      106 C                   Eval      Parm2    = *Blanks                                                          110331     007700) Tj
+T* (      107 C                   Exsr      Launcher                                                                    110331     007800) Tj
+T* (      108                                                                                                           110331     007900) Tj
+T* (      109 C                   Eval      Cmd      = 'EXCELHIDE'                                                      110331     008000) Tj
+T* (      110 C                   Exsr      Launcher                                                                    110331     008100) Tj
+T* (      111                                                                                                           110331     008200) Tj
+T* (      112 C                   Eval      Cmd = 'XLOPENFILE'                                                          110331     008300) Tj
+T* (      113 C                   Eval      Parm1 = FileNam                                                             111024     008400) Tj
+T* (      114 C                   Eval      Parm2 = *Blanks                                                             110331     008500) Tj
+T* (      115 C                   ExSr      Launcher                                                                    110331     008600) Tj
+T* (      116                                                                                                           110331     008700) Tj
+T* (      117 C                   Eval      Edit$ = '_\($* #,##0.00_\);_\($* \(#,##0.00\); +                                 110406     008800) Tj
+T* (      118 C                                _\($* "-"??_\);_\(@_\)'                                                      110407     008900) Tj
+T* (      119                                                                                                           110331     009000) Tj
+T* (      120 C                   EndSr                                                                                 110331     009100) Tj
+T* (      121                                                                                                           120330     009200) Tj
+ET
+endstream
+endobj
+20 0 obj
+6084
+endobj
+21 0 obj
+<<
+/Parent 2 0 R
+/Title  (Page 4)
+/Prev 00017 0 R
+/Next 00025 0 R
+/Dest [18 0 R /XYZ 0 792 0]
+>>
+endobj
+22 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/MediaBox [0 0   612 792]
+/Rotate 90
+/Resources << /Font << /F1 4 0 R >> /ProcSet 3 0 R >>
+/Contents 23 0 R
+>>
+endobj
+23 0 obj
+<< /Length 24 0 R >>
+stream
+BT
+0 1 -1 0 07 07 Tm
+/F1 9 Tf
+99  Tz
+9 TL
+T* (    5722WDS V5R4M0  060210 RN        IBM ILE RPG             QTEMP/MOB269XP2          IACI5A     10/04/13 10:22:53        Page      5) Tj
+T* () Tj
+T* (   Line   <---------------------- Source Specifications ----------------------------><---- Comments ----> Do  Page  Change Src Seq) Tj
+T* (   Number ....1....+....2....+....3....+....4....+....5....+....6....+....7....+....8....+....9....+...10 Num Line  Date   Id  Number) Tj
+T* (      122 C     Detail        BegSr                                                                                 120330     009400) Tj
+T* (      123 C                   If        DetailInit = ' '                                                  B01       120330     009500) Tj
+T* (      124 C                   Move      'Y'           DetailInit                                           01       120330     009600) Tj
+T* (      125 C                   Eval      Cmd = 'XLGOTOSH'                                                   01       120330     009700) Tj
+T* (      126 C                   Eval      Parm1 = 'Detail'                                                   01       120330     009800) Tj
+T* (      127 C                   Eval      Parm2 = *Blanks                                                    01       120330     009900) Tj
+T* (      128 C                   ExSr      Launcher                                                           01       120330     010000) Tj
+T* (      129 C                   Z-Add     4             Row#                                                 01       120330     010100) Tj
+T* (      130 C                   EndIf                                                                       E01       120330     010200) Tj
+T* (      131                                                                                                           120330     010300) Tj
+T* (      132 C                   Eval      Cmd = 'XLGOTOCELL'                                                          120330     010400) Tj
+T* (      133 C                   Eval      Parm1 = '$A' + '$'+ RowA                                                    120330     010500) Tj
+T* (      134 C                   Move      *Blanks       Parm2                                                         120330     010600) Tj
+T* (      135 C                   ExSr      Launcher                                                                    120330     010700) Tj
+T* (      136                                                                                                           120330     010800) Tj
+T* (      137 C                   Eval      Cmd = 'XLSETLINE'                                                           120330     010900) Tj
+T* (      138 C                   Eval      Parm1 = *Blanks                                                             120330     011000) Tj
+T* (      139 C                   Eval      Parm2 = *Blanks                                                             120330     011100) Tj
+T* (      140                                                                                                           120330     011200) Tj
+T* (      141 C                   If        Month = Split                                                     B01       120330     011300) Tj
+T* (      142                                                                                                           120330     011400) Tj
+T* (      143 C                   MoveL\(P\)  CpAgnt        Parm1                                                01       120330     011500) Tj
+T* (      144 C                   MoveL\(P\)  '%SEP%'       Parm2                                                01       120330     011600) Tj
+T* (      145                                                                                                           120330     011700) Tj
+T* (      146 C                   Cat       '%SEP%':0     Parm1                                                01       120330     011800) Tj
+T* (      147 C                   Cat       CpCert:0      Parm1                                                01       120330     011900) Tj
+T* (      148 C                   Cat       '%SEP%':0     Parm2                                                01       120330     012000) Tj
+T* (      149                                                                                                           120330     012100) Tj
+T* (      150 C                   Cat       '%SEP%':0     Parm1                                                01       120330     012200) Tj
+T* (      151 C                   Z-Add     CabBrh        Work#2                                               01       120330     012300) Tj
+T* (      152 C                   Cat       WorkA2:0      Parm1                                                01       120330     012400) Tj
+T* (      153 C                   Cat       'NUMFMT\(0\)':0 Parm2                                                01       120330     012500) Tj
+T* (      154 C                   Cat       '%SEP%':0     Parm2                                                01       120330     012600) Tj
+T* (      155                                                                                                           120330     012700) Tj
+T* (      156 C                   Cat       '%SEP%':0     Parm1                                                01       120330     012800) Tj
+T* (      157 C                   Cat       CpCmpt:0      Parm1                                                01       120330     012900) Tj
+T* (      158 C                   Cat       '%SEP%':0     Parm2                                                01       120330     013000) Tj
+T* (      159                                                                                                           120330     013100) Tj
+T* (      160 C                   Cat       '%SEP%':0     Parm1                                                01       120330     013200) Tj
+T* (      161 C                   Z-Add     CaEfft        Work#2                                               01       120330     013300) Tj
+T* (      162 C                   Cat       WorkA2:0      Parm1                                                01       120330     013400) Tj
+T* (      163 C                   Cat       'NUMFMT\(0\)':0 Parm2                                                01       120330     013500) Tj
+T* (      164 C                   Cat       '%SEP%':0     Parm2                                                01       120330     013600) Tj
+T* (      165                                                                                                           120330     013700) Tj
+T* (      166 C                   Cat       '%SEP%':0     Parm1                                                01       120330     013800) Tj
+T* (      167 C                   Z-Add     CpClm#        Work#2                                               01       120330     013900) Tj
+T* (      168 C                   Cat       WorkA2:0      Parm1                                                01       120330     014000) Tj
+T* (      169 C                   Cat       'NUMFMT\(0\)':0 Parm2                                                01       120330     014100) Tj
+T* (      170 C                   Cat       '%SEP%':0     Parm2                                                01       120330     014200) Tj
+T* (      171                                                                                                           120330     014300) Tj
+T* (      172 C                   Cat       '%SEP%':0     Parm1                                                01       120330     014400) Tj
+T* (      173 C                   Z-Add     ClIncr        Work#2                                               01       120330     014500) Tj
+T* (      174 C                   Cat       WorkA2:0      Parm1                                                01       120330     014600) Tj
+T* (      175 C                   Cat       'NUMFMT\(0\)':0 Parm2                                                01       120330     014700) Tj
+T* (      176 C                   Cat       '%SEP%':0     Parm2                                                01       120330     014800) Tj
+T* (      177                                                                                                           120330     014900) Tj
+ET
+endstream
+endobj
+24 0 obj
+8507
+endobj
+25 0 obj
+<<
+/Parent 2 0 R
+/Title  (Page 5)
+/Prev 00021 0 R
+/Next 00029 0 R
+/Dest [22 0 R /XYZ 0 792 0]
+>>
+endobj
+26 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/MediaBox [0 0   612 792]
+/Rotate 90
+/Resources << /Font << /F1 4 0 R >> /ProcSet 3 0 R >>
+/Contents 27 0 R
+>>
+endobj
+27 0 obj
+<< /Length 28 0 R >>
+stream
+BT
+0 1 -1 0 07 07 Tm
+/F1 9 Tf
+99  Tz
+9 TL
+T* (    5722WDS V5R4M0  060210 RN        IBM ILE RPG             QTEMP/MOB269XP2          IACI5A     10/04/13 10:22:53        Page      6) Tj
+T* () Tj
+T* (   Line   <---------------------- Source Specifications ----------------------------><---- Comments ----> Do  Page  Change Src Seq) Tj
+T* (   Number ....1....+....2....+....3....+....4....+....5....+....6....+....7....+....8....+....9....+...10 Num Line  Date   Id  Number) Tj
+T* (      178 C                   Cat       '%SEP%':0     Parm1                                                01       120330     015000) Tj
+T* (      179 C                   Z-Add     ClRptd        Work#2                                               01       120330     015100) Tj
+T* (      180 C                   Cat       WorkA2:0      Parm1                                                01       120330     015200) Tj
+T* (      181 C                   Cat       'NUMFMT\(0\)':0 Parm2                                                01       120330     015300) Tj
+T* (      182 C                   Cat       '%SEP%':0     Parm2                                                01       120330     015400) Tj
+T* (      183                                                                                                           120330     015500) Tj
+T* (      184 C                   Cat       '%SEP%':0     Parm1                                                01       120330     015600) Tj
+T* (      185 C                   Z-Add     CpFrom        Work#2                                               01       120330     015700) Tj
+T* (      186 C                   Cat       WorkA2:0      Parm1                                                01       120330     015800) Tj
+T* (      187 C                   Cat       'NUMFMT\(0\)':0 Parm2                                                01       120330     015900) Tj
+T* (      188 C                   Cat       '%SEP%':0     Parm2                                                01       120330     016000) Tj
+T* (      189                                                                                                           120330     016100) Tj
+T* (      190 C                   Cat       '%SEP%':0     Parm1                                                01       120330     016200) Tj
+T* (      191 C                   Z-Add     CpThru        Work#2                                               01       120330     016300) Tj
+T* (      192 C                   Cat       WorkA2:0      Parm1                                                01       120330     016400) Tj
+T* (      193 C                   Cat       'NUMFMT\(0\)':0 Parm2                                                01       120330     016500) Tj
+T* (      194 C                   Cat       '%SEP%':0     Parm2                                                01       120330     016600) Tj
+T* (      195                                                                                                           120330     016700) Tj
+T* (      196 C                   Cat       '%SEP%':0     Parm1                                                01       120330     016800) Tj
+T* (      197 C                   Z-Add     CpPost        Work#2                                               01       120330     016900) Tj
+T* (      198 C                   Cat       WorkA2:0      Parm1                                                01       120330     017000) Tj
+T* (      199 C                   Cat       'NUMFMT\(0\)':0 Parm2                                                01       120330     017100) Tj
+T* (      200 C                   Cat       '%SEP%':0     Parm2                                                01       120330     017200) Tj
+T* (      201                                                                                                           120330     017300) Tj
+T* (      202 C                   Cat       '%SEP%':0     Parm1                                                01       120330     017400) Tj
+T* (      203 C                   Z-Add     CpAmnt        Work#                                                01       120330     017500) Tj
+T* (      204 C                   Cat       WorkA:0       Parm1                                                01       120330     017600) Tj
+T* (      205 C                   Cat       'NUMFMT\(2\)':0 Parm2                                                01       120330     017700) Tj
+T* (      206 C                   Cat       '%SEP%':0     Parm2                                                01       120330     017800) Tj
+T* (      207                                                                                                           120330     017900) Tj
+T* (      208 C                   Cat       '%SEP%':0     Parm1                                                01       120330     018000) Tj
+T* (      209 C                   Cat       ImLNam:0      Parm1                                                01       120330     018100) Tj
+T* (      210 C                   Cat       ',':0         Parm1                                                01       120330     018200) Tj
+T* (      211 C                   Cat       ImFNam:1      Parm1                                                01       120330     018300) Tj
+T* (      212 C                   Cat       '%SEP%':0     Parm2                                                01       120330     018400) Tj
+T* (      213                                                                                                           120330     018500) Tj
+T* (      214 C                   ExSr      Launcher                                                           01       120330     018600) Tj
+T* (      215                                                                                                           120330     018700) Tj
+T* (      216  * Edit Payment                                                                                           120330     018800) Tj
+T* (      217 C                   Eval      Cmd = 'XLGOTOCELL'                                                 01       120330     018900) Tj
+T* (      218 C                   Eval      Parm1 = '$L' + '$'+ RowA                                           01       120330     019000) Tj
+T* (      219 C                   Move      *Blanks       Parm2                                                01       120330     019100) Tj
+T* (      220 C                   ExSr      Launcher                                                           01       120330     019200) Tj
+T* (      221 C                   Eval      Cmd = 'XLSETPROP'                                                  01       120330     019300) Tj
+T* (      222 C                   Eval      Parm1 = 'ActiveCell.NumberFormat'                                  01       120330     019400) Tj
+T* (      223 C                   Eval      Parm2 = Edit$                                                      01       120330     019500) Tj
+T* (      224 C                   ExSr      Launcher                                                           01       120330     019600) Tj
+T* (      225                                                                                                           120330     019700) Tj
+T* (      226 C                   Add       1             Row#                                                 01       120330     019800) Tj
+T* (      227                                                                                                           120330     019900) Tj
+T* (      228 C                   EndIf                                                                       E01       120330     020000) Tj
+T* (      229                                                                                                           120330     020100) Tj
+T* (      230 C                   EndSr                                                                                 120330     020200) Tj
+T* (      231                                                                                                           120330     020300) Tj
+ET
+endstream
+endobj
+28 0 obj
+8219
+endobj
+29 0 obj
+<<
+/Parent 2 0 R
+/Title  (Page 6)
+/Prev 00025 0 R
+/Next 00033 0 R
+/Dest [26 0 R /XYZ 0 792 0]
+>>
+endobj
+30 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/MediaBox [0 0   612 792]
+/Rotate 90
+/Resources << /Font << /F1 4 0 R >> /ProcSet 3 0 R >>
+/Contents 31 0 R
+>>
+endobj
+31 0 obj
+<< /Length 32 0 R >>
+stream
+BT
+0 1 -1 0 07 07 Tm
+/F1 9 Tf
+99  Tz
+9 TL
+T* (    5722WDS V5R4M0  060210 RN        IBM ILE RPG             QTEMP/MOB269XP2          IACI5A     10/04/13 10:22:53        Page      7) Tj
+T* () Tj
+T* (   Line   <---------------------- Source Specifications ----------------------------><---- Comments ----> Do  Page  Change Src Seq) Tj
+T* (   Number ....1....+....2....+....3....+....4....+....5....+....6....+....7....+....8....+....9....+...10 Num Line  Date   Id  Number) Tj
+T* (      232 C     Deny          BegSr                                                                                 120330     020500) Tj
+T* (      233 C                   If        DenyInit = ' '                                                    B01       120330     020600) Tj
+T* (      234 C                   Move      'Y'           DenyInit                                             01       120330     020700) Tj
+T* (      235 C                   Eval      Cmd = 'XLGOTOSH'                                                   01       120330     020800) Tj
+T* (      236 C                   Eval      Parm1 = 'Denied'                                                   01       120330     020900) Tj
+T* (      237 C                   Eval      Parm2 = *Blanks                                                    01       120330     021000) Tj
+T* (      238 C                   ExSr      Launcher                                                           01       120330     021100) Tj
+T* (      239 C                   Z-Add     4             Row#                                                 01       120330     021200) Tj
+T* (      240 C                   EndIf                                                                       E01       120330     021300) Tj
+T* (      241                                                                                                           120330     021400) Tj
+T* (      242 C                   Eval      Cmd = 'XLGOTOCELL'                                                          120330     021500) Tj
+T* (      243 C                   Eval      Parm1 = '$A' + '$'+ RowA                                                    120330     021600) Tj
+T* (      244 C                   Move      *Blanks       Parm2                                                         120330     021700) Tj
+T* (      245 C                   ExSr      Launcher                                                                    120330     021800) Tj
+T* (      246                                                                                                           120330     021900) Tj
+T* (      247 C                   Eval      Cmd = 'XLSETLINE'                                                           120330     022000) Tj
+T* (      248 C                   Eval      Parm1 = *Blanks                                                             120330     022100) Tj
+T* (      249 C                   Eval      Parm2 = *Blanks                                                             120330     022200) Tj
+T* (      250                                                                                                           120330     022300) Tj
+T* (      251 C                   MoveL\(P\)  ClAgnt        Parm1                                                         120330     022400) Tj
+T* (      252 C                   MoveL\(P\)  '%SEP%'       Parm2                                                         120330     022500) Tj
+T* (      253                                                                                                           120330     022600) Tj
+T* (      254 C                   Cat       '%SEP%':0     Parm1                                                         120330     022700) Tj
+T* (      255 C                   Cat       ClCert:0      Parm1                                                         120330     022800) Tj
+T* (      256 C                   Cat       '%SEP%':0     Parm2                                                         120330     022900) Tj
+T* (      257                                                                                                           120330     023000) Tj
+T* (      258 C                   Cat       '%SEP%':0     Parm1                                                         120330     023100) Tj
+T* (      259 C                   Cat       Clmant:0      Parm1                                                         120330     023200) Tj
+T* (      260 C                   Cat       '%SEP%':0     Parm2                                                         120330     023300) Tj
+T* (      261                                                                                                           120330     023400) Tj
+T* (      262 C                   Cat       '%SEP%':0     Parm1                                                         120330     023500) Tj
+T* (      263 C                   Z-Add     CabBrh        Work#2                                                        120330     023600) Tj
+T* (      264 C                   Cat       WorkA2:0      Parm1                                                         120330     023700) Tj
+T* (      265 C                   Cat       'NUMFMT\(0\)':0 Parm2                                                         120330     023800) Tj
+T* (      266 C                   Cat       '%SEP%':0     Parm2                                                         120330     023900) Tj
+T* (      267                                                                                                           120330     024000) Tj
+T* (      268 C                   Cat       '%SEP%':0     Parm1                                                         120330     024100) Tj
+T* (      269 C                   Z-Add     ClClm#        Work#2                                                        120330     024200) Tj
+T* (      270 C                   Cat       WorkA2:0      Parm1                                                         120330     024300) Tj
+T* (      271 C                   Cat       'NUMFMT\(0\)':0 Parm2                                                         120330     024400) Tj
+T* (      272 C                   Cat       '%SEP%':0     Parm2                                                         120330     024500) Tj
+T* (      273                                                                                                           120330     024600) Tj
+T* (      274 C                   Cat       '%SEP%':0     Parm1                                                         120330     024700) Tj
+T* (      275 C                   Cat       ClType:0      Parm1                                                         120330     024800) Tj
+T* (      276 C                   Cat       '%SEP%':0     Parm2                                                         120330     024900) Tj
+T* (      277                                                                                                           120330     025000) Tj
+T* (      278 C                   Cat       '%SEP%':0     Parm1                                                         120330     025100) Tj
+T* (      279 C                   Z-Add     ClIncr        Work#2                                                        120330     025200) Tj
+T* (      280 C                   Cat       WorkA2:0      Parm1                                                         120330     025300) Tj
+T* (      281 C                   Cat       'NUMFMT\(0\)':0 Parm2                                                         120330     025400) Tj
+T* (      282 C                   Cat       '%SEP%':0     Parm2                                                         120330     025500) Tj
+T* (      283                                                                                                           120330     025600) Tj
+T* (      284 C                   Cat       '%SEP%':0     Parm1                                                         120330     025700) Tj
+T* (      285 C                   Z-Add     ClClos        Work#2                                                        120330     025800) Tj
+T* (      286 C                   Cat       WorkA2:0      Parm1                                                         120330     025900) Tj
+T* (      287 C                   Cat       'NUMFMT\(0\)':0 Parm2                                                         120330     026000) Tj
+ET
+endstream
+endobj
+32 0 obj
+8507
+endobj
+33 0 obj
+<<
+/Parent 2 0 R
+/Title  (Page 7)
+/Prev 00029 0 R
+/Next 00037 0 R
+/Dest [30 0 R /XYZ 0 792 0]
+>>
+endobj
+34 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/MediaBox [0 0   612 792]
+/Rotate 90
+/Resources << /Font << /F1 4 0 R >> /ProcSet 3 0 R >>
+/Contents 35 0 R
+>>
+endobj
+35 0 obj
+<< /Length 36 0 R >>
+stream
+BT
+0 1 -1 0 07 07 Tm
+/F1 9 Tf
+99  Tz
+9 TL
+T* (    5722WDS V5R4M0  060210 RN        IBM ILE RPG             QTEMP/MOB269XP2          IACI5A     10/04/13 10:22:53        Page      8) Tj
+T* () Tj
+T* (   Line   <---------------------- Source Specifications ----------------------------><---- Comments ----> Do  Page  Change Src Seq) Tj
+T* (   Number ....1....+....2....+....3....+....4....+....5....+....6....+....7....+....8....+....9....+...10 Num Line  Date   Id  Number) Tj
+T* (      288 C                   Cat       '%SEP%':0     Parm2                                                         120330     026100) Tj
+T* (      289                                                                                                           120330     026200) Tj
+T* (      290 C                   Cat       '%SEP%':0     Parm1                                                         120330     026300) Tj
+T* (      291 C                   Cat       CpDesc:0      Parm1                                                         120330     026400) Tj
+T* (      292 C                   Cat       '%SEP%':0     Parm2                                                         120330     026500) Tj
+T* (      293                                                                                                           120330     026600) Tj
+T* (      294 C                   ExSr      Launcher                                                                    120330     026700) Tj
+T* (      295                                                                                                           120330     026800) Tj
+T* (      296 C                   Add       1             Row#                                                          120330     026900) Tj
+T* (      297                                                                                                           120330     027000) Tj
+T* (      298 C                   EndSr                                                                                 120330     027100) Tj
+T* (      299                                                                                                           110331     027200) Tj
+ET
+endstream
+endobj
+36 0 obj
+2203
+endobj
+37 0 obj
+<<
+/Parent 2 0 R
+/Title  (Page 8)
+/Prev 00033 0 R
+/Next 00041 0 R
+/Dest [34 0 R /XYZ 0 792 0]
+>>
+endobj
+38 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/MediaBox [0 0   612 792]
+/Rotate 90
+/Resources << /Font << /F1 4 0 R >> /ProcSet 3 0 R >>
+/Contents 39 0 R
+>>
+endobj
+39 0 obj
+<< /Length 40 0 R >>
+stream
+BT
+0 1 -1 0 07 07 Tm
+/F1 9 Tf
+99  Tz
+9 TL
+T* (    5722WDS V5R4M0  060210 RN        IBM ILE RPG             QTEMP/MOB269XP2          IACI5A     10/04/13 10:22:53        Page      9) Tj
+T* () Tj
+T* (   Line   <---------------------- Source Specifications ----------------------------><---- Comments ----> Do  Page  Change Src Seq) Tj
+T* (   Number ....1....+....2....+....3....+....4....+....5....+....6....+....7....+....8....+....9....+...10 Num Line  Date   Id  Number) Tj
+T* (      300 C     Launcher      BegSr                                                                                 110331     027400) Tj
+T* (      301 C                   Call      'LNCCMD'                                                                    121204     027500) Tj
+T* (      302 C                   Parm                    Handle                                                        110331     027600) Tj
+T* (      303 C                   Parm                    Cmd                                                           110331     027700) Tj
+T* (      304 C                   Parm                    Opt                                                           110331     027800) Tj
+T* (      305 C                   Parm                    Parm1                                                         110331     027900) Tj
+T* (      306 C                   Parm                    Parm2                                                         110331     028000) Tj
+T* (      307 C                   Parm      *Blanks       Result                                                        110331     028100) Tj
+T* (      308 C                   EndSr                                                                                 110331     028200) Tj
+T* (      309 C                                                                                                         110331     028300) Tj
+ET
+endstream
+endobj
+40 0 obj
+1917
+endobj
+41 0 obj
+<<
+/Parent 2 0 R
+/Title  (Page 9)
+/Prev 00037 0 R
+/Next 00045 0 R
+/Dest [38 0 R /XYZ 0 792 0]
+>>
+endobj
+42 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/MediaBox [0 0   612 792]
+/Rotate 90
+/Resources << /Font << /F1 4 0 R >> /ProcSet 3 0 R >>
+/Contents 43 0 R
+>>
+endobj
+43 0 obj
+<< /Length 44 0 R >>
+stream
+BT
+0 1 -1 0 07 07 Tm
+/F1 9 Tf
+99  Tz
+9 TL
+T* (    5722WDS V5R4M0  060210 RN        IBM ILE RPG             QTEMP/MOB269XP2          IACI5A     10/04/13 10:22:53        Page     10) Tj
+T* () Tj
+T* (   Line   <---------------------- Source Specifications ----------------------------><---- Comments ----> Do  Page  Change Src Seq) Tj
+T* (   Number ....1....+....2....+....3....+....4....+....5....+....6....+....7....+....8....+....9....+...10 Num Line  Date   Id  Number) Tj
+T* (      310 C     Save          BegSr                                                                                 120330     028500) Tj
+T* (      311 C                   Eval      Cmd = 'XLGOTOCELL'                                                          111024     028600) Tj
+T* (      312 C                   Eval      Parm1 = '$A$4'                                                              111024     028700) Tj
+T* (      313 C                   Move      *Blanks       Parm2                                                         111024     028800) Tj
+T* (      314 C                   ExSr      Launcher                                                                    111024     028900) Tj
+T* (      315                                                                                                           120330     029000) Tj
+T* (      316 C                   Eval      Cmd = 'XLGOTOSH'                                                            120330     029100) Tj
+T* (      317 C                   Eval      Parm1 = 'Detail'                                                            120330     029200) Tj
+T* (      318 C                   Eval      Parm2 = *Blanks                                                             120330     029300) Tj
+T* (      319 C                   ExSr      Launcher                                                                    120330     029400) Tj
+T* (      320                                                                                                           120330     029500) Tj
+T* (      321 C                   Eval      Cmd = 'XLGOTOCELL'                                                          120330     029600) Tj
+T* (      322 C                   Eval      Parm1 = '$A$4'                                                              120330     029700) Tj
+T* (      323 C                   Move      *Blanks       Parm2                                                         120330     029800) Tj
+T* (      324 C                   ExSr      Launcher                                                                    120330     029900) Tj
+T* (      325                                                                                                           120330     030000) Tj
+T* (      326 C                   Eval      Cmd      = 'XLSAVEAS'                                                       111024     030100) Tj
+T* (      327 C                   Eval      Parm1   = *Blanks                                                           111024     030200) Tj
+T* (      328 C                   Eval      Parm2   = 'Replace'                                                         111024     030300) Tj
+T* (      329 C                   Exsr      Launcher                                                                    111024     030400) Tj
+T* (      330                                                                                                           120330     030500) Tj
+T* (      331 C                   EndSr                                                                                 110331     030600) Tj
+T* (      332 C                                                                                                         110402     030700) Tj
+T* (      333                                                                                                           110405     030800) Tj
+T* () Tj
+T* (          * * * * *   E N D   O F   S O U R C E   * * * * *) Tj
+ET
+endstream
+endobj
+44 0 obj
+3998
+endobj
+45 0 obj
+<<
+/Parent 2 0 R
+/Title  (Page 10)
+/Prev 00041 0 R
+/Next 00049 0 R
+/Dest [42 0 R /XYZ 0 792 0]
+>>
+endobj
+46 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/MediaBox [0 0   612 792]
+/Rotate 90
+/Resources << /Font << /F1 4 0 R >> /ProcSet 3 0 R >>
+/Contents 47 0 R
+>>
+endobj
+47 0 obj
+<< /Length 48 0 R >>
+stream
+BT
+0 1 -1 0 07 07 Tm
+/F1 9 Tf
+99  Tz
+9 TL
+T* (    5722WDS V5R4M0  060210 RN        IBM ILE RPG             QTEMP/MOB269XP2          IACI5A     10/04/13 10:22:53        Page     11) Tj
+T* () Tj
+T* (             A d d i t i o n a l   D i a g n o s t i c   M e s s a g e s) Tj
+T* () Tj
+T* (    Msg id  Sv Number Seq     Message text) Tj
+T* (   *RNF7086 00      8 000800  RPG handles blocking for file SOVCLM. INFDS is updated only) Tj
+T* (                              when blocks of data are transferred.) Tj
+T* (   *RNF7086 00      9 000900  RPG handles blocking for file SOVDENY. INFDS is updated) Tj
+T* (                              only when blocks of data are transferred.) Tj
+T* () Tj
+T* (    * * * * *   E N D   O F   A D D I T I O N A L   D I A G N O S T I C   M E S S A G E S   * * * * *) Tj
+ET
+endstream
+endobj
+48 0 obj
+820
+endobj
+49 0 obj
+<<
+/Parent 2 0 R
+/Title  (Page 11)
+/Prev 00045 0 R
+/Next 00053 0 R
+/Dest [46 0 R /XYZ 0 792 0]
+>>
+endobj
+50 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/MediaBox [0 0   612 792]
+/Rotate 90
+/Resources << /Font << /F1 4 0 R >> /ProcSet 3 0 R >>
+/Contents 51 0 R
+>>
+endobj
+51 0 obj
+<< /Length 52 0 R >>
+stream
+BT
+0 1 -1 0 07 07 Tm
+/F1 9 Tf
+99  Tz
+9 TL
+T* (    5722WDS V5R4M0  060210 RN        IBM ILE RPG             QTEMP/MOB269XP2          IACI5A     10/04/13 10:22:53        Page     12) Tj
+T* () Tj
+T* (   Line   <---------------------- Data Records -------------------------------------------------------------->      Change Src Seq) Tj
+T* (   Number ....+....1....+....2....+....3....+....4....+....5....+....6....+....7....+....8....+....9....+...10      Date   Id  Number) Tj
+T* (                          C o m p i l e   T i m e   D a t a) Tj
+T* () Tj
+T* (      334 **                                                                                                        110402     030900) Tj
+T* (           *--------------------------------------------------------------------*) Tj
+T* (           * Array . . . : @M                                                   *) Tj
+T* (           *--------------------------------------------------------------------*) Tj
+T* (      335 January  February March    April    May      June     July     August   SeptemberOctober  November        110402     031000) Tj
+T* (      336 December                                                                                                  110402     031100) Tj
+T* () Tj
+T* (       * * * * *   E N D   O F   C O M P I L E   T I M E   D A T A   * * * * *) Tj
+ET
+endstream
+endobj
+52 0 obj
+1366
+endobj
+53 0 obj
+<<
+/Parent 2 0 R
+/Title  (Page 12)
+/Prev 00049 0 R
+/Next 00057 0 R
+/Dest [50 0 R /XYZ 0 792 0]
+>>
+endobj
+54 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/MediaBox [0 0   612 792]
+/Rotate 90
+/Resources << /Font << /F1 4 0 R >> /ProcSet 3 0 R >>
+/Contents 55 0 R
+>>
+endobj
+55 0 obj
+<< /Length 56 0 R >>
+stream
+BT
+0 1 -1 0 07 07 Tm
+/F1 9 Tf
+99  Tz
+9 TL
+T* (    5722WDS V5R4M0  060210 RN        IBM ILE RPG             QTEMP/MOB269XP2          IACI5A     10/04/13 10:22:53        Page     13) Tj
+T* () Tj
+T* (                             C r o s s   R e f e r e n c e) Tj
+T* () Tj
+T* (         File and Record References:) Tj
+T* () Tj
+T* (            File              Device             References \(D=Defined\)) Tj
+T* (              Record) Tj
+T* (            SOVCLM            DISK                    8D) Tj
+T* (              SOVCLMR                                 8D     50) Tj
+T* (            SOVDENY           DISK                    9D) Tj
+T* (              SOVDENYR                                9D     69) Tj
+T* () Tj
+T* (         Global Field References:) Tj
+T* () Tj
+T* (            Field             Attributes         References \(D=Defined M=Modified\)) Tj
+T* (            _QRNL_PRMCPY_CABDTE...) Tj
+T* (            *ENTRY            PLIST                  82D) Tj
+T* (            *INZSR            BEGSR                  93D) Tj
+T* (            *IN01             N\(1\)                   85) Tj
+T* (            *IN02             N\(1\)                   86) Tj
+T* (            @M\(12\)            A\(9\)                   11D     96) Tj
+T* (   *RNF7031 CAAREA            P\(5,0\)                 66D     71M) Tj
+T* (            CABBRH            P\(5,0\)                 68D     73M    151     263) Tj
+T* (            CABDTE            P\(6,0\)                 13D     83M) Tj
+T* (                              BASED\(_QRNL_PRM+\)) Tj
+T* (   *RNF7031 CABST             A\(2\)                   55D) Tj
+T* (            CAEFFT            P\(8,0\)                 53D    161) Tj
+T* (   *RNF7031 CALOC             P\(5,0\)                 67D     72M) Tj
+T* (   *RNF7031 CAOORC            A\(1\)                   65D) Tj
+T* (            CCSID             A\(10\)                  40D    101M) Tj
+T* (            CLAGNT            A\(10\)                  74D    251) Tj
+T* (            CLCERT            A\(20\)                  76D    255) Tj
+T* (            CLCLM#            P\(7,0\)                 75D    269) Tj
+T* (            CLCLOS            P\(8,0\)                 80D    285) Tj
+T* (            CLINCR            P\(8,0\)                 59D     79M    173     279) Tj
+T* (            CLMANT            A\(30\)                  77D    259) Tj
+T* (            CLRPTD            P\(8,0\)                 60D    179) Tj
+T* (            CLTYPE            A\(5\)                   78D    275) Tj
+T* (            CMD               A\(10\)                  41D    103M    109M    112M) Tj
+T* (                                                    125M    132M    137M    217M) Tj
+T* (                                                    221M    235M    242M    247M) Tj
+T* (                                                    303M    311M    316M    321M) Tj
+T* (                                                    326M) Tj
+T* (            CPAGNT            A\(10\)                  51D    143) Tj
+T* (            CPAMNT            P\(11,2\)                64D    203) Tj
+T* (            CPCERT            A\(20\)                  52D    147) Tj
+T* (            CPCLM#            P\(7,0\)                 56D    167) Tj
+T* (            CPCMPT            A\(10\)                  54D    157) Tj
+T* (            CPDESC            A\(50\)                  81D    291) Tj
+T* (            CPFROM            P\(8,0\)                 61D    185) Tj
+T* (            CPPOST            S\(8,0\)                 23D     63M    197) Tj
+T* (            CPTHRU            P\(8,0\)                 62D    191) Tj
+T* (            DENY              BEGSR                  86     232D) Tj
+T* (            DENYINIT          A\(1\)                   48D    233     234M) Tj
+T* (            DETAIL            BEGSR                  85     122D) Tj
+T* (            DETAILINIT        A\(1\)                   47D    123     124M) Tj
+T* (            EDIT$             A\(75\)                  46D    117M    223) Tj
+T* (            FILENAM           A\(120\)                 15D     94M    113) Tj
+T* (            HANDLE            A\(50\)                  38D     91M     99M    302M) Tj
+ET
+endstream
+endobj
+56 0 obj
+4239
+endobj
+57 0 obj
+<<
+/Parent 2 0 R
+/Title  (Page 13)
+/Prev 00053 0 R
+/Next 00061 0 R
+/Dest [54 0 R /XYZ 0 792 0]
+>>
+endobj
+58 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/MediaBox [0 0   612 792]
+/Rotate 90
+/Resources << /Font << /F1 4 0 R >> /ProcSet 3 0 R >>
+/Contents 59 0 R
+>>
+endobj
+59 0 obj
+<< /Length 60 0 R >>
+stream
+BT
+0 1 -1 0 07 07 Tm
+/F1 9 Tf
+99  Tz
+9 TL
+T* (    5722WDS V5R4M0  060210 RN        IBM ILE RPG             QTEMP/MOB269XP2          IACI5A     10/04/13 10:22:53        Page     14) Tj
+T* () Tj
+T* (            IMFNAM            A\(25\)                  58D    211) Tj
+T* (            IMLNAM            A\(25\)                  57D    209) Tj
+T* (            LAUNCHER          BEGSR                 107     110     115     128) Tj
+T* (                                                    135     214     220     224) Tj
+T* (                                                    238     245     294     300D) Tj
+T* (                                                    314     319     324     329) Tj
+T* (            M                 S\(2,0\)                 20D     96) Tj
+T* (            MONTH             S\(6,0\)                 24D    141) Tj
+T* (            OPT               A\(1\)                   42D    104M    304M) Tj
+T* (            PARM1             A\(512\)                 43D    105M    113M    126M) Tj
+T* (                                                    133M    138M    143M    146M) Tj
+T* (                                                    147M    150M    152M    156M) Tj
+T* (                                                    157M    160M    162M    166M) Tj
+T* (                                                    168M    172M    174M    178M) Tj
+T* (                                                    180M    184M    186M    190M) Tj
+T* (                                                    192M    196M    198M    202M) Tj
+T* (                                                    204M    208M    209M    210M) Tj
+T* (                                                    211M    218M    222M    236M) Tj
+T* (                                                    243M    248M    251M    254M) Tj
+T* (                                                    255M    258M    259M    262M) Tj
+T* (                                                    264M    268M    270M    274M) Tj
+T* (                                                    275M    278M    280M    284M) Tj
+T* (                                                    286M    290M    291M    305M) Tj
+T* (                                                    312M    317M    322M    327M) Tj
+T* (            PARM2             A\(1024\)                44D    106M    114M    127M) Tj
+T* (                                                    134M    139M    144M    148M) Tj
+T* (                                                    153M    154M    158M    163M) Tj
+T* (                                                    164M    169M    170M    175M) Tj
+T* (                                                    176M    181M    182M    187M) Tj
+T* (                                                    188M    193M    194M    199M) Tj
+T* (                                                    200M    205M    206M    212M) Tj
+T* (                                                    219M    223M    237M    244M) Tj
+T* (                                                    249M    252M    256M    260M) Tj
+T* (                                                    265M    266M    271M    272M) Tj
+T* (                                                    276M    281M    282M    287M) Tj
+T* (                                                    288M    292M    306M    313M) Tj
+T* (                                                    318M    323M    328M) Tj
+T* (            RESULT            A\(512\)                 45D    307M) Tj
+T* (            ROW#              S\(5,0\)                 27D    129M    226M    239M) Tj
+T* (                                                    296M) Tj
+T* (            ROWA              A\(5\)                   28D    133     218     243) Tj
+T* (            SAVE              BEGSR                  89     310D) Tj
+T* (            SPLIT             S\(6,0\)                 18D     83M    141) Tj
+T* (            SVRADDR           A\(30\)                  39D    100M) Tj
+T* (            WORK#             S\(11,2\)                31D    203M) Tj
+T* (            WORK#2            S\(8,0\)                 35D    151M    161M    167M) Tj
+T* (                                                    173M    179M    185M    191M) Tj
+T* (                                                    197M    263M    269M    279M) Tj
+T* (                                                    285M) Tj
+T* (            WORKA             A\(11\)                  32D    204) Tj
+T* (            WORKA2            A\(8\)                   36D    152     162     168) Tj
+T* (                                                    174     180     186     192) Tj
+T* (                                                    198     264     270     280) Tj
+T* (                                                    286) Tj
+T* (   *RNF7031 X                 P\(3,0\)                 14D) Tj
+T* (            YEAR              A\(4\)                   19D     96) Tj
+T* () Tj
+T* (         Indicator References:) Tj
+ET
+endstream
+endobj
+60 0 obj
+5035
+endobj
+61 0 obj
+<<
+/Parent 2 0 R
+/Title  (Page 14)
+/Prev 00057 0 R
+/Next 00065 0 R
+/Dest [58 0 R /XYZ 0 792 0]
+>>
+endobj
+62 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/MediaBox [0 0   612 792]
+/Rotate 90
+/Resources << /Font << /F1 4 0 R >> /ProcSet 3 0 R >>
+/Contents 63 0 R
+>>
+endobj
+63 0 obj
+<< /Length 64 0 R >>
+stream
+BT
+0 1 -1 0 07 07 Tm
+/F1 9 Tf
+99  Tz
+9 TL
+T* (    5722WDS V5R4M0  060210 RN        IBM ILE RPG             QTEMP/MOB269XP2          IACI5A     10/04/13 10:22:53        Page     15) Tj
+T* () Tj
+T* () Tj
+T* (            Indicator                            References \(D=Defined M=Modified\)) Tj
+T* (            01                                       50D     85) Tj
+T* (            02                                       69D     86) Tj
+T* (            LR                                       89      90      91) Tj
+T* () Tj
+T* (          * * * * *   E N D   O F   C R O S S   R E F E R E N C E   * * * * *) Tj
+ET
+endstream
+endobj
+64 0 obj
+632
+endobj
+65 0 obj
+<<
+/Parent 2 0 R
+/Title  (Page 15)
+/Prev 00061 0 R
+/Next 00069 0 R
+/Dest [62 0 R /XYZ 0 792 0]
+>>
+endobj
+66 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/MediaBox [0 0   612 792]
+/Rotate 90
+/Resources << /Font << /F1 4 0 R >> /ProcSet 3 0 R >>
+/Contents 67 0 R
+>>
+endobj
+67 0 obj
+<< /Length 68 0 R >>
+stream
+BT
+0 1 -1 0 07 07 Tm
+/F1 9 Tf
+99  Tz
+9 TL
+T* (    5722WDS V5R4M0  060210 RN        IBM ILE RPG             QTEMP/MOB269XP2          IACI5A     10/04/13 10:22:53        Page     16) Tj
+T* () Tj
+T* (                         E x t e r n a l   R e f e r e n c e s) Tj
+T* () Tj
+T* (         Statically bound procedures:) Tj
+T* (            Procedure                            References) Tj
+T* (            No references in the source.) Tj
+T* () Tj
+T* (         Imported fields:) Tj
+T* (            Field             Attributes         Defined) Tj
+T* (            No references in the source.) Tj
+T* () Tj
+T* (         Exported fields:) Tj
+T* (            Field             Attributes         Defined) Tj
+T* (            No references in the source.) Tj
+T* () Tj
+T* (      * * * * *   E N D   O F   E X T E R N A L   R E F E R E N C E S   * * * * *) Tj
+ET
+endstream
+endobj
+68 0 obj
+875
+endobj
+69 0 obj
+<<
+/Parent 2 0 R
+/Title  (Page 16)
+/Prev 00065 0 R
+/Next 00073 0 R
+/Dest [66 0 R /XYZ 0 792 0]
+>>
+endobj
+70 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/MediaBox [0 0   612 792]
+/Rotate 90
+/Resources << /Font << /F1 4 0 R >> /ProcSet 3 0 R >>
+/Contents 71 0 R
+>>
+endobj
+71 0 obj
+<< /Length 72 0 R >>
+stream
+BT
+0 1 -1 0 07 07 Tm
+/F1 9 Tf
+99  Tz
+9 TL
+T* (    5722WDS V5R4M0  060210 RN        IBM ILE RPG             QTEMP/MOB269XP2          IACI5A     10/04/13 10:22:53        Page     17) Tj
+T* () Tj
+T* (                             M e s s a g e   S u m m a r y) Tj
+T* () Tj
+T* (    Msg id  Sv Number Message text) Tj
+T* (   *RNF7031 00      5 The name or indicator is not referenced.) Tj
+T* (   *RNF7086 00      2 RPG handles blocking for the file. INFDS is updated only when) Tj
+T* (                      blocks of data are transferred.) Tj
+T* () Tj
+T* (          * * * * *   E N D   O F   M E S S A G E   S U M M A R Y   * * * * *) Tj
+ET
+endstream
+endobj
+72 0 obj
+651
+endobj
+73 0 obj
+<<
+/Parent 2 0 R
+/Title  (Page 17)
+/Prev 00069 0 R
+/Next 00077 0 R
+/Dest [70 0 R /XYZ 0 792 0]
+>>
+endobj
+74 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/MediaBox [0 0   612 792]
+/Rotate 90
+/Resources << /Font << /F1 4 0 R >> /ProcSet 3 0 R >>
+/Contents 75 0 R
+>>
+endobj
+75 0 obj
+<< /Length 76 0 R >>
+stream
+BT
+0 1 -1 0 07 07 Tm
+/F1 9 Tf
+99  Tz
+9 TL
+T* (    5722WDS V5R4M0  060210 RN        IBM ILE RPG             QTEMP/MOB269XP2          IACI5A     10/04/13 10:22:53        Page     18) Tj
+T* () Tj
+T* (                               F i n a l   S u m m a r y) Tj
+T* () Tj
+T* (     Message Totals:) Tj
+T* () Tj
+T* (       Information  \(00\) . . . . . . . :        7) Tj
+T* (       Warning      \(10\) . . . . . . . :        0) Tj
+T* (       Error        \(20\) . . . . . . . :        0) Tj
+T* (       Severe Error \(30+\)  . . . . . . :        0) Tj
+T* (       ---------------------------------  -------) Tj
+T* (       Total . . . . . . . . . . . . . :        7) Tj
+T* () Tj
+T* () Tj
+T* (     Source Totals:) Tj
+T* () Tj
+T* (       Records . . . . . . . . . . . . :      336) Tj
+T* (       Specifications  . . . . . . . . :      264) Tj
+T* (       Data records  . . . . . . . . . :        2) Tj
+T* (       Comments  . . . . . . . . . . . :        8) Tj
+T* () Tj
+T* (            * * * * *   E N D   O F   F I N A L   S U M M A R Y   * * * * *) Tj
+T* (   Program MOB269XP2 placed in library QTEMP. 00 highest severity. Created on 10/04/13 at 10:22:53.) Tj
+T* (             * * * * *   E N D   O F   C O M P I L A T I O N * * * * *) Tj
+ET
+endstream
+endobj
+76 0 obj
+1261
+endobj
+77 0 obj
+<<
+/Parent 2 0 R
+/Title  (Page 18)
+/Prev 00073 0 R
+/Dest [74 0 R /XYZ 0 792 0]
+>>
+endobj
+78 0 obj
+<<
+/Creator ()
+/CreationDate (D:20131004102426)
+/Title ()
+/Producer (SpoolFlex V4.1.5)
+/Keywords ()
+/Author (System i, i5, iSeries, AS/400 User EVANS)
+>>
+endobj
+xref 0 79
+0000000000 65535 f
+0000000093 00000 n
+0000000185 00000 n
+0000000267 00000 n
+0000000298 00000 n
+0000000412 00000 n
+0000000741 00000 n
+0000000905 00000 n
+0000003431 00000 n
+0000003454 00000 n
+0000003557 00000 n
+0000003723 00000 n
+0000011136 00000 n
+0000011160 00000 n
+0000011281 00000 n
+0000011447 00000 n
+0000019417 00000 n
+0000019441 00000 n
+0000019563 00000 n
+0000019729 00000 n
+0000025872 00000 n
+0000025896 00000 n
+0000026018 00000 n
+0000026184 00000 n
+0000034750 00000 n
+0000034774 00000 n
+0000034896 00000 n
+0000035062 00000 n
+0000043340 00000 n
+0000043364 00000 n
+0000043486 00000 n
+0000043652 00000 n
+0000052218 00000 n
+0000052242 00000 n
+0000052364 00000 n
+0000052530 00000 n
+0000054792 00000 n
+0000054816 00000 n
+0000054938 00000 n
+0000055104 00000 n
+0000057080 00000 n
+0000057104 00000 n
+0000057226 00000 n
+0000057392 00000 n
+0000061449 00000 n
+0000061473 00000 n
+0000061596 00000 n
+0000061762 00000 n
+0000062641 00000 n
+0000062664 00000 n
+0000062787 00000 n
+0000062953 00000 n
+0000064378 00000 n
+0000064402 00000 n
+0000064525 00000 n
+0000064691 00000 n
+0000068989 00000 n
+0000069013 00000 n
+0000069136 00000 n
+0000069302 00000 n
+0000074396 00000 n
+0000074420 00000 n
+0000074543 00000 n
+0000074709 00000 n
+0000075400 00000 n
+0000075423 00000 n
+0000075546 00000 n
+0000075712 00000 n
+0000076646 00000 n
+0000076669 00000 n
+0000076792 00000 n
+0000076958 00000 n
+0000077668 00000 n
+0000077691 00000 n
+0000077814 00000 n
+0000077980 00000 n
+0000079300 00000 n
+0000079324 00000 n
+0000079430 00000 n
+trailer
+<<
+/Size 79
+/Root 1 0 R
+/Info 78 0 R
+>>
+startxref
+79609
+%%EOF

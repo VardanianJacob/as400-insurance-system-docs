@@ -1,0 +1,1930 @@
+%PDF-1.3  v1.00198066100060001000003*STD                ZSYSPRT   *CPI      EVANS     EVANS
+1 0 obj
+<<
+/Type /Catalog
+/Pages 5 0 R
+/Outlines 2 0 R
+/PageMode /UseNone
+>>
+endobj
+2 0 obj
+<<
+/Type /Outlines
+/Count 23
+/First 9 0 R
+/Last  97 0 R
+>>
+endobj
+3 0 obj
+[/PDF /Text]
+endobj
+4 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+>>
+endobj
+5 0 obj
+<<
+/Type /Pages
+/Count 23
+/Kids [6 0 R
+       10 0 R
+       14 0 R
+       18 0 R
+       22 0 R
+       26 0 R
+       30 0 R
+       34 0 R
+       38 0 R
+       42 0 R
+       46 0 R
+       50 0 R
+       54 0 R
+       58 0 R
+       62 0 R
+       66 0 R
+       70 0 R
+       74 0 R
+       78 0 R
+       82 0 R
+       86 0 R
+       90 0 R
+       94 0 R
+       ]
+>>
+endobj
+6 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/MediaBox [0 0   612 792]
+/Rotate 90
+/Resources << /Font << /F1 4 0 R >> /ProcSet 3 0 R >>
+/Contents 7 0 R
+>>
+endobj
+7 0 obj
+<< /Length 8 0 R >>
+stream
+BT
+0 1 -1 0 07 07 Tm
+/F1 9 Tf
+99  Tz
+9 TL
+T* (    5722WDS V5R4M0  060210 RN        IBM ILE RPG             QTEMP/MOB267             IACI5A     09/26/13 10:12:20        Page      1) Tj
+T* () Tj
+T* (     Command  . . . . . . . . . . . . :   CRTBNDRPG) Tj
+T* (       Issued by  . . . . . . . . . . :     EVANS) Tj
+T* (     Program  . . . . . . . . . . . . :   MOB267) Tj
+T* (       Library  . . . . . . . . . . . :     QTEMP) Tj
+T* (     Text 'description' . . . . . . . :   *SRCMBRTXT) Tj
+T* () Tj
+T* (     Source Member  . . . . . . . . . :   MOB267) Tj
+T* (     Source File  . . . . . . . . . . :   QRPGSRC) Tj
+T* (       Library  . . . . . . . . . . . :     CEMOB) Tj
+T* (       CCSID  . . . . . . . . . . . . :     37) Tj
+T* (     Text 'description' . . . . . . . :   Sovereign Billing) Tj
+T* (     Last Change  . . . . . . . . . . :   04/06/11  09:57:14) Tj
+T* () Tj
+T* (     Generation severity level  . . . :   10) Tj
+T* (     Default activation group . . . . :   *YES) Tj
+T* (     Compiler options . . . . . . . . :   *XREF      *GEN       *NOSECLVL  *SHOWCPY) Tj
+T* (                                          *EXPDDS    *EXT       *NOSHOWSKP *NOSRCSTMT) Tj
+T* (                                          *DEBUGIO   *NOEVENTF) Tj
+T* (     Debugging views  . . . . . . . . :   *STMT) Tj
+T* (     Output . . . . . . . . . . . . . :   *PRINT) Tj
+T* (     Optimization level . . . . . . . :   *NONE) Tj
+T* (     Source listing indentation . . . :   *NONE) Tj
+T* (     Type conversion options  . . . . :   *NONE) Tj
+T* (     Sort sequence  . . . . . . . . . :   *HEX) Tj
+T* (     Language identifier  . . . . . . :   *JOBRUN) Tj
+T* (     Replace program  . . . . . . . . :   *NO) Tj
+T* (     User profile . . . . . . . . . . :   *USER) Tj
+T* (     Authority  . . . . . . . . . . . :   *LIBCRTAUT) Tj
+T* (     Truncate numeric . . . . . . . . :   *YES) Tj
+T* (     Fix numeric  . . . . . . . . . . :   *NONE) Tj
+T* (     Target release . . . . . . . . . :   *CURRENT) Tj
+T* (     Allow null values  . . . . . . . :   *NO) Tj
+T* (     Define condition names . . . . . :   *NONE) Tj
+T* (     Enable performance collection  . :   *PEP) Tj
+T* (     Profiling data . . . . . . . . . :   *NOCOL) Tj
+T* (     Licensed Internal Code options . :) Tj
+T* (     Generate program interface . . . :   *NO) Tj
+T* (     Include directory  . . . . . . . :) Tj
+T* (     Preprocessor options . . . . . . :   *NONE) Tj
+ET
+endstream
+endobj
+8 0 obj
+2448
+endobj
+9 0 obj
+<<
+/Parent 2 0 R
+/Title  (Page 1)
+/Next 00013 0 R
+/Dest [6 0 R /XYZ 0 792 0]
+>>
+endobj
+10 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/MediaBox [0 0   612 792]
+/Rotate 90
+/Resources << /Font << /F1 4 0 R >> /ProcSet 3 0 R >>
+/Contents 11 0 R
+>>
+endobj
+11 0 obj
+<< /Length 12 0 R >>
+stream
+BT
+0 1 -1 0 07 07 Tm
+/F1 9 Tf
+99  Tz
+9 TL
+T* (    5722WDS V5R4M0  060210 RN        IBM ILE RPG             QTEMP/MOB267             IACI5A     09/26/13 10:12:20        Page      2) Tj
+T* () Tj
+T* (   Line   <---------------------- Source Specifications ----------------------------><---- Comments ----> Do  Page  Change Src Seq) Tj
+T* (   Number ....1....+....2....+....3....+....4....+....5....+....6....+....7....+....8....+....9....+...10 Num Line  Date   Id  Number) Tj
+T* () Tj
+T* (                             S o u r c e   L i s t i n g) Tj
+T* () Tj
+T* (        1 F*****************************************************************                                        101009     000100) Tj
+T* (        2 F*                                                                                                        101009     000200) Tj
+T* (        3 F*   Bill Sovereign                                                                                       101026     000300) Tj
+T* (        4 F*                                                                                                        101009     000400) Tj
+T* (        5 F*                                                                                                        101009     000500) Tj
+T* (        6 F*                                                                                                        101009     000600) Tj
+T* (        7 F*****************************************************************                                        101009     000700) Tj
+T* () Tj
+T* () Tj
+T* (        8 FSovBilP   IP   E           K Disk                                                                        101026     000800) Tj
+T* (           *--------------------------------------------------------------------------------------------*) Tj
+T* (           *                               RPG name         External name                               *) Tj
+T* (           * File name. . . . . . . . . :  SOVBILP          CEMOB/SOVBILP                               *) Tj
+T* (           * Record format\(s\) . . . . . :  SOVBILR          SOVBILR                                     *) Tj
+T* (           *--------------------------------------------------------------------------------------------*) Tj
+T* (        9 FSovTtlP   IF   E           K Disk                                                                        101130     000900) Tj
+T* (           *--------------------------------------------------------------------------------------------*) Tj
+T* (           *                               RPG name         External name                               *) Tj
+T* (           * File name. . . . . . . . . :  SOVTTLP          CEMOB/SOVTTLP                               *) Tj
+T* (           * Record format\(s\) . . . . . :  SOVTTLR          SOVTTLR                                     *) Tj
+T* (           *--------------------------------------------------------------------------------------------*) Tj
+T* (       10 FCovMstL1  IF   E           K Disk                                                                        101026     001000) Tj
+T* (           *--------------------------------------------------------------------------------------------*) Tj
+T* (           *                               RPG name         External name                               *) Tj
+T* (           * File name. . . . . . . . . :  COVMSTL1         CEMOB/COVMSTL1                              *) Tj
+T* (           * Record format\(s\) . . . . . :  COVMSTR          COVMSTR                                     *) Tj
+T* (           *--------------------------------------------------------------------------------------------*) Tj
+T* (       11 FBilDtlL2  IF   E           K Disk    PreFix\(B2:2\)                                                        101027     001100) Tj
+T* (           *--------------------------------------------------------------------------------------------*) Tj
+T* (           *                               RPG name         External name                               *) Tj
+T* (           * File name. . . . . . . . . :  BILDTLL2         CEMOB/BILDTLL2                              *) Tj
+T* (           * Record format\(s\) . . . . . :  BILDTLR          BILDTLR                                     *) Tj
+T* (           *--------------------------------------------------------------------------------------------*) Tj
+T* (       12 FBilDtlL7  IF   E           K Disk    PreFix\(B7:2\)                                                        101027     001200) Tj
+T* (       13 F                                     Rename\(BilDtlR : RBildtl\)                                           101027     001300) Tj
+T* (           *--------------------------------------------------------------------------------------------*) Tj
+T* (           *                               RPG name         External name                               *) Tj
+T* (           * File name. . . . . . . . . :  BILDTLL7         CEMOB/BILDTLL7                              *) Tj
+T* (           * Record format\(s\) . . . . . :  RBILDTL          BILDTLR                                     *) Tj
+T* (           *--------------------------------------------------------------------------------------------*) Tj
+T* (       14 FFeeMstL1  IF   E           K Disk                                                                        101026     001400) Tj
+T* (           *--------------------------------------------------------------------------------------------*) Tj
+T* (           *                               RPG name         External name                               *) Tj
+T* (           * File name. . . . . . . . . :  FEEMSTL1         CEMOB/FEEMSTL1                              *) Tj
+T* (           * Record format\(s\) . . . . . :  FEEMSTR          FEEMSTR                                     *) Tj
+T* (           *--------------------------------------------------------------------------------------------*) Tj
+T* (       15 FAlcLckP   IF   E           K Disk                                                                        101110     001500) Tj
+T* (           *--------------------------------------------------------------------------------------------*) Tj
+T* (           *                               RPG name         External name                               *) Tj
+T* (           * File name. . . . . . . . . :  ALCLCKP          CEMOB/ALCLCKP                               *) Tj
+T* (           * Record format\(s\) . . . . . :  ALCLCKR          ALCLCKR                                     *) Tj
+T* (           *--------------------------------------------------------------------------------------------*) Tj
+T* (       16 FCmpAlcP   O    E             Disk                                                                        101027     001600) Tj
+ET
+endstream
+endobj
+12 0 obj
+6926
+endobj
+13 0 obj
+<<
+/Parent 2 0 R
+/Title  (Page 2)
+/Prev 0009 0 R
+/Next 00017 0 R
+/Dest [10 0 R /XYZ 0 792 0]
+>>
+endobj
+14 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/MediaBox [0 0   612 792]
+/Rotate 90
+/Resources << /Font << /F1 4 0 R >> /ProcSet 3 0 R >>
+/Contents 15 0 R
+>>
+endobj
+15 0 obj
+<< /Length 16 0 R >>
+stream
+BT
+0 1 -1 0 07 07 Tm
+/F1 9 Tf
+99  Tz
+9 TL
+T* (    5722WDS V5R4M0  060210 RN        IBM ILE RPG             QTEMP/MOB267             IACI5A     09/26/13 10:12:20        Page      3) Tj
+T* () Tj
+T* (   Line   <---------------------- Source Specifications ----------------------------><---- Comments ----> Do  Page  Change Src Seq) Tj
+T* (   Number ....1....+....2....+....3....+....4....+....5....+....6....+....7....+....8....+....9....+...10 Num Line  Date   Id  Number) Tj
+T* (       17                                                                                                           101026     001700) Tj
+T* (           *--------------------------------------------------------------------------------------------*) Tj
+T* (           *                               RPG name         External name                               *) Tj
+T* (           * File name. . . . . . . . . :  CMPALCP          CEMOB/CMPALCP                               *) Tj
+T* (           * Record format\(s\) . . . . . :  CMPALCR          CMPALCR                                     *) Tj
+T* (           *--------------------------------------------------------------------------------------------*) Tj
+T* () Tj
+T* () Tj
+T* (       18 D SvRate          S                   Like\(FmRate\)                                                        101110     001800) Tj
+T* (       19 D SvRen           S                   Like\(FmRen\)                                                         101110     001900) Tj
+T* (       20 D SvTax           S                   Like\(FmTax\)                                                         101110     002000) Tj
+T* (       21 D Lock            S              1                                                                        101110     002100) Tj
+T* (       22 D Parm11          S              8  0                                                                     101026     002200) Tj
+T* (       23 D Cancel          S              8  0                                                                     101122     002300) Tj
+T* (       24 D SvEfft          S              8  0                                                                     101122     002400) Tj
+T* (       25 D FeeMstAmnt      S              9  2                                                                     101108     002500) Tj
+T* (       26 D FeeMstUsed      S              9  2                                                                     101108     002600) Tj
+T* (       27 D FeeMstDiff      S              9  2                                                                     101108     002700) Tj
+T* (       28 D Method          S             10                                                                        101026     002800) Tj
+T* (       29 D SysDte          S              8S 0                                                                     101027     002900) Tj
+T* (       30                                                                                                           101027     003000) Tj
+T* (       31 D                SDS                                                                                      101027     003100) Tj
+T* (       32 D PgmNam                  1     10                                                                        101027     003200) Tj
+T* (       33 D UserId                254    263                                                                        101027     003300) Tj
+T* (       34                                                                                                           101026     003400) Tj
+T* () Tj
+T* () Tj
+T* (       35 ISovBilR                                                                                                  101026     003500) Tj
+T* (       36 I                                          BdAgnt        L1                                               101026     003600) Tj
+T* (       37 I                                          BdCert        L1                                               101026     003700) Tj
+T* (       38 I                                          BdCovc        L1                                               101026     003800) Tj
+T* (       39 I                                          BdFrom        L1                                               101026     003900) Tj
+T* (       40                                                                                                           101026     004000) Tj
+T* (           *--------------------------------------------------------------------------------------------*                     1) Tj
+T* (           * RPG record format  . . . . :  SOVBILR                                                      *                     1) Tj
+T* (           * External format  . . . . . :  SOVBILR : CEMOB/SOVBILP                                      *                     1) Tj
+T* (           *--------------------------------------------------------------------------------------------*                     1) Tj
+T* (       41=I                             A    1   10  BDAGNT        L1                Agent Number ID                          1000001) Tj
+T* (       42=I                             A   11   30  BDCERT        L1                Certificate Number                       1000002) Tj
+T* (       43=I                             P   31   33 0BDBRCH                          BRANCH                                   1000003) Tj
+T* (       44=I                             A   34   35  BDST                            STATE                                    1000004) Tj
+T* (       45=I                             A   36   36  BDOORC                          OPEN/CLOSED                              1000005) Tj
+T* (       46=I                             A   37   37  BDSORJ                          SINGLE OR JOUNT                          1000006) Tj
+T* (       47=I                             P   38   40 0BDCOVC        L1                Coverage Code                            1000007) Tj
+T* (       48=I                             A   41   50  BDCMPT                          Component Code                           1000008) Tj
+T* (       49=I                             S   51   58 0BDFROM        L1                From Date                                1000009) Tj
+T* (       50=I                             S   59   66 0BDTHRU                          Thru Date                                1000010) Tj
+T* (       51=I                             P   67   72 2BDBAMT                          Adj Billed Amount                        1000011) Tj
+T* (       52=I                             P   73   78 2BDMOB                           Outstanding Balance                      1000012) Tj
+T* (       53=ISOVTTLR                                                                                                            2000001) Tj
+T* (           *--------------------------------------------------------------------------------------------*                     2) Tj
+T* (           * RPG record format  . . . . :  SOVTTLR                                                      *                     2) Tj
+T* (           * External format  . . . . . :  SOVTTLR : CEMOB/SOVTTLP                                      *                     2) Tj
+T* (           *--------------------------------------------------------------------------------------------*                     2) Tj
+T* (       54=I                             A    1   10  BDAGNT                          Agent Number ID                          2000002) Tj
+T* (       55=I                             A   11   30  BDCERT                          Certificate Number                       2000003) Tj
+ET
+endstream
+endobj
+16 0 obj
+7783
+endobj
+17 0 obj
+<<
+/Parent 2 0 R
+/Title  (Page 3)
+/Prev 00013 0 R
+/Next 00021 0 R
+/Dest [14 0 R /XYZ 0 792 0]
+>>
+endobj
+18 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/MediaBox [0 0   612 792]
+/Rotate 90
+/Resources << /Font << /F1 4 0 R >> /ProcSet 3 0 R >>
+/Contents 19 0 R
+>>
+endobj
+19 0 obj
+<< /Length 20 0 R >>
+stream
+BT
+0 1 -1 0 07 07 Tm
+/F1 9 Tf
+99  Tz
+9 TL
+T* (    5722WDS V5R4M0  060210 RN        IBM ILE RPG             QTEMP/MOB267             IACI5A     09/26/13 10:12:20        Page      4) Tj
+T* () Tj
+T* (   Line   <---------------------- Source Specifications ----------------------------><---- Comments ----> Do  Page  Change Src Seq) Tj
+T* (   Number ....1....+....2....+....3....+....4....+....5....+....6....+....7....+....8....+....9....+...10 Num Line  Date   Id  Number) Tj
+T* (       56=I                             P   31   36 2BDBTTL                          Adj Billed Amount                        2000004) Tj
+T* (       57=ICOVMSTR                                                                                                            3000001) Tj
+T* (           *--------------------------------------------------------------------------------------------*                     3) Tj
+T* (           * RPG record format  . . . . :  COVMSTR                                                      *                     3) Tj
+T* (           * External format  . . . . . :  COVMSTR : CEMOB/COVMSTL1                                     *                     3) Tj
+T* (           *--------------------------------------------------------------------------------------------*                     3) Tj
+T* (       58=I                             A    1   10  CMAGNT                          Agent Number ID                          3000002) Tj
+T* (       59=I                             A   11   30  CMCERT                          Certificate Number                       3000003) Tj
+T* (       60=I                             P   31   35 0CMIDN1                          First Insured ID                         3000004) Tj
+T* (       61=I                             P   36   40 0CMIDN2                          Second Insured ID                        3000005) Tj
+T* (       62=I                             S   41   48 0CMFPRM                          First Payment DueDate                    3000006) Tj
+T* (       63=I                             S   49   56 0CMEFFT                          Effective Date                           3000007) Tj
+T* (       64=I                             S   57   64 0CMEXPR                          Coverage Expiration                      3000008) Tj
+T* (       65=I                             P   65   66 0CMTERM                          Coverage Term                            3000009) Tj
+T* (       66=I                             P   67   68 0CMDAYS                          Extra Days Of Coverage                   3000010) Tj
+T* (       67=I                             P   69   74 2CMAMNT                          Monthly Amount                           3000011) Tj
+T* (       68=I                             P   75   80 2CMBAMT                          Benefit Amount                           3000012) Tj
+T* (       69=I                             A   81   81  CMSTAT                          Record Status                            3000013) Tj
+T* (       70=I                             P   82   84 0CMCOVC                          Coverage Code                            3000014) Tj
+T* (       71=I                             A   85   91  CMTBLE                          Rate Table Code                          3000015) Tj
+T* (       72=I                             S   92   99 0CMLAPD                          Coverage Lapsed Date                     3000016) Tj
+T* (       73=I                             A  100  124  CMLAPR                          Lapsed Reason                            3000017) Tj
+T* (       74=I                             S  125  132 0CMCAND                          Coverage Cancel Date                     3000018) Tj
+T* (       75=I                             A  133  157  CMCANR                          Cancelled Reason                         3000019) Tj
+T* (       76=I                             A  158  177  CMPREV                          Superceeded Certificate                  3000020) Tj
+T* (       77=I                             P  178  185 0CMDATA                          Date Record Added                        3000021) Tj
+T* (       78=I                             A  186  195  CMUSRA                          User Added Record                        3000022) Tj
+T* (       79=I                             P  196  203 0CMDATU                          Date Record Updated                      3000023) Tj
+T* (       80=I                             A  204  213  CMUSRU                          User Created Record                      3000024) Tj
+T* (       81=I                             P  214  221 0CMDATC                          Date Record Canncelled                   3000025) Tj
+T* (       82=I                             A  222  231  CMUSRC                          User Cancelled Record                    3000026) Tj
+T* (       83=IBILDTLR                                                                                                            4000001) Tj
+T* (           *--------------------------------------------------------------------------------------------*                     4) Tj
+T* (           * RPG record format  . . . . :  BILDTLR                                                      *                     4) Tj
+T* (           * Prefix . . . . . . . . . . :  B2 : 2                                                       *                     4) Tj
+T* (           * External format  . . . . . :  BILDTLR : CEMOB/BILDTLL2                                     *                     4) Tj
+T* (           *--------------------------------------------------------------------------------------------*                     4) Tj
+T* (       84=I                             P    1    5 0B2SEQ#                          Billing Sequence No                      4000002) Tj
+T* (       85=I                             A    6   15  B2AGNT                          Agent Number ID                          4000003) Tj
+T* (       86=I                             A   16   35  B2CERT                          Certificate Number                       4000004) Tj
+T* (       87=I                             P   36   38 0B2COVC                          Coverage Code                            4000005) Tj
+T* (       88=I                             S   39   46 0B2FROM                          From Date                                4000006) Tj
+T* (       89=I                             S   47   54 0B2THRU                          Thru Date                                4000007) Tj
+T* (       90=I                             S   55   62 0B2BILL                          Billing Date                             4000008) Tj
+T* (       91=I                             S   63   70 0B2DUE                           Payment Due Date                         4000009) Tj
+T* (       92=I                             S   71   78 0B2PAID                          Payment Paid Date                        4000010) Tj
+T* (       93=I                             S   79   86 0B2NEXT                          Next Payment Date                        4000011) Tj
+T* (       94=I                             A   87   88  B2PIF                           PIF or Reconsiled                        4000012) Tj
+T* (       95=I                             P   89   94 2B2BAMT                          Adj Billed Amount                        4000013) Tj
+T* (       96=I                             P   95  100 2B2COMM                          Commission Amount                        4000014) Tj
+T* (       97=I                             P  101  106 2B2PCOM                          Commission Paid                          4000015) Tj
+T* (       98=I                             P  107  112 2B2PAMT                          Paid Amount                              4000016) Tj
+T* (       99=I                             P  113  118 2B2MOB                           Outstanding Balance                      4000017) Tj
+T* (      100=I                             P  119  122 5B2INTR                          Current Int.Rate                         4000018) Tj
+T* (      101=I                             P  123  128 2B2INT                           Current Interest                         4000019) Tj
+T* (      102=I                             P  129  134 2B2PRIN                          Current Principle                        4000020) Tj
+ET
+endstream
+endobj
+20 0 obj
+8441
+endobj
+21 0 obj
+<<
+/Parent 2 0 R
+/Title  (Page 4)
+/Prev 00017 0 R
+/Next 00025 0 R
+/Dest [18 0 R /XYZ 0 792 0]
+>>
+endobj
+22 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/MediaBox [0 0   612 792]
+/Rotate 90
+/Resources << /Font << /F1 4 0 R >> /ProcSet 3 0 R >>
+/Contents 23 0 R
+>>
+endobj
+23 0 obj
+<< /Length 24 0 R >>
+stream
+BT
+0 1 -1 0 07 07 Tm
+/F1 9 Tf
+99  Tz
+9 TL
+T* (    5722WDS V5R4M0  060210 RN        IBM ILE RPG             QTEMP/MOB267             IACI5A     09/26/13 10:12:20        Page      5) Tj
+T* () Tj
+T* (   Line   <---------------------- Source Specifications ----------------------------><---- Comments ----> Do  Page  Change Src Seq) Tj
+T* (   Number ....1....+....2....+....3....+....4....+....5....+....6....+....7....+....8....+....9....+...10 Num Line  Date   Id  Number) Tj
+T* (      103=I                             P  135  140 2B2SCHD                          Scheduled Payment                        4000021) Tj
+T* (      104=I                             A  141  142  B2MSGC                          Message Code                             4000022) Tj
+T* (      105=I                             A  143  167  B2MSGD                          Message Description                      4000023) Tj
+T* (      106=I                             A  168  169  B2CODE                          Return Reason Code                       4000024) Tj
+T* (      107=I                             A  170  194  B2DESC                          Reason Description                       4000025) Tj
+T* (      108=I                             P  195  202 0B2DATA                          Date Record Added                        4000026) Tj
+T* (      109=I                             A  203  212  B2USRA                          User Added Record                        4000027) Tj
+T* (      110=I                             P  213  220 0B2DATU                          Date Record Updated                      4000028) Tj
+T* (      111=I                             A  221  230  B2USRU                          User Created Record                      4000029) Tj
+T* (      112=I                             P  231  238 0B2DATC                          Date Record Canncelled                   4000030) Tj
+T* (      113=I                             A  239  248  B2USRC                          User Cancelled Record                    4000031) Tj
+T* (      114=IRBILDTL                                                                                                            5000001) Tj
+T* (           *--------------------------------------------------------------------------------------------*                     5) Tj
+T* (           * RPG record format  . . . . :  RBILDTL                                                      *                     5) Tj
+T* (           * Prefix . . . . . . . . . . :  B7 : 2                                                       *                     5) Tj
+T* (           * External format  . . . . . :  BILDTLR : CEMOB/BILDTLL7                                     *                     5) Tj
+T* (           *--------------------------------------------------------------------------------------------*                     5) Tj
+T* (      115=I                             P    1    5 0B7SEQ#                          Billing Sequence No                      5000002) Tj
+T* (      116=I                             A    6   15  B7AGNT                          Agent Number ID                          5000003) Tj
+T* (      117=I                             A   16   35  B7CERT                          Certificate Number                       5000004) Tj
+T* (      118=I                             P   36   38 0B7COVC                          Coverage Code                            5000005) Tj
+T* (      119=I                             S   39   46 0B7FROM                          From Date                                5000006) Tj
+T* (      120=I                             S   47   54 0B7THRU                          Thru Date                                5000007) Tj
+T* (      121=I                             S   55   62 0B7BILL                          Billing Date                             5000008) Tj
+T* (      122=I                             S   63   70 0B7DUE                           Payment Due Date                         5000009) Tj
+T* (      123=I                             S   71   78 0B7PAID                          Payment Paid Date                        5000010) Tj
+T* (      124=I                             S   79   86 0B7NEXT                          Next Payment Date                        5000011) Tj
+T* (      125=I                             A   87   88  B7PIF                           PIF or Reconsiled                        5000012) Tj
+T* (      126=I                             P   89   94 2B7BAMT                          Adj Billed Amount                        5000013) Tj
+T* (      127=I                             P   95  100 2B7COMM                          Commission Amount                        5000014) Tj
+T* (      128=I                             P  101  106 2B7PCOM                          Commission Paid                          5000015) Tj
+T* (      129=I                             P  107  112 2B7PAMT                          Paid Amount                              5000016) Tj
+T* (      130=I                             P  113  118 2B7MOB                           Outstanding Balance                      5000017) Tj
+T* (      131=I                             P  119  122 5B7INTR                          Current Int.Rate                         5000018) Tj
+T* (      132=I                             P  123  128 2B7INT                           Current Interest                         5000019) Tj
+T* (      133=I                             P  129  134 2B7PRIN                          Current Principle                        5000020) Tj
+T* (      134=I                             P  135  140 2B7SCHD                          Scheduled Payment                        5000021) Tj
+T* (      135=I                             A  141  142  B7MSGC                          Message Code                             5000022) Tj
+T* (      136=I                             A  143  167  B7MSGD                          Message Description                      5000023) Tj
+T* (      137=I                             A  168  169  B7CODE                          Return Reason Code                       5000024) Tj
+T* (      138=I                             A  170  194  B7DESC                          Reason Description                       5000025) Tj
+T* (      139=I                             P  195  202 0B7DATA                          Date Record Added                        5000026) Tj
+T* (      140=I                             A  203  212  B7USRA                          User Added Record                        5000027) Tj
+T* (      141=I                             P  213  220 0B7DATU                          Date Record Updated                      5000028) Tj
+T* (      142=I                             A  221  230  B7USRU                          User Created Record                      5000029) Tj
+T* (      143=I                             P  231  238 0B7DATC                          Date Record Canncelled                   5000030) Tj
+T* (      144=I                             A  239  248  B7USRC                          User Cancelled Record                    5000031) Tj
+T* (      145=IFEEMSTR                                                                                                            6000001) Tj
+T* (           *--------------------------------------------------------------------------------------------*                     6) Tj
+T* (           * RPG record format  . . . . :  FEEMSTR                                                      *                     6) Tj
+T* (           * External format  . . . . . :  FEEMSTR : CEMOB/FEEMSTL1                                     *                     6) Tj
+T* (           *--------------------------------------------------------------------------------------------*                     6) Tj
+T* (      146=I                             A    1   10  FMAGNT                          Agent Number ID                          6000002) Tj
+T* (      147=I                             P   11   13 0FMCOVC                          Coverage Code                            6000003) Tj
+T* (      148=I                             A   14   23  FMCMPT                          Component Code                           6000004) Tj
+T* (      149=I                             P   24   25 0FMBAND                          Banding Element                          6000005) Tj
+ET
+endstream
+endobj
+24 0 obj
+8441
+endobj
+25 0 obj
+<<
+/Parent 2 0 R
+/Title  (Page 5)
+/Prev 00021 0 R
+/Next 00029 0 R
+/Dest [22 0 R /XYZ 0 792 0]
+>>
+endobj
+26 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/MediaBox [0 0   612 792]
+/Rotate 90
+/Resources << /Font << /F1 4 0 R >> /ProcSet 3 0 R >>
+/Contents 27 0 R
+>>
+endobj
+27 0 obj
+<< /Length 28 0 R >>
+stream
+BT
+0 1 -1 0 07 07 Tm
+/F1 9 Tf
+99  Tz
+9 TL
+T* (    5722WDS V5R4M0  060210 RN        IBM ILE RPG             QTEMP/MOB267             IACI5A     09/26/13 10:12:20        Page      6) Tj
+T* () Tj
+T* (   Line   <---------------------- Source Specifications ----------------------------><---- Comments ----> Do  Page  Change Src Seq) Tj
+T* (   Number ....1....+....2....+....3....+....4....+....5....+....6....+....7....+....8....+....9....+...10 Num Line  Date   Id  Number) Tj
+T* (      150=I                             P   26   30 0FMSEQ#                          Component Seq                            6000006) Tj
+T* (      151=I                             A   31   50  FMDESC                          Fee Description                          6000007) Tj
+T* (      152=I                             P   51   56 7FMRATE                          Percentage Rate                          6000008) Tj
+T* (      153=I                             P   57   62 2FMAMNT                          Fixed Amt Rate                           6000009) Tj
+T* (      154=I                             P   63   68 7FMFCTR                          Fixed Factor                             6000010) Tj
+T* (      155=I                             P   69   72 2FMBASE                          Fixed Factor Basis                       6000011) Tj
+T* (      156=I                             A   73   73  FMREN                           ReInsurable Y or N                       6000012) Tj
+T* (      157=I                             A   74   74  FMTAX                           Taxable Y or N                           6000013) Tj
+T* (      158=I                             P   75   79 0FMGL#                           General Ledger ID                        6000014) Tj
+T* (      159=I                             S   80   87 0FMEFFT                          Effective Date                           6000015) Tj
+T* (      160=I                             S   88   95 0FMEXPR                          Expire Date                              6000016) Tj
+T* (      161=IALCLCKR                                                                                                            7000001) Tj
+T* (           *--------------------------------------------------------------------------------------------*                     7) Tj
+T* (           * RPG record format  . . . . :  ALCLCKR                                                      *                     7) Tj
+T* (           * External format  . . . . . :  ALCLCKR : CEMOB/ALCLCKP                                      *                     7) Tj
+T* (           *--------------------------------------------------------------------------------------------*                     7) Tj
+T* (      162=I                             A    1   10  ALAGNT                          Agent Number ID                          7000002) Tj
+T* (      163=I                             S   11   18 0ALFROM                          Locked From Date                         7000003) Tj
+T* (      164=I                             S   19   26 0ALTHRU                          Locked Thru Date                         7000004) Tj
+T* (      165=I                             S   27   34 0ALXFER                          Transferred Date                         7000005) Tj
+T* (      166=I                             S   35   42 0ALDATE                          Date Record Locked                       7000006) Tj
+T* (      167=I                             S   43   48 0ALTIME                          Time Record Locked                       7000007) Tj
+T* (      168=I                             A   49   58  ALUSER                          User Locked Record                       7000008) Tj
+T* () Tj
+T* () Tj
+T* (      169 C     KeyF          KList                                                                                 101026     004100) Tj
+T* (      170 C                   KFld                    BdAgnt                                                        101026     004200) Tj
+T* (      171 C                   KFld                    BdCovC                                                        101026     004300) Tj
+T* (      172 C                   KFld                    BdCmpt                                                        101026     004400) Tj
+T* (      173                                                                                                           101026     004500) Tj
+T* (      174 C     KeyCv         KList                                                                                 101026     004600) Tj
+T* (      175 C                   KFld                    BdAgnt                                                        101026     004700) Tj
+T* (      176 C                   KFld                    BdCert                                                        101026     004800) Tj
+T* (      177 C                   KFld                    B2CovC                                                        101110     004900) Tj
+T* (      178                                                                                                           101122     005000) Tj
+T* (      179 C     KeyCv2        KList                                                                                 101122     005100) Tj
+T* (      180 C                   KFld                    BdAgnt                                                        101122     005200) Tj
+T* (      181 C                   KFld                    BdCert                                                        101122     005300) Tj
+T* (      182                                                                                                           101026     005400) Tj
+T* (      183 C     KeyB2         KList                                                                                 101027     005500) Tj
+T* (      184 C                   KFld                    BdAgnt                                                        101026     005600) Tj
+T* (      185 C                   KFld                    BdCert                                                        101026     005700) Tj
+T* (      186 C                   KFld                    BdCovC                                                        101027     005800) Tj
+T* (      187 C                   KFld                    BdFrom                                                        101026     005900) Tj
+T* (      188                                                                                                           101026     006000) Tj
+T* (      189 C     KeyB7         KList                                                                                 101027     006100) Tj
+T* (      190 C                   KFld                    BdAgnt                                                        101027     006200) Tj
+T* (      191 C                   KFld                    BdCert                                                        101027     006300) Tj
+T* (      192 C                   KFld                    BdFrom                                                        101027     006400) Tj
+T* (      193                                                                                                           101110     006500) Tj
+T* (      194 C     KeyL          KList                                                                                 101110     006600) Tj
+T* (      195 C                   KFld                    BdAgnt                                                        101110     006700) Tj
+T* (      196 C                   KFld                    BdThru                                                        101110     006800) Tj
+T* (      197                                                                                                           101026     006900) Tj
+T* (      198 C                   If        *INL1 = '1'                                                       B01       101026     007000) Tj
+T* (      199                                                                                                           101130     007100) Tj
+ET
+endstream
+endobj
+28 0 obj
+8205
+endobj
+29 0 obj
+<<
+/Parent 2 0 R
+/Title  (Page 6)
+/Prev 00025 0 R
+/Next 00033 0 R
+/Dest [26 0 R /XYZ 0 792 0]
+>>
+endobj
+30 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/MediaBox [0 0   612 792]
+/Rotate 90
+/Resources << /Font << /F1 4 0 R >> /ProcSet 3 0 R >>
+/Contents 31 0 R
+>>
+endobj
+31 0 obj
+<< /Length 32 0 R >>
+stream
+BT
+0 1 -1 0 07 07 Tm
+/F1 9 Tf
+99  Tz
+9 TL
+T* (    5722WDS V5R4M0  060210 RN        IBM ILE RPG             QTEMP/MOB267             IACI5A     09/26/13 10:12:20        Page      7) Tj
+T* () Tj
+T* (   Line   <---------------------- Source Specifications ----------------------------><---- Comments ----> Do  Page  Change Src Seq) Tj
+T* (   Number ....1....+....2....+....3....+....4....+....5....+....6....+....7....+....8....+....9....+...10 Num Line  Date   Id  Number) Tj
+T* (      200 C                   Z-Add     0             BdBTtl                                               01       101130     007200) Tj
+T* (      201 C     KeyCv2        Chain     SovTtlP                            09----                          01       101130     007300) Tj
+T* (      202                                                                                                           101026     007400) Tj
+T* (      203 C                   Z-Add     0             B2Seq#                                               01       101027     007500) Tj
+T* (      204 C     KeyB2         SetGt     BilDtlL2                           09----                          01       101027     007600) Tj
+T* (      205 C     KeyB2         ReadpE    BilDtlL2                           ----09                          01       101027     007700) Tj
+T* (      206 C                   If        *IN09 = '1'                                                       B02       101027     007800) Tj
+T* (      207 C     KeyB7         SetGt     BilDtlL7                           09----                          02       101027     007900) Tj
+T* (      208 C     KeyB7         ReadpE    BilDtlL7                           ----09                          02       101027     008000) Tj
+T* (      209 C                   If        *IN09 = '0'                                                       B03       101027     008100) Tj
+T* (      210 C                   Eval      B2Seq#      = B7Seq#                                               03       101027     008200) Tj
+T* (      211 C                   Eval      B2From      = B7From                                               03       110301     008300) Tj
+T* (      212 C                   Eval      B2CovC      = B7CovC                                               03       101110     008400) Tj
+T* (      213 C                   Else                                                                        X03       110301     008500) Tj
+T* (      214 C                   Eval      B2From      = BdFrom                                               03       110301     008600) Tj
+T* (      215 C                   Eval      B2CovC      = BdCovC                                               03       110301     008700) Tj
+T* (      216 C                   EndIf                                                                       E03       101027     008800) Tj
+T* (      217 C                   EndIf                                                                       E02       101027     008900) Tj
+T* (      218                                                                                                           101026     009000) Tj
+T* (      219 C                   Exsr      Effective                                                          01       101122     009100) Tj
+T* (      220                                                                                                           101110     009200) Tj
+T* (      221 C                   Move      'N'           Lock                                                 01       101110     009300) Tj
+T* (      222 C     KeyL          Chain     AlcLckP                            02----                          01       101110     009400) Tj
+T* (      223 C                   If        *In02       = *Off                                                B02       101110     009500) Tj
+T* (      224 C                   Eval      Lock        = 'Y'                                                  02       101110     009600) Tj
+T* (      225 C                   EndIf                                                                       E02       101110     009700) Tj
+T* (      226                                                                                                           101026     009800) Tj
+T* (      227 C                   EndIf                                                                       E01       101110     009900) Tj
+T* (      228                                                                                                           101110     010000) Tj
+T* (      229 C     Lock          IfEq      'N'                                                               B01       101110     010100) Tj
+T* (      230                                                                                                           101026     010200) Tj
+T* (      231 C                   Eval      FeeMstAmnt  =  BdBamt                                              01       101027     010300) Tj
+T* (      232 C                   Eval      FeeMstUsed  = *Zero                                                01       101026     010400) Tj
+T* (      233 C                   Eval      Method      = *Blanks                                              01       101026     010500) Tj
+T* (      234 C                   Eval      SvRate      = 0                                                    01       101110     010600) Tj
+T* (      235 C                   Eval      SvRen       = *Blanks                                              01       101110     010700) Tj
+T* (      236 C                   Eval      SvTax       = *Blanks                                              01       101110     010800) Tj
+T* (      237                                                                                                           101026     010900) Tj
+T* (      238 C     KeyF          Chain     FeeMstL1                           01----                          01       101026     011000) Tj
+T* (      239                                                                                                           101027     011100) Tj
+T* (      240  * If No Fee Master Record then Go Stright to ReInsurance Program                                         101027     011200) Tj
+T* (      241 C                   If        *In01       = *On                                                 B02       101027     011300) Tj
+T* (      242 C                   Move      *Blanks       FmDesc                                               02       101027     011400) Tj
+T* (      243 C                   Eval      FmRen = 'N'                                                        02       101027     011500) Tj
+T* (      244 C                   Eval      FmTax = 'N'                                                        02       101027     011600) Tj
+T* (      245 C                   ExSr      $Mob295                                                            02       101027     011700) Tj
+T* (      246 C                   EndIf                                                                       E02       101027     011800) Tj
+T* (      247                                                                                                           101026     011900) Tj
+T* (      248  * If Fee Master Record then Call to check for Fee Master Record                                          101026     012000) Tj
+T* (      249 C                   Dow       *In01       = *Off                                                B02       101026     012100) Tj
+T* (      250 C                   If        Parm11     >= FmEfft And                                          B03       101029     012200) Tj
+T* (      251 C                             Parm11     <= FmExpr                                              B03       101029     012300) Tj
+T* (      252                                                                                                           101026     012400) Tj
+T* (      253  *** 99% of the rates are based on this percentage                                                        101026     012500) Tj
+T* (      254 C                   If        FmRate      > *Zero                                               B04       101026     012600) Tj
+T* (      255 C                   Eval      Method      = 'Percentage'                                         04       101026     012700) Tj
+ET
+endstream
+endobj
+32 0 obj
+8495
+endobj
+33 0 obj
+<<
+/Parent 2 0 R
+/Title  (Page 7)
+/Prev 00029 0 R
+/Next 00037 0 R
+/Dest [30 0 R /XYZ 0 792 0]
+>>
+endobj
+34 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/MediaBox [0 0   612 792]
+/Rotate 90
+/Resources << /Font << /F1 4 0 R >> /ProcSet 3 0 R >>
+/Contents 35 0 R
+>>
+endobj
+35 0 obj
+<< /Length 36 0 R >>
+stream
+BT
+0 1 -1 0 07 07 Tm
+/F1 9 Tf
+99  Tz
+9 TL
+T* (    5722WDS V5R4M0  060210 RN        IBM ILE RPG             QTEMP/MOB267             IACI5A     09/26/13 10:12:20        Page      8) Tj
+T* () Tj
+T* (   Line   <---------------------- Source Specifications ----------------------------><---- Comments ----> Do  Page  Change Src Seq) Tj
+T* (   Number ....1....+....2....+....3....+....4....+....5....+....6....+....7....+....8....+....9....+...10 Num Line  Date   Id  Number) Tj
+T* (      256 C                   If        FmDesc = 'CLP Fee             '                                   B05       101108     012800) Tj
+T* (      257 C                   Z-Add     FmRate        SvRate                                               05       101110     012900) Tj
+T* (      258 C                   Move      FmRen         SvRen                                                05       101110     013000) Tj
+T* (      259 C                   Move      FmTax         SvTax                                                05       101110     013100) Tj
+T* (      260 C                   Else                                                                        X05       101108     013200) Tj
+T* (      261 C                   ExSr      $CalcAmount                                                        05       101026     013300) Tj
+T* (      262 C                   ExSr      $Mob295                                                            05       101108     013400) Tj
+T* (      263 C                   EndIf                                                                       E05       101108     013500) Tj
+T* (      264 C                   EndIf                                                                       E04       101026     013600) Tj
+T* (      265                                                                                                           101026     013700) Tj
+T* (      266  *** As of May 2006 - Only Commerce's fixed Rate Credit Card Coverage uses the Factor Method              101026     013800) Tj
+T* (      267 C                   If        FmRate      = *Zero  And                                          B04       101026     013900) Tj
+T* (      268 C                             FmFctr      > *Zero                                               B04       101026     014000) Tj
+T* (      269 C                   Eval      Method      = 'Factor    '                                         04       101026     014100) Tj
+T* (      270 C                   ExSr      $CalcAmount2                                                       04       101026     014200) Tj
+T* (      271 C                   ExSr      $Mob295                                                            04       101108     014300) Tj
+T* (      272 C                   EndIf                                                                       E04       101026     014400) Tj
+T* (      273                                                                                                           101026     014500) Tj
+T* (      274 C                   EndIf                                                                       E03       101026     014600) Tj
+T* (      275                                                                                                           101026     014700) Tj
+T* (      276 C     KeyF          Reade     FeeMstL1                           ----01                          02       101026     014800) Tj
+T* (      277 C                   EndDo                                                                       E02       101026     014900) Tj
+T* (      278                                                                                                           101108     015000) Tj
+T* (      279  *** Calculate "CLP" last                                                                                 101108     015100) Tj
+T* (      280 C     SvRate        IfNe      0                                                                 B02       101110     015200) Tj
+T* (      281 C                   Eval      FmDesc = 'CLP Fee             '                                    02       101108     015300) Tj
+T* (      282 C                   Eval      FmRen  = SvRen                                                     02       101110     015400) Tj
+T* (      283 C                   Eval      FmTax  = SvTax                                                     02       101110     015500) Tj
+T* (      284 C                   Eval      FeeMstAmnt  = \(BdBamt - FeeMstUsed\)                                02       101110     015600) Tj
+T* (      285 C                   Eval      FeeMstUsed  = BdBamt                                               02       101110     015700) Tj
+T* (      286 C                   ExSr      $Mob295                                                            02       101110     015800) Tj
+T* (      287 C                   EndIf                                                                       E02       101110     015900) Tj
+T* (      288                                                                                                           101026     016000) Tj
+T* (      289  *** The Fixed Factor Method only calculates the CLiP Fee and the TPA Fee.                                101026     016100) Tj
+T* (      290  *** This means the Bank fee is a plug for what ever is left of the premium charged                       101026     016200) Tj
+T* (      291  *** This Routine will write that last record for the Bank Fee                                            101026     016300) Tj
+T* (      292 C                   If        Method      = 'Factor    '                                        B02       101026     016400) Tj
+T* (      293 C                   ExSr      $BankFee                                                           02       101026     016500) Tj
+T* (      294 C                   EndIf                                                                       E02       101026     016600) Tj
+T* (      295                                                                                                           101110     016700) Tj
+T* (      296 C                   EndIf                                                                       E01       101110     016800) Tj
+T* (      297 C*                                                                                                        101027     016900) Tj
+T* (      298 C**                                                                                                       101027     017000) Tj
+T* (      299 C     *InzSr        BegSr                                                                                 101027     017100) Tj
+T* (      300 C     10000.0001    Mult      *Date         SysDte                                                        101027     017200) Tj
+T* (      301 C                   EndSr                                                                                 101027     017300) Tj
+T* (      302                                                                                                           101122     017400) Tj
+ET
+endstream
+endobj
+36 0 obj
+7210
+endobj
+37 0 obj
+<<
+/Parent 2 0 R
+/Title  (Page 8)
+/Prev 00033 0 R
+/Next 00041 0 R
+/Dest [34 0 R /XYZ 0 792 0]
+>>
+endobj
+38 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/MediaBox [0 0   612 792]
+/Rotate 90
+/Resources << /Font << /F1 4 0 R >> /ProcSet 3 0 R >>
+/Contents 39 0 R
+>>
+endobj
+39 0 obj
+<< /Length 40 0 R >>
+stream
+BT
+0 1 -1 0 07 07 Tm
+/F1 9 Tf
+99  Tz
+9 TL
+T* (    5722WDS V5R4M0  060210 RN        IBM ILE RPG             QTEMP/MOB267             IACI5A     09/26/13 10:12:20        Page      9) Tj
+T* () Tj
+T* (   Line   <---------------------- Source Specifications ----------------------------><---- Comments ----> Do  Page  Change Src Seq) Tj
+T* (   Number ....1....+....2....+....3....+....4....+....5....+....6....+....7....+....8....+....9....+...10 Num Line  Date   Id  Number) Tj
+T* (      303  * ---------------------------------------------------------------------- *                               101122     017600) Tj
+T* (      304  * -  Get Effective date                                                                                  101122     017700) Tj
+T* (      305  * ---------------------------------------------------------------------- *                               101122     017800) Tj
+T* (      306 C     Effective     BegSr                                                                                 101122     017900) Tj
+T* (      307 C                   Eval      Parm11      = B2From                                                        110301     018000) Tj
+T* (      308 C     KeyCv         Chain     CovMstL1                           02----                                   101122     018100) Tj
+T* (      309 C                   If        *In02       = *Off                                                B01       101122     018200) Tj
+T* (      310 C                   Eval      Parm11      = CmEfft                                               01       101122     018300) Tj
+T* (      311 C                   EndIf                                                                       E01       101122     018400) Tj
+T* (      312                                                                                                           101122     018500) Tj
+T* (      313  * Coverage record not found--get canceled/active record                                                  101122     018600) Tj
+T* (      314 C                   If        *In02       = *On                                                 B01       101122     018700) Tj
+T* (      315 C                   Z-Add     0             Cancel                                               01       101122     018800) Tj
+T* (      316 C                   Z-Add     0             SvEfft                                               01       101122     018900) Tj
+T* (      317                                                                                                           101122     019000) Tj
+T* (      318 C     KeyCv2        Chain     CovMstL1                           02----                          01       101122     019100) Tj
+T* (      319 C                   Dow       *IN02 = '0'                                                       B02       101122     019200) Tj
+T* (      320                                                                                                           101122     019300) Tj
+T* (      321 C     CmCand        IfGt      0                                                                 B03       101122     019400) Tj
+T* (      322 C     CmCand        AndGt     Cancel                                                             03       101122     019500) Tj
+T* (      323 C                   Z-Add     CmCand        Cancel                                               03       101122     019600) Tj
+T* (      324 C                   Z-Add     CmEfft        SvEfft                                               03       101122     019700) Tj
+T* (      325 C                   EndIf                                                                       E03       101122     019800) Tj
+T* (      326                                                                                                           101122     019900) Tj
+T* (      327 C     CmCand        IfEq      0                                                                 B03       101122     020000) Tj
+T* (      328 C                   Z-Add     CmEfft        SvEfft                                               03       101122     020100) Tj
+T* (      329 C                   Move      '1'           *IN02                                                03       101122     020200) Tj
+T* (      330 C                   EndIf                                                                       E03       101122     020300) Tj
+T* (      331                                                                                                           101122     020400) Tj
+T* (      332 C  N02KeyCv2        ReadE     CovMstL1                           ----02                          02       101122     020500) Tj
+T* (      333 C                   EndDo                                                                       E02       101122     020600) Tj
+T* (      334                                                                                                           101122     020700) Tj
+T* (      335 C                   If        SvEfft <> 0                                                       B02       110406     020800) Tj
+T* (      336 C                   Eval      Parm11      = SvEfft                                               02       110406     020900) Tj
+T* (      337 C                   EndIf                                                                       E02       101122     021000) Tj
+T* (      338                                                                                                           101127     021100) Tj
+T* (      339 C                   EndIf                                                                       E01       110406     021200) Tj
+T* (      340                                                                                                           110406     021300) Tj
+T* (      341 C                   EndSr                                                                                 101127     021400) Tj
+T* (      342                                                                                                           101026     021500) Tj
+ET
+endstream
+endobj
+40 0 obj
+6207
+endobj
+41 0 obj
+<<
+/Parent 2 0 R
+/Title  (Page 9)
+/Prev 00037 0 R
+/Next 00045 0 R
+/Dest [38 0 R /XYZ 0 792 0]
+>>
+endobj
+42 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/MediaBox [0 0   612 792]
+/Rotate 90
+/Resources << /Font << /F1 4 0 R >> /ProcSet 3 0 R >>
+/Contents 43 0 R
+>>
+endobj
+43 0 obj
+<< /Length 44 0 R >>
+stream
+BT
+0 1 -1 0 07 07 Tm
+/F1 9 Tf
+99  Tz
+9 TL
+T* (    5722WDS V5R4M0  060210 RN        IBM ILE RPG             QTEMP/MOB267             IACI5A     09/26/13 10:12:20        Page     10) Tj
+T* () Tj
+T* (   Line   <---------------------- Source Specifications ----------------------------><---- Comments ----> Do  Page  Change Src Seq) Tj
+T* (   Number ....1....+....2....+....3....+....4....+....5....+....6....+....7....+....8....+....9....+...10 Num Line  Date   Id  Number) Tj
+T* (      343  * ---------------------------------------------------------------------- *                               101026     021700) Tj
+T* (      344  * -  $CALCAMOUNT - Account for all money                               - *                               101026     021800) Tj
+T* (      345  * ---------------------------------------------------------------------- *                               101026     021900) Tj
+T* (      346 C     $CalcAmount   BegSr                                                                                 101026     022000) Tj
+T* (      347 C                   Eval\(H\)   FeeMstAmnt  = \(BdBamt * FmRate\) * .0100                                     101026     022100) Tj
+T* (      348 C                   Eval      FeeMstUsed  = \(FeeMstUsed + FeeMstAmnt\)                                     101026     022200) Tj
+T* (      349                                                                                                           101029     022300) Tj
+T* (      350 C     FeeMstAmnt    IfGt      .05                                                               B01       101110     022400) Tj
+T* (      351 C     FeeMstAmnt    OrLt      -.05                                                               01       101110     022500) Tj
+T* (      352 C                   Eval      FeeMstDiff  = \(BdBamt - FeeMstUsed\)                                01       101110     022600) Tj
+T* (      353 C                   If        FeeMstDiff  <> 0                                                  B02       101110     022700) Tj
+T* (      354 C                   If        FeeMstDiff  <= .02 and FeeMstDiff >= -.02                         B03       101110     022800) Tj
+T* (      355 C                   Eval      FeeMstAmnt  = FeeMstAmnt + FeeMstDiff                              03       101110     022900) Tj
+T* (      356 C                   Eval      FeeMstUsed  = BdBamt                                               03       101110     023000) Tj
+T* (      357 C                   EndIf                                                                       E03       101110     023100) Tj
+T* (      358 C                   EndIf                                                                       E02       101110     023200) Tj
+T* (      359 C                   EndIf                                                                       E01       101110     023300) Tj
+T* (      360                                                                                                           101029     023400) Tj
+T* (      361 C                   EndSr                                                                                 101026     023500) Tj
+T* (      362                                                                                                           101026     023600) Tj
+ET
+endstream
+endobj
+44 0 obj
+3355
+endobj
+45 0 obj
+<<
+/Parent 2 0 R
+/Title  (Page 10)
+/Prev 00041 0 R
+/Next 00049 0 R
+/Dest [42 0 R /XYZ 0 792 0]
+>>
+endobj
+46 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/MediaBox [0 0   612 792]
+/Rotate 90
+/Resources << /Font << /F1 4 0 R >> /ProcSet 3 0 R >>
+/Contents 47 0 R
+>>
+endobj
+47 0 obj
+<< /Length 48 0 R >>
+stream
+BT
+0 1 -1 0 07 07 Tm
+/F1 9 Tf
+99  Tz
+9 TL
+T* (    5722WDS V5R4M0  060210 RN        IBM ILE RPG             QTEMP/MOB267             IACI5A     09/26/13 10:12:20        Page     11) Tj
+T* () Tj
+T* (   Line   <---------------------- Source Specifications ----------------------------><---- Comments ----> Do  Page  Change Src Seq) Tj
+T* (   Number ....1....+....2....+....3....+....4....+....5....+....6....+....7....+....8....+....9....+...10 Num Line  Date   Id  Number) Tj
+T* (      363  * ---------------------------------------------------------------------- *                               101026     023800) Tj
+T* (      364  * -  $CALCAMOUNT - Account for all money                               - *                               101026     023900) Tj
+T* (      365  * ---------------------------------------------------------------------- *                               101026     024000) Tj
+T* (      366 C     $CalcAmount2  BegSr                                                                                 101026     024100) Tj
+T* (      367 C                   Eval\(H\)   FeeMstAmnt  = \(BdMob * \(FmFctr / FmBase\)\)                                   101026     024200) Tj
+T* (      368 C                   Eval      FeeMstUsed  = \(FeeMstUsed + FeeMstAmnt\)                                     101026     024300) Tj
+T* (      369 C                   EndSr                                                                                 101026     024400) Tj
+T* (      370                                                                                                           101026     024500) Tj
+ET
+endstream
+endobj
+48 0 obj
+1639
+endobj
+49 0 obj
+<<
+/Parent 2 0 R
+/Title  (Page 11)
+/Prev 00045 0 R
+/Next 00053 0 R
+/Dest [46 0 R /XYZ 0 792 0]
+>>
+endobj
+50 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/MediaBox [0 0   612 792]
+/Rotate 90
+/Resources << /Font << /F1 4 0 R >> /ProcSet 3 0 R >>
+/Contents 51 0 R
+>>
+endobj
+51 0 obj
+<< /Length 52 0 R >>
+stream
+BT
+0 1 -1 0 07 07 Tm
+/F1 9 Tf
+99  Tz
+9 TL
+T* (    5722WDS V5R4M0  060210 RN        IBM ILE RPG             QTEMP/MOB267             IACI5A     09/26/13 10:12:20        Page     12) Tj
+T* () Tj
+T* (   Line   <---------------------- Source Specifications ----------------------------><---- Comments ----> Do  Page  Change Src Seq) Tj
+T* (   Number ....1....+....2....+....3....+....4....+....5....+....6....+....7....+....8....+....9....+...10 Num Line  Date   Id  Number) Tj
+T* (      371  * ---------------------------------------------------------------------- *                               101026     024700) Tj
+T* (      372  * -  $Bank Fee                                                         - *                               101026     024800) Tj
+T* (      373  * ---------------------------------------------------------------------- *                               101026     024900) Tj
+T* (      374  * Account for every penny, Take into account the rounding function                                       101027     025000) Tj
+T* (      375 C     $BankFee      BegSr                                                                                 101026     025100) Tj
+T* (      376 C                   MoveL     'Bank Fee    'FmDesc                                                        101026     025200) Tj
+T* (      377 C                   Eval      FeeMstAmnt = \(BdBamt - FeeMstUsed\)                                          101026     025300) Tj
+T* (      378 C                   Eval      FmRen = 'N'                                                                 101026     025400) Tj
+T* (      379 C                   Eval      FmTax = 'N'                                                                 101026     025500) Tj
+T* (      380                                                                                                           101026     025600) Tj
+T* (      381 C                   ExSr      $Mob295                                                                     101027     025700) Tj
+T* (      382                                                                                                           101026     025800) Tj
+T* (      383 C                   EndSr                                                                                 101026     025900) Tj
+T* (      384                                                                                                           101027     026000) Tj
+ET
+endstream
+endobj
+52 0 obj
+2491
+endobj
+53 0 obj
+<<
+/Parent 2 0 R
+/Title  (Page 12)
+/Prev 00049 0 R
+/Next 00057 0 R
+/Dest [50 0 R /XYZ 0 792 0]
+>>
+endobj
+54 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/MediaBox [0 0   612 792]
+/Rotate 90
+/Resources << /Font << /F1 4 0 R >> /ProcSet 3 0 R >>
+/Contents 55 0 R
+>>
+endobj
+55 0 obj
+<< /Length 56 0 R >>
+stream
+BT
+0 1 -1 0 07 07 Tm
+/F1 9 Tf
+99  Tz
+9 TL
+T* (    5722WDS V5R4M0  060210 RN        IBM ILE RPG             QTEMP/MOB267             IACI5A     09/26/13 10:12:20        Page     13) Tj
+T* () Tj
+T* (   Line   <---------------------- Source Specifications ----------------------------><---- Comments ----> Do  Page  Change Src Seq) Tj
+T* (   Number ....1....+....2....+....3....+....4....+....5....+....6....+....7....+....8....+....9....+...10 Num Line  Date   Id  Number) Tj
+T* (      385  * ---------------------------------------------------------------------- *                               101027     026200) Tj
+T* (      386  * - Write                                                                                                101027     026300) Tj
+T* (      387  * ---------------------------------------------------------------------- *                               101027     026400) Tj
+T* (      388 C     $Mob295       BegSr                                                                                 101027     026500) Tj
+T* (      389 C                   Move      BdAgnt        CaAgnt                                                        101027     026600) Tj
+T* (      390 C                   Move      BdCert        CaCert                                                        101027     026700) Tj
+T* (      391 C                   Z-Add     BdCovC        CaCovC                                                        101027     026800) Tj
+T* (      392 C                   Move      BdCmpt        CaCmpt                                                        101027     026900) Tj
+T* (      393 C                   Move      FmDesc        CaDscM                                                        101027     027000) Tj
+T* (      394 C                   Z-Add     B2Seq#        CaSeq#                                                        101027     027100) Tj
+T* (      395 C                   Z-Add     FeeMstAmnt    CaAamt                                                        101027     027200) Tj
+T* (      396 C                   Z-Add     BdBTtl        CaBamt                                                        101130     027300) Tj
+T* (      397 C                   Move      FmRen         CaRen                                                         101027     027400) Tj
+T* (      398 C                   Move      FmTax         CaTax                                                         101027     027500) Tj
+T* (      399 C                   Z-Add     SysDte        CaADte                                                        101027     027600) Tj
+T* (      400 C                   Z-Add     BdThru        CaBDte                                                        101029     027700) Tj
+T* (      401 C                   Move      BdSt          CaBSt                                                         101113     027800) Tj
+T* (      402 C                   Z-Add     BdBrch        CaBBrh                                                        101113     027900) Tj
+T* (      403 C                   Z-Add     BdMOB         CaMOB                                                         101122     028000) Tj
+T* (      404 C                   Z-Add     Parm11        CaEfft                                                        101122     028100) Tj
+T* (      405 C                   Move      UserID        CaUser                                                        101027     028200) Tj
+T* (      406 C                   Move      PgmNam        CaPgNm                                                        101027     028300) Tj
+T* (      407 C                   Write     CmpAlcR                                                                     101027     028400) Tj
+T* (      408 C                   EndSr                                                                                 101027     028500) Tj
+T* (      409=OCMPALCR                                                                                                            8000001) Tj
+T* (           *--------------------------------------------------------------------------------------------*                     8) Tj
+T* (           * RPG record format  . . . . :  CMPALCR                                                      *                     8) Tj
+T* (           * External format  . . . . . :  CMPALCR : CEMOB/CMPALCP                                      *                     8) Tj
+T* (           *--------------------------------------------------------------------------------------------*                     8) Tj
+T* (      410=O                       CAAGNT              10A CHAR       10              Agent Number ID                          8000002) Tj
+T* (      411=O                       CACERT              30A CHAR       20              Certificate Number                       8000003) Tj
+T* (      412=O                       CACOVC              33P PACK      5,0              Coverage Code                            8000004) Tj
+T* (      413=O                       CACMPT              43A CHAR       10              Component Code                           8000005) Tj
+T* (      414=O                       CADSCM              63A CHAR       20              Master Fee Description                   8000006) Tj
+T* (      415=O                       CADSCD              83A CHAR       20              Detail Fee Description                   8000007) Tj
+T* (      416=O                       CASEQ#              88P PACK      9,0              Billing Sequence                         8000008) Tj
+T* (      417=O                       CAAAMT              94P PACK     11,4              Allocated Cost                           8000009) Tj
+T* (      418=O                       CABAMT             100P PACK     11,2              Billed Amount                            8000010) Tj
+T* (      419=O                       CAREN              101A CHAR        1              Rensurance Y or N                        8000011) Tj
+T* (      420=O                       CATAX              102A CHAR        1              Taxable Y or N                           8000012) Tj
+T* (      421=O                       CAGL#              107P PACK      9,0              General Ledger ID                        8000013) Tj
+T* (      422=O                       CAADTE             115S ZONE      8,0              Allocated Date                           8000014) Tj
+T* (      423=O                       CABDTE             123S ZONE      8,0              Billed Date                              8000015) Tj
+T* (      424=O                       CAEFFT             131S ZONE      8,0              Effective Date                           8000016) Tj
+T* (      425=O                       CAMOB              137P PACK     11,2              Outstanding Balance                      8000017) Tj
+T* (      426=O                       CABST              139A CHAR        2              State                                    8000018) Tj
+T* (      427=O                       CABBRH             142P PACK      5,0              Branch                                   8000019) Tj
+T* (      428=O                       CAUSER             152A CHAR       10              User ID                                  8000020) Tj
+T* (      429=O                       CAPGNM             162A CHAR       10              Program Name                             8000021) Tj
+T* () Tj
+T* (          * * * * *   E N D   O F   S O U R C E   * * * * *) Tj
+ET
+endstream
+endobj
+56 0 obj
+7549
+endobj
+57 0 obj
+<<
+/Parent 2 0 R
+/Title  (Page 13)
+/Prev 00053 0 R
+/Next 00061 0 R
+/Dest [54 0 R /XYZ 0 792 0]
+>>
+endobj
+58 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/MediaBox [0 0   612 792]
+/Rotate 90
+/Resources << /Font << /F1 4 0 R >> /ProcSet 3 0 R >>
+/Contents 59 0 R
+>>
+endobj
+59 0 obj
+<< /Length 60 0 R >>
+stream
+BT
+0 1 -1 0 07 07 Tm
+/F1 9 Tf
+99  Tz
+9 TL
+T* (    5722WDS V5R4M0  060210 RN        IBM ILE RPG             QTEMP/MOB267             IACI5A     09/26/13 10:12:20        Page     14) Tj
+T* () Tj
+T* (             A d d i t i o n a l   D i a g n o s t i c   M e s s a g e s) Tj
+T* () Tj
+T* (    Msg id  Sv Number Seq     Message text) Tj
+T* (   *RNF7066 00     15 001500  Record-Format ALCLCKR not used for input or output.) Tj
+T* (   *RNF7066 00     11 001100  Record-Format BILDTLR not used for input or output.) Tj
+T* (   *RNF7066 00     10 001000  Record-Format COVMSTR not used for input or output.) Tj
+T* (   *RNF7066 00     14 001400  Record-Format FEEMSTR not used for input or output.) Tj
+T* (   *RNF7066 00     12 001200  Record-Format RBILDTL not used for input or output.) Tj
+T* (   *RNF7066 00      9 000900  Record-Format SOVTTLR not used for input or output.) Tj
+T* (   *RNF7086 00      8 000800  RPG handles blocking for file SOVBILP. INFDS is updated) Tj
+T* (                              only when blocks of data are transferred.) Tj
+T* (   *RNF7086 00     16 001600  RPG handles blocking for file CMPALCP. INFDS is updated) Tj
+T* (                              only when blocks of data are transferred.) Tj
+T* () Tj
+T* (    * * * * *   E N D   O F   A D D I T I O N A L   D I A G N O S T I C   M E S S A G E S   * * * * *) Tj
+T* () Tj
+T* () Tj
+T* (                    O u t p u t   B u f f e r   P o s i t i o n s) Tj
+T* () Tj
+T* (   Line   Start End   Field or Constant) Tj
+T* () Tj
+T* (   Number Pos   Pos) Tj
+T* (      410     1    10 CAAGNT) Tj
+T* (      411    11    30 CACERT) Tj
+T* (      412    31    33 CACOVC) Tj
+T* (      413    34    43 CACMPT) Tj
+T* (      414    44    63 CADSCM) Tj
+T* (      415    64    83 CADSCD) Tj
+T* (      416    84    88 CASEQ#) Tj
+T* (      417    89    94 CAAAMT) Tj
+T* (      418    95   100 CABAMT) Tj
+T* (      419   101   101 CAREN) Tj
+T* (      420   102   102 CATAX) Tj
+T* (      421   103   107 CAGL#) Tj
+T* (      422   108   115 CAADTE) Tj
+T* (      423   116   123 CABDTE) Tj
+T* (      424   124   131 CAEFFT) Tj
+T* (      425   132   137 CAMOB) Tj
+T* (      426   138   139 CABST) Tj
+T* (      427   140   142 CABBRH) Tj
+T* (      428   143   152 CAUSER) Tj
+T* (      429   153   162 CAPGNM) Tj
+T* () Tj
+T* (    * * * * *   E N D   O F   O U T P U T   B U F F E R   P O S I T I O N   *  * * * *) Tj
+ET
+endstream
+endobj
+60 0 obj
+2421
+endobj
+61 0 obj
+<<
+/Parent 2 0 R
+/Title  (Page 14)
+/Prev 00057 0 R
+/Next 00065 0 R
+/Dest [58 0 R /XYZ 0 792 0]
+>>
+endobj
+62 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/MediaBox [0 0   612 792]
+/Rotate 90
+/Resources << /Font << /F1 4 0 R >> /ProcSet 3 0 R >>
+/Contents 63 0 R
+>>
+endobj
+63 0 obj
+<< /Length 64 0 R >>
+stream
+BT
+0 1 -1 0 07 07 Tm
+/F1 9 Tf
+99  Tz
+9 TL
+T* (    5722WDS V5R4M0  060210 RN        IBM ILE RPG             QTEMP/MOB267             IACI5A     09/26/13 10:12:20        Page     15) Tj
+T* () Tj
+T* (                       K e y   F i e l d   I n f o r m a t i o n) Tj
+T* () Tj
+T* (            File           Internal    External) Tj
+T* (              Record       field name  field name  Attributes) Tj
+T* () Tj
+T* (         7  ALCLCKP) Tj
+T* (              ALCLCKR) Tj
+T* (                           ALAGNT                  CHAR       10) Tj
+T* (                           ALTHRU                  ZONE      8,0 SIGNED) Tj
+T* () Tj
+T* (         4  BILDTLL2) Tj
+T* (              BILDTLR) Tj
+T* (                           BDAGNT                  CHAR       10) Tj
+T* (                           BDCERT                  CHAR       20) Tj
+T* (                           BDCOVC                  PACK      5,0 SIGNED) Tj
+T* (                           BDFROM                  ZONE      8,0 SIGNED) Tj
+T* (                           BDTHRU                  ZONE      8,0 SIGNED) Tj
+T* () Tj
+T* (         5  BILDTLL7) Tj
+T* (              RBILDTL is the RPG name of the external format BILDTLR.) Tj
+T* (                           BDAGNT                  CHAR       10) Tj
+T* (                           BDCERT                  CHAR       20) Tj
+T* (                           BDFROM                  ZONE      8,0 SIGNED) Tj
+T* (                           BDTHRU                  ZONE      8,0 SIGNED) Tj
+T* (                           BDCOVC                  PACK      5,0 SIGNED) Tj
+T* () Tj
+T* (         3  COVMSTL1) Tj
+T* (              COVMSTR) Tj
+T* (                           CMAGNT                  CHAR       10) Tj
+T* (                           CMCERT                  CHAR       20) Tj
+T* (                           CMCOVC                  PACK      5,0 SIGNED) Tj
+T* () Tj
+T* (         6  FEEMSTL1) Tj
+T* (              FEEMSTR) Tj
+T* (                           FMAGNT                  CHAR       10) Tj
+T* (                           FMCOVC                  PACK      5,0 SIGNED) Tj
+T* (                           FMCMPT                  CHAR       10) Tj
+T* (                           FMBAND                  PACK      3,0 SIGNED) Tj
+T* (                           FMSEQ#                  PACK      9,0 SIGNED) Tj
+T* () Tj
+T* (         1  SOVBILP) Tj
+T* (              File is not a keyed database file) Tj
+T* () Tj
+T* (         2  SOVTTLP) Tj
+T* (              SOVTTLR) Tj
+T* (                           BDAGNT                  CHAR       10) Tj
+T* (                           BDCERT                  CHAR       20) Tj
+T* () Tj
+T* (    * * * * *   E N D   O F   K E Y   F I E L D   I N F O R M A T I O N   * * * * *) Tj
+ET
+endstream
+endobj
+64 0 obj
+2792
+endobj
+65 0 obj
+<<
+/Parent 2 0 R
+/Title  (Page 15)
+/Prev 00061 0 R
+/Next 00069 0 R
+/Dest [62 0 R /XYZ 0 792 0]
+>>
+endobj
+66 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/MediaBox [0 0   612 792]
+/Rotate 90
+/Resources << /Font << /F1 4 0 R >> /ProcSet 3 0 R >>
+/Contents 67 0 R
+>>
+endobj
+67 0 obj
+<< /Length 68 0 R >>
+stream
+BT
+0 1 -1 0 07 07 Tm
+/F1 9 Tf
+99  Tz
+9 TL
+T* (    5722WDS V5R4M0  060210 RN        IBM ILE RPG             QTEMP/MOB267             IACI5A     09/26/13 10:12:20        Page     16) Tj
+T* () Tj
+T* (                             C r o s s   R e f e r e n c e) Tj
+T* () Tj
+T* (         File and Record References:) Tj
+T* () Tj
+T* (            File              Device             References \(D=Defined\)) Tj
+T* (              Record) Tj
+T* (            ALCLCKP           DISK                   15D    222) Tj
+T* (              ALCLCKR                                15D    161) Tj
+T* (            BILDTLL2          DISK                   11D    204     205) Tj
+T* (              BILDTLR                                11D     83) Tj
+T* (            BILDTLL7          DISK                   12D    207     208) Tj
+T* (              RBILDTL                                13     114) Tj
+T* (            CMPALCP           DISK                   16D) Tj
+T* (              CMPALCR                                16D    407     409) Tj
+T* (            COVMSTL1          DISK                   10D    308     318     332) Tj
+T* (              COVMSTR                                10D     57) Tj
+T* (            FEEMSTL1          DISK                   14D    238     276) Tj
+T* (              FEEMSTR                                14D    145) Tj
+T* (            SOVBILP           DISK                    8D) Tj
+T* (              SOVBILR                                 8D     35) Tj
+T* (            SOVTTLP           DISK                    9D    201) Tj
+T* (              SOVTTLR                                 9D     53) Tj
+T* () Tj
+T* (         Global Field References:) Tj
+T* () Tj
+T* (            Field             Attributes         References \(D=Defined M=Modified\)) Tj
+T* (            $BANKFEE          BEGSR                 293     375D) Tj
+T* (            $CALCAMOUNT       BEGSR                 261     346D) Tj
+T* (            $CALCAMOUNT2      BEGSR                 270     366D) Tj
+T* (            $MOB295           BEGSR                 245     262     271     286) Tj
+T* (                                                    381     388D) Tj
+T* (            *DATE             S\(8,0\)                300) Tj
+T* (            *INL1             N\(1\)                  198) Tj
+T* (            *INZSR            BEGSR                 299D) Tj
+T* (            *IN01             N\(1\)                  241     249) Tj
+T* (            *IN02             N\(1\)                  223     309     314     319) Tj
+T* (                                                    329M) Tj
+T* (            *IN09             N\(1\)                  206     209) Tj
+T* (   *RNF7031 ALAGNT            A\(10\)                 162D) Tj
+T* (   *RNF7031 ALDATE            P\(8,0\)                166D) Tj
+T* (   *RNF7031 ALFROM            P\(8,0\)                163D) Tj
+T* (   *RNF7031 ALTHRU            P\(8,0\)                164D) Tj
+T* (   *RNF7031 ALTIME            P\(6,0\)                167D) Tj
+T* (   *RNF7031 ALUSER            A\(10\)                 168D) Tj
+T* (   *RNF7031 ALXFER            P\(8,0\)                165D) Tj
+T* (            BDAGNT            A\(10\)                  41D     54M    170     175) Tj
+T* (                                                    180     184     190     195) Tj
+T* (                                                    389) Tj
+T* (            BDBAMT            P\(11,2\)                51D    231     284     285) Tj
+T* (                                                    347     352     356     377) Tj
+T* (            BDBRCH            P\(5,0\)                 43D    402) Tj
+T* (            BDBTTL            P\(11,2\)                56D    200M    396) Tj
+T* (            BDCERT            A\(20\)                  42D     55M    176     181) Tj
+T* (                                                    185     191     390) Tj
+T* (            BDCMPT            A\(10\)                  48D    172     392) Tj
+T* (            BDCOVC            P\(5,0\)                 47D    171     186     215) Tj
+T* (                                                    391) Tj
+T* (            BDFROM            P\(8,0\)                 49D    187     192     214) Tj
+ET
+endstream
+endobj
+68 0 obj
+4263
+endobj
+69 0 obj
+<<
+/Parent 2 0 R
+/Title  (Page 16)
+/Prev 00065 0 R
+/Next 00073 0 R
+/Dest [66 0 R /XYZ 0 792 0]
+>>
+endobj
+70 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/MediaBox [0 0   612 792]
+/Rotate 90
+/Resources << /Font << /F1 4 0 R >> /ProcSet 3 0 R >>
+/Contents 71 0 R
+>>
+endobj
+71 0 obj
+<< /Length 72 0 R >>
+stream
+BT
+0 1 -1 0 07 07 Tm
+/F1 9 Tf
+99  Tz
+9 TL
+T* (    5722WDS V5R4M0  060210 RN        IBM ILE RPG             QTEMP/MOB267             IACI5A     09/26/13 10:12:20        Page     17) Tj
+T* () Tj
+T* (            BDMOB             P\(11,2\)                52D    367     403) Tj
+T* (   *RNF7031 BDOORC            A\(1\)                   45D) Tj
+T* (   *RNF7031 BDSORJ            A\(1\)                   46D) Tj
+T* (            BDST              A\(2\)                   44D    401) Tj
+T* (            BDTHRU            P\(8,0\)                 50D    196     400) Tj
+T* (   *RNF7031 B2AGNT            A\(10\)                  85D) Tj
+T* (   *RNF7031 B2BAMT            P\(11,2\)                95D) Tj
+T* (   *RNF7031 B2BILL            P\(8,0\)                 90D) Tj
+T* (   *RNF7031 B2CERT            A\(20\)                  86D) Tj
+T* (   *RNF7031 B2CODE            A\(2\)                  106D) Tj
+T* (   *RNF7031 B2COMM            P\(11,2\)                96D) Tj
+T* (            B2COVC            P\(5,0\)                 87D    177     212M    215M) Tj
+T* (   *RNF7031 B2DATA            P\(14,0\)               108D) Tj
+T* (   *RNF7031 B2DATC            P\(14,0\)               112D) Tj
+T* (   *RNF7031 B2DATU            P\(14,0\)               110D) Tj
+T* (   *RNF7031 B2DESC            A\(25\)                 107D) Tj
+T* (   *RNF7031 B2DUE             P\(8,0\)                 91D) Tj
+T* (            B2FROM            P\(8,0\)                 88D    211M    214M    307) Tj
+T* (   *RNF7031 B2INT             P\(11,2\)               101D) Tj
+T* (   *RNF7031 B2INTR            P\(7,5\)                100D) Tj
+T* (   *RNF7031 B2MOB             P\(11,2\)                99D) Tj
+T* (   *RNF7031 B2MSGC            A\(2\)                  104D) Tj
+T* (   *RNF7031 B2MSGD            A\(25\)                 105D) Tj
+T* (   *RNF7031 B2NEXT            P\(8,0\)                 93D) Tj
+T* (   *RNF7031 B2PAID            P\(8,0\)                 92D) Tj
+T* (   *RNF7031 B2PAMT            P\(11,2\)                98D) Tj
+T* (   *RNF7031 B2PCOM            P\(11,2\)                97D) Tj
+T* (   *RNF7031 B2PIF             A\(2\)                   94D) Tj
+T* (   *RNF7031 B2PRIN            P\(11,2\)               102D) Tj
+T* (   *RNF7031 B2SCHD            P\(11,2\)               103D) Tj
+T* (            B2SEQ#            P\(9,0\)                 84D    203M    210M    394) Tj
+T* (   *RNF7031 B2THRU            P\(8,0\)                 89D) Tj
+T* (   *RNF7031 B2USRA            A\(10\)                 109D) Tj
+T* (   *RNF7031 B2USRC            A\(10\)                 113D) Tj
+T* (   *RNF7031 B2USRU            A\(10\)                 111D) Tj
+T* (   *RNF7031 B7AGNT            A\(10\)                 116D) Tj
+T* (   *RNF7031 B7BAMT            P\(11,2\)               126D) Tj
+T* (   *RNF7031 B7BILL            P\(8,0\)                121D) Tj
+T* (   *RNF7031 B7CERT            A\(20\)                 117D) Tj
+T* (   *RNF7031 B7CODE            A\(2\)                  137D) Tj
+T* (   *RNF7031 B7COMM            P\(11,2\)               127D) Tj
+T* (            B7COVC            P\(5,0\)                118D    212) Tj
+T* (   *RNF7031 B7DATA            P\(14,0\)               139D) Tj
+T* (   *RNF7031 B7DATC            P\(14,0\)               143D) Tj
+T* (   *RNF7031 B7DATU            P\(14,0\)               141D) Tj
+T* (   *RNF7031 B7DESC            A\(25\)                 138D) Tj
+T* (   *RNF7031 B7DUE             P\(8,0\)                122D) Tj
+T* (            B7FROM            P\(8,0\)                119D    211) Tj
+T* (   *RNF7031 B7INT             P\(11,2\)               132D) Tj
+T* (   *RNF7031 B7INTR            P\(7,5\)                131D) Tj
+T* (   *RNF7031 B7MOB             P\(11,2\)               130D) Tj
+T* (   *RNF7031 B7MSGC            A\(2\)                  135D) Tj
+T* (   *RNF7031 B7MSGD            A\(25\)                 136D) Tj
+T* (   *RNF7031 B7NEXT            P\(8,0\)                124D) Tj
+T* (   *RNF7031 B7PAID            P\(8,0\)                123D) Tj
+T* (   *RNF7031 B7PAMT            P\(11,2\)               129D) Tj
+T* (   *RNF7031 B7PCOM            P\(11,2\)               128D) Tj
+T* (   *RNF7031 B7PIF             A\(2\)                  125D) Tj
+ET
+endstream
+endobj
+72 0 obj
+4269
+endobj
+73 0 obj
+<<
+/Parent 2 0 R
+/Title  (Page 17)
+/Prev 00069 0 R
+/Next 00077 0 R
+/Dest [70 0 R /XYZ 0 792 0]
+>>
+endobj
+74 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/MediaBox [0 0   612 792]
+/Rotate 90
+/Resources << /Font << /F1 4 0 R >> /ProcSet 3 0 R >>
+/Contents 75 0 R
+>>
+endobj
+75 0 obj
+<< /Length 76 0 R >>
+stream
+BT
+0 1 -1 0 07 07 Tm
+/F1 9 Tf
+99  Tz
+9 TL
+T* (    5722WDS V5R4M0  060210 RN        IBM ILE RPG             QTEMP/MOB267             IACI5A     09/26/13 10:12:20        Page     18) Tj
+T* () Tj
+T* (   *RNF7031 B7PRIN            P\(11,2\)               133D) Tj
+T* (   *RNF7031 B7SCHD            P\(11,2\)               134D) Tj
+T* (            B7SEQ#            P\(9,0\)                115D    210) Tj
+T* (   *RNF7031 B7THRU            P\(8,0\)                120D) Tj
+T* (   *RNF7031 B7USRA            A\(10\)                 140D) Tj
+T* (   *RNF7031 B7USRC            A\(10\)                 144D) Tj
+T* (   *RNF7031 B7USRU            A\(10\)                 142D) Tj
+T* (            CAAAMT            P\(11,4\)               395M    417) Tj
+T* (            CAADTE            P\(8,0\)                399M    422) Tj
+T* (            CAAGNT            A\(10\)                 389M    410) Tj
+T* (            CABAMT            P\(11,2\)               396M    418) Tj
+T* (            CABBRH            P\(5,0\)                402M    427) Tj
+T* (            CABDTE            P\(8,0\)                400M    423) Tj
+T* (            CABST             A\(2\)                  401M    426) Tj
+T* (            CACERT            A\(20\)                 390M    411) Tj
+T* (            CACMPT            A\(10\)                 392M    413) Tj
+T* (            CACOVC            P\(5,0\)                391M    412) Tj
+T* (            CADSCD            A\(20\)                 415) Tj
+T* (            CADSCM            A\(20\)                 393M    414) Tj
+T* (            CAEFFT            P\(8,0\)                404M    424) Tj
+T* (            CAGL#             P\(9,0\)                421) Tj
+T* (            CAMOB             P\(11,2\)               403M    425) Tj
+T* (            CANCEL            P\(8,0\)                 23D    315M    322     323M) Tj
+T* (            CAPGNM            A\(10\)                 406M    429) Tj
+T* (            CAREN             A\(1\)                  397M    419) Tj
+T* (            CASEQ#            P\(9,0\)                394M    416) Tj
+T* (            CATAX             A\(1\)                  398M    420) Tj
+T* (            CAUSER            A\(10\)                 405M    428) Tj
+T* (   *RNF7031 CMAGNT            A\(10\)                  58D) Tj
+T* (   *RNF7031 CMAMNT            P\(11,2\)                67D) Tj
+T* (   *RNF7031 CMBAMT            P\(11,2\)                68D) Tj
+T* (            CMCAND            P\(8,0\)                 74D    321     322     323) Tj
+T* (                                                    327) Tj
+T* (   *RNF7031 CMCANR            A\(25\)                  75D) Tj
+T* (   *RNF7031 CMCERT            A\(20\)                  59D) Tj
+T* (   *RNF7031 CMCOVC            P\(5,0\)                 70D) Tj
+T* (   *RNF7031 CMDATA            P\(14,0\)                77D) Tj
+T* (   *RNF7031 CMDATC            P\(14,0\)                81D) Tj
+T* (   *RNF7031 CMDATU            P\(14,0\)                79D) Tj
+T* (   *RNF7031 CMDAYS            P\(3,0\)                 66D) Tj
+T* (            CMEFFT            P\(8,0\)                 63D    310     324     328) Tj
+T* (   *RNF7031 CMEXPR            P\(8,0\)                 64D) Tj
+T* (   *RNF7031 CMFPRM            P\(8,0\)                 62D) Tj
+T* (   *RNF7031 CMIDN1            P\(9,0\)                 60D) Tj
+T* (   *RNF7031 CMIDN2            P\(9,0\)                 61D) Tj
+T* (   *RNF7031 CMLAPD            P\(8,0\)                 72D) Tj
+T* (   *RNF7031 CMLAPR            A\(25\)                  73D) Tj
+T* (   *RNF7031 CMPREV            A\(20\)                  76D) Tj
+T* (   *RNF7031 CMSTAT            A\(1\)                   69D) Tj
+T* (   *RNF7031 CMTBLE            A\(7\)                   71D) Tj
+T* (   *RNF7031 CMTERM            P\(3,0\)                 65D) Tj
+T* (   *RNF7031 CMUSRA            A\(10\)                  78D) Tj
+T* (   *RNF7031 CMUSRC            A\(10\)                  82D) Tj
+T* (   *RNF7031 CMUSRU            A\(10\)                  80D) Tj
+T* (            EFFECTIVE         BEGSR                 219     306D) Tj
+T* (            FEEMSTAMNT        P\(9,2\)                 25D    231M    284M    347M) Tj
+T* (                                                    348     350     351     355M) Tj
+T* (                                                    355     367M    368     377M) Tj
+ET
+endstream
+endobj
+76 0 obj
+4420
+endobj
+77 0 obj
+<<
+/Parent 2 0 R
+/Title  (Page 18)
+/Prev 00073 0 R
+/Next 00081 0 R
+/Dest [74 0 R /XYZ 0 792 0]
+>>
+endobj
+78 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/MediaBox [0 0   612 792]
+/Rotate 90
+/Resources << /Font << /F1 4 0 R >> /ProcSet 3 0 R >>
+/Contents 79 0 R
+>>
+endobj
+79 0 obj
+<< /Length 80 0 R >>
+stream
+BT
+0 1 -1 0 07 07 Tm
+/F1 9 Tf
+99  Tz
+9 TL
+T* (    5722WDS V5R4M0  060210 RN        IBM ILE RPG             QTEMP/MOB267             IACI5A     09/26/13 10:12:20        Page     19) Tj
+T* () Tj
+T* (                                                    395) Tj
+T* (            FEEMSTDIFF        P\(9,2\)                 27D    352M    353     354) Tj
+T* (                                                    354     355) Tj
+T* (            FEEMSTUSED        P\(9,2\)                 26D    232M    284     285M) Tj
+T* (                                                    348M    348     352     356M) Tj
+T* (                                                    368M    368     377) Tj
+T* (   *RNF7031 FMAGNT            A\(10\)                 146D) Tj
+T* (   *RNF7031 FMAMNT            P\(11,2\)               153D) Tj
+T* (   *RNF7031 FMBAND            P\(3,0\)                149D) Tj
+T* (            FMBASE            P\(7,2\)                155D    367) Tj
+T* (   *RNF7031 FMCMPT            A\(10\)                 148D) Tj
+T* (   *RNF7031 FMCOVC            P\(5,0\)                147D) Tj
+T* (            FMDESC            A\(20\)                 151D    242M    256     281M) Tj
+T* (                                                    376M    393) Tj
+T* (            FMEFFT            P\(8,0\)                159D    250) Tj
+T* (            FMEXPR            P\(8,0\)                160D    251) Tj
+T* (            FMFCTR            P\(11,7\)               154D    268     367) Tj
+T* (   *RNF7031 FMGL#             P\(9,0\)                158D) Tj
+T* (            FMRATE            P\(11,7\)                18     152D    254     257) Tj
+T* (                                                    267     347) Tj
+T* (            FMREN             A\(1\)                   19     156D    243M    258) Tj
+T* (                                                    282M    378M    397) Tj
+T* (   *RNF7031 FMSEQ#            P\(9,0\)                150D) Tj
+T* (            FMTAX             A\(1\)                   20     157D    244M    259) Tj
+T* (                                                    283M    379M    398) Tj
+T* (            KEYB2             KLIST                 183D    204     205) Tj
+T* (            KEYB7             KLIST                 189D    207     208) Tj
+T* (            KEYCV             KLIST                 174D    308) Tj
+T* (            KEYCV2            KLIST                 179D    201     318     332) Tj
+T* (            KEYF              KLIST                 169D    238     276) Tj
+T* (            KEYL              KLIST                 194D    222) Tj
+T* (            LOCK              A\(1\)                   21D    221M    224M    229) Tj
+T* (            METHOD            A\(10\)                  28D    233M    255M    269M) Tj
+T* (                                                    292) Tj
+T* (            PARM11            P\(8,0\)                 22D    250     251     307M) Tj
+T* (                                                    310M    336M    404) Tj
+T* (            PGMNAM            A\(10\)                  32D    406) Tj
+T* (            SVEFFT            P\(8,0\)                 24D    316M    324M    328M) Tj
+T* (                                                    335     336) Tj
+T* (            SVRATE            P\(11,7\)                18D    234M    257M    280) Tj
+T* (            SVREN             A\(1\)                   19D    235M    258M    282) Tj
+T* (            SVTAX             A\(1\)                   20D    236M    259M    283) Tj
+T* (            SYSDTE            S\(8,0\)                 29D    300M    399) Tj
+T* (            USERID            A\(10\)                  33D    405) Tj
+T* () Tj
+T* (         Indicator References:) Tj
+T* () Tj
+T* (            Indicator                            References \(D=Defined M=Modified\)) Tj
+T* (            01                                      238D    241     249     276D) Tj
+T* (            02                                      222D    223     308D    309) Tj
+T* (                                                    314     318D    319     329M) Tj
+T* (                                                    332     332D) Tj
+T* (            09                                      201D    204D    205D    206) Tj
+T* (                                                    207D    208D    209) Tj
+T* (            L1                                       41D     42D     47D     49D) Tj
+T* (                                                    198) Tj
+T* () Tj
+T* (          * * * * *   E N D   O F   C R O S S   R E F E R E N C E   * * * * *) Tj
+ET
+endstream
+endobj
+80 0 obj
+4642
+endobj
+81 0 obj
+<<
+/Parent 2 0 R
+/Title  (Page 19)
+/Prev 00077 0 R
+/Next 00085 0 R
+/Dest [78 0 R /XYZ 0 792 0]
+>>
+endobj
+82 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/MediaBox [0 0   612 792]
+/Rotate 90
+/Resources << /Font << /F1 4 0 R >> /ProcSet 3 0 R >>
+/Contents 83 0 R
+>>
+endobj
+83 0 obj
+<< /Length 84 0 R >>
+stream
+BT
+0 1 -1 0 07 07 Tm
+/F1 9 Tf
+99  Tz
+9 TL
+T* (    5722WDS V5R4M0  060210 RN        IBM ILE RPG             QTEMP/MOB267             IACI5A     09/26/13 10:12:20        Page     20) Tj
+ET
+endstream
+endobj
+84 0 obj
+194
+endobj
+85 0 obj
+<<
+/Parent 2 0 R
+/Title  (Page 20)
+/Prev 00081 0 R
+/Next 00089 0 R
+/Dest [82 0 R /XYZ 0 792 0]
+>>
+endobj
+86 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/MediaBox [0 0   612 792]
+/Rotate 90
+/Resources << /Font << /F1 4 0 R >> /ProcSet 3 0 R >>
+/Contents 87 0 R
+>>
+endobj
+87 0 obj
+<< /Length 88 0 R >>
+stream
+BT
+0 1 -1 0 07 07 Tm
+/F1 9 Tf
+99  Tz
+9 TL
+T* (    5722WDS V5R4M0  060210 RN        IBM ILE RPG             QTEMP/MOB267             IACI5A     09/26/13 10:12:20        Page     21) Tj
+T* () Tj
+T* (                         E x t e r n a l   R e f e r e n c e s) Tj
+T* () Tj
+T* (         Statically bound procedures:) Tj
+T* (            Procedure                            References) Tj
+T* (            No references in the source.) Tj
+T* () Tj
+T* (         Imported fields:) Tj
+T* (            Field             Attributes         Defined) Tj
+T* (            No references in the source.) Tj
+T* () Tj
+T* (         Exported fields:) Tj
+T* (            Field             Attributes         Defined) Tj
+T* (            No references in the source.) Tj
+T* () Tj
+T* (      * * * * *   E N D   O F   E X T E R N A L   R E F E R E N C E S   * * * * *) Tj
+ET
+endstream
+endobj
+88 0 obj
+875
+endobj
+89 0 obj
+<<
+/Parent 2 0 R
+/Title  (Page 21)
+/Prev 00085 0 R
+/Next 00093 0 R
+/Dest [86 0 R /XYZ 0 792 0]
+>>
+endobj
+90 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/MediaBox [0 0   612 792]
+/Rotate 90
+/Resources << /Font << /F1 4 0 R >> /ProcSet 3 0 R >>
+/Contents 91 0 R
+>>
+endobj
+91 0 obj
+<< /Length 92 0 R >>
+stream
+BT
+0 1 -1 0 07 07 Tm
+/F1 9 Tf
+99  Tz
+9 TL
+T* (    5722WDS V5R4M0  060210 RN        IBM ILE RPG             QTEMP/MOB267             IACI5A     09/26/13 10:12:20        Page     22) Tj
+T* () Tj
+T* (                             M e s s a g e   S u m m a r y) Tj
+T* () Tj
+T* (    Msg id  Sv Number Message text) Tj
+T* (   *RNF7031 00     93 The name or indicator is not referenced.) Tj
+T* (   *RNF7066 00      6 Record-Format name of Externally-Described file is not used.) Tj
+T* (   *RNF7086 00      2 RPG handles blocking for the file. INFDS is updated only when) Tj
+T* (                      blocks of data are transferred.) Tj
+T* () Tj
+T* (          * * * * *   E N D   O F   M E S S A G E   S U M M A R Y   * * * * *) Tj
+ET
+endstream
+endobj
+92 0 obj
+743
+endobj
+93 0 obj
+<<
+/Parent 2 0 R
+/Title  (Page 22)
+/Prev 00089 0 R
+/Next 00097 0 R
+/Dest [90 0 R /XYZ 0 792 0]
+>>
+endobj
+94 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/MediaBox [0 0   612 792]
+/Rotate 90
+/Resources << /Font << /F1 4 0 R >> /ProcSet 3 0 R >>
+/Contents 95 0 R
+>>
+endobj
+95 0 obj
+<< /Length 96 0 R >>
+stream
+BT
+0 1 -1 0 07 07 Tm
+/F1 9 Tf
+99  Tz
+9 TL
+T* (    5722WDS V5R4M0  060210 RN        IBM ILE RPG             QTEMP/MOB267             IACI5A     09/26/13 10:12:20        Page     23) Tj
+T* () Tj
+T* (                               F i n a l   S u m m a r y) Tj
+T* () Tj
+T* (     Message Totals:) Tj
+T* () Tj
+T* (       Information  \(00\) . . . . . . . :      101) Tj
+T* (       Warning      \(10\) . . . . . . . :        0) Tj
+T* (       Error        \(20\) . . . . . . . :        0) Tj
+T* (       Severe Error \(30+\)  . . . . . . :        0) Tj
+T* (       ---------------------------------  -------) Tj
+T* (       Total . . . . . . . . . . . . . :      101) Tj
+T* () Tj
+T* () Tj
+T* (     Source Totals:) Tj
+T* () Tj
+T* (       Records . . . . . . . . . . . . :      429) Tj
+T* (       Specifications  . . . . . . . . :      351) Tj
+T* (       Data records  . . . . . . . . . :        0) Tj
+T* (       Comments  . . . . . . . . . . . :       34) Tj
+T* () Tj
+T* (            * * * * *   E N D   O F   F I N A L   S U M M A R Y   * * * * *) Tj
+T* (   Program MOB267 placed in library QTEMP. 00 highest severity. Created on 09/26/13 at 10:12:20.) Tj
+T* (             * * * * *   E N D   O F   C O M P I L A T I O N * * * * *) Tj
+ET
+endstream
+endobj
+96 0 obj
+1258
+endobj
+97 0 obj
+<<
+/Parent 2 0 R
+/Title  (Page 23)
+/Prev 00093 0 R
+/Dest [94 0 R /XYZ 0 792 0]
+>>
+endobj
+98 0 obj
+<<
+/Creator ()
+/CreationDate (D:20130926101557)
+/Title ()
+/Producer (SpoolFlex V4.1.5)
+/Keywords ()
+/Author (System i, i5, iSeries, AS/400 User EVANS)
+>>
+endobj
+xref 0 99
+0000000000 65535 f
+0000000093 00000 n
+0000000185 00000 n
+0000000267 00000 n
+0000000298 00000 n
+0000000412 00000 n
+0000000816 00000 n
+0000000980 00000 n
+0000003485 00000 n
+0000003508 00000 n
+0000003611 00000 n
+0000003777 00000 n
+0000010762 00000 n
+0000010786 00000 n
+0000010907 00000 n
+0000011073 00000 n
+0000018915 00000 n
+0000018939 00000 n
+0000019061 00000 n
+0000019227 00000 n
+0000027727 00000 n
+0000027751 00000 n
+0000027873 00000 n
+0000028039 00000 n
+0000036539 00000 n
+0000036563 00000 n
+0000036685 00000 n
+0000036851 00000 n
+0000045115 00000 n
+0000045139 00000 n
+0000045261 00000 n
+0000045427 00000 n
+0000053981 00000 n
+0000054005 00000 n
+0000054127 00000 n
+0000054293 00000 n
+0000061562 00000 n
+0000061586 00000 n
+0000061708 00000 n
+0000061874 00000 n
+0000068140 00000 n
+0000068164 00000 n
+0000068286 00000 n
+0000068452 00000 n
+0000071866 00000 n
+0000071890 00000 n
+0000072013 00000 n
+0000072179 00000 n
+0000073877 00000 n
+0000073901 00000 n
+0000074024 00000 n
+0000074190 00000 n
+0000076740 00000 n
+0000076764 00000 n
+0000076887 00000 n
+0000077053 00000 n
+0000084661 00000 n
+0000084685 00000 n
+0000084808 00000 n
+0000084974 00000 n
+0000087454 00000 n
+0000087478 00000 n
+0000087601 00000 n
+0000087767 00000 n
+0000090618 00000 n
+0000090642 00000 n
+0000090765 00000 n
+0000090931 00000 n
+0000095253 00000 n
+0000095277 00000 n
+0000095400 00000 n
+0000095566 00000 n
+0000099894 00000 n
+0000099918 00000 n
+0000100041 00000 n
+0000100207 00000 n
+0000104686 00000 n
+0000104710 00000 n
+0000104833 00000 n
+0000104999 00000 n
+0000109700 00000 n
+0000109724 00000 n
+0000109847 00000 n
+0000110013 00000 n
+0000110266 00000 n
+0000110289 00000 n
+0000110412 00000 n
+0000110578 00000 n
+0000111512 00000 n
+0000111535 00000 n
+0000111658 00000 n
+0000111824 00000 n
+0000112626 00000 n
+0000112649 00000 n
+0000112772 00000 n
+0000112938 00000 n
+0000114255 00000 n
+0000114279 00000 n
+0000114385 00000 n
+trailer
+<<
+/Size 99
+/Root 1 0 R
+/Info 98 0 R
+>>
+startxref
+114564
+%%EOF
