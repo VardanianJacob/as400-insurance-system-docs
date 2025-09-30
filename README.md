@@ -44,6 +44,26 @@
    - Статус и планы
    - Ключевые показатели
 
+## 📁 ИСХОДНЫЕ ФАЙЛЫ
+
+### Архитектурные диаграммы
+- **[AS400ReplacementFlowChart.pdf](./AS400ReplacementFlowChart.pdf)** - Диаграмма архитектуры системы
+- **[AS400 to FourPoint Export_Manual.pdf](./AS400%20to%20FourPoint%20Export_Manual.pdf)** - Руководство по экспорту данных
+
+### Бизнес-процессы (Excel)
+- **[DCC Coverage.xls](./DCC%20Coverage.xls)** - Покрытие DCC
+- **[DCC New Business Process.xls](./DCC%20New%20Business%20Process.xls)** - Процесс новых бизнес-процессов
+- **[DCC Premium Allocation Process.xls](./DCC%20Premium%20Allocation%20Process.xls)** - Процесс распределения премий
+- **[DCC Premium Process.xls](./DCC%20Premium%20Process.xls)** - Процесс премий
+- **[Sovereign DCC Claims Export Process.xls](./Sovereign%20DCC%20Claims%20Export%20Process.xls)** - Экспорт претензий
+- **[Sovereign DCC Premium Export Process.xls](./Sovereign%20DCC%20Premium%20Export%20Process.xls)** - Экспорт премий
+- **[Sovereign DCC Premium Import Process.xls](./Sovereign%20DCC%20Premium%20Import%20Process.xls)** - Импорт премий
+
+### Техническая документация
+- **[Greg_s notes on Premium Allocation Processing.pdf](./Greg_s%20notes%20on%20Premium%20Allocation%20Processing.pdf)** - Заметки по обработке премий
+- **[as400 tables by pgm.xlsx](./as400%20tables%20by%20pgm.xlsx)** - Таблицы AS/400 по программам
+- **[iSeries Job Scheduler (2).xls](./iSeries%20Job%20Scheduler%20(2).xls)** - Планировщик заданий iSeries
+
 ## 🚀 БЫСТРЫЙ СТАРТ
 
 ### Основные характеристики
