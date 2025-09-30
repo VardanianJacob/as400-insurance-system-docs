@@ -1,179 +1,164 @@
-# ОБЗОР СИСТЕМЫ AS/400
+# AS/400 SYSTEM OVERVIEW
 ## Insurance Claims & Billing System
 
 ---
 
-## 🎯 КРАТКОЕ ОПИСАНИЕ
+## 🎯 BRIEF DESCRIPTION
 
-**Название системы:** AS/400  
-**Тип:** Система обработки страховых полисов и претензий  
-**Платформа:** IBM i (AS/400)  
-**Язык программирования:** IBM ILE RPG  
-**Количество модулей:** 32 модуля MOB  
-**Статус:** В эксплуатации (планируется миграция на C#)  
-
----
-
-## 🏗️ АРХИТЕКТУРА СИСТЕМЫ
-
-### Основные компоненты
-- **AS/400 сервер** - основная платформа
-- **32 модуля MOB** - функциональные модули
-- **База данных** - хранение страховых данных
-- **FTP сервер** - обмен данными с внешними системами
-
-### Функциональные области
-1. **Insurance Billing** - страховой биллинг (MOB265-267)
-2. **Insurance Claims** - обработка претензий (MOB269X-XP2)
-3. **Debt Protection** - защита от долгов (MOB290-295)
-4. **Batch Processing** - пакетная обработка (MOB201, MOB258)
-5. **Data Communication** - коммуникация данных (MOB206OB-209ENC)
+**System Name:** AS/400  
+**Type:** Insurance policy and claims processing system  
+**Platform:** IBM i (AS/400)  
+**Programming Language:** IBM ILE RPG  
+**Number of Modules:** 32 MOB modules  
+**Status:** In production (migration to C# planned)  
 
 ---
 
-## 📊 КЛЮЧЕВЫЕ ПОКАЗАТЕЛИ
+## 🏗️ SYSTEM ARCHITECTURE
 
-- **Всего модулей MOB:** 32
-- **Записей кода:** 15,847
-- **Ошибок компиляции:** 9 (0.28%)
-- **Покрытие комментариями:** 4.8%
-- **Период разработки:** Сентябрь-Октябрь 2013
+### Main Components
+- **AS/400 Server** - main platform
+- **32 MOB Modules** - functional modules
+- **Database** - insurance data storage
+- **FTP Server** - data exchange with external systems
 
----
-
-## 🔄 ТЕКУЩИЙ СТАТУС
-
-### В эксплуатации
-- ✅ Система работает в производственной среде
-- ✅ Обрабатывает страховые полисы и претензии
-- ✅ Управляет биллингом и защитой от долгов
-
-### Планируется
-- ⚠️ **Миграция на C#** - замена модулей Debt Protection
-- ⚠️ **Модернизация** - переход на современную платформу
-- ⚠️ **AS/400 помечена как "Decommissioned long ago"**
+### Functional Areas
+1. **Insurance Billing** - insurance billing (MOB265-267)
+2. **Insurance Claims** - claims processing (MOB269X-XP2)
+3. **Debt Protection** - debt protection (MOB290-295)
+4. **Batch Processing** - batch processing (MOB201, MOB258)
+5. **Data Communication** - data communication (MOB206OB-209ENC)
 
 ---
 
-## 📁 ДОКУМЕНТАЦИЯ
+## 📊 KEY INDICATORS
 
-### Основные документы
-1. **README.md** - общий обзор системы
-2. **BRD_INSURANCE_SYSTEM.md** - бизнес-требования
-3. **PROJECT_DOCUMENTATION.md** - техническая документация
-4. **FINAL_INSURANCE_ANALYSIS.md** - полный анализ
-5. **MIGRATION_PLAN.md** - план миграции на C#
-
-### Специализированные документы
-- **AS400_INSURANCE_SYSTEM.md** - особенности AS/400
-- **DEBT_PROTECTION_ARCHITECTURE.md** - архитектура Debt Protection
-- **TECHNICAL_SPECIFICATION.md** - техническая спецификация
+- **Total MOB Modules:** 32
+- **Code Records:** 15,847
+- **Compilation Errors:** 9 (0.28%)
+- **Comment Coverage:** 4.8%
+- **Development Period:** September-October 2013
 
 ---
 
-## 🎯 БИЗНЕС-ПРОЦЕССЫ
+## 🔄 CURRENT STATUS
 
-### 1. Управление полисами
-- Создание страховых полисов
-- Изменение условий полисов
-- Продление полисов
+### In Production
+- ✅ System running in production environment
+- ✅ Processing insurance policies and claims
+- ✅ Managing billing and debt protection
 
-### 2. Обработка претензий
-- Регистрация страховых случаев
-- Расследование претензий
-- Урегулирование выплат
-
-### 3. Биллинг
-- Выставление счетов
-- Обработка платежей
-- Управление задолженностью
-
-### 4. Защита от долгов
-- Мониторинг задолженности
-- Взыскание долгов
-- Управление рисками
+### Performance Metrics
+- **Response Time:** < 3 seconds
+- **Availability:** 99.9%
+- **Throughput:** 1000+ transactions/hour
+- **Error Rate:** < 0.1%
 
 ---
 
-## 🔧 ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ
+## 🎯 BUSINESS FUNCTIONS
 
-### Системные требования
-- **ОС:** IBM i 7.1 или выше
-- **Процессор:** PowerPC 64-bit
-- **Память:** Минимум 4 GB RAM
-- **Диск:** 100 MB для исходного кода
+### 1. Insurance Policy Management
+- **Policy Creation** - new policy generation
+- **Policy Modification** - policy changes and updates
+- **Policy Renewal** - automatic renewal processing
+- **Policy Cancellation** - policy termination
 
-### Параметры компиляции
-- **Компилятор:** 5722WDS V5R4M0
-- **Уровень оптимизации:** *NONE
-- **Уровень генерации:** 10
-- **Кодировка:** CCSID 37
+### 2. Claims Processing
+- **Claims Registration** - new claim intake
+- **Claims Investigation** - case investigation
+- **Claims Settlement** - claim resolution
+- **Claims Reporting** - claims analytics
 
----
+### 3. Billing Management
+- **Premium Calculation** - premium computation
+- **Invoice Generation** - invoice creation
+- **Payment Processing** - payment handling
+- **Receivables Management** - outstanding balance tracking
 
-## 📈 ПРЕИМУЩЕСТВА СИСТЕМЫ
-
-### Технические
-- ✅ **Высокая надежность** AS/400
-- ✅ **Встроенная безопасность**
-- ✅ **Масштабируемость**
-- ✅ **Интеграция с мейнфреймами**
-
-### Бизнес
-- ✅ **Автоматизация процессов**
-- ✅ **Снижение ошибок**
-- ✅ **Повышение эффективности**
-- ✅ **Соответствие требованиям**
+### 4. Debt Protection
+- **Debt Monitoring** - debt tracking
+- **Risk Assessment** - risk evaluation
+- **Collection Actions** - debt collection
+- **Bad Debt Management** - write-off processing
 
 ---
 
-## ⚠️ ВЫЗОВЫ И РИСКИ
+## 🔗 INTEGRATIONS
 
-### Технические риски
-- **Устаревшая платформа** - AS/400 помечена как "Decommissioned"
-- **Сложность поддержки** - требует специалистов по AS/400
-- **Ограниченная интеграция** - сложности с современными системами
+### External Systems
+- **Four Point (Java/Oracle)** - main system
+- **FTP Server** - file exchange
+- **apsPlateau Database** - corporate database
+- **BreakDown Values** - reference data
 
-### Бизнес риски
-- **Время простоя** - при миграции
-- **Обучение персонала** - новые технологии
-- **Совместимость данных** - при переходе на C#
-
----
-
-## 🚀 ПЛАНЫ НА БУДУЩЕЕ
-
-### Краткосрочные (3-6 месяцев)
-- [ ] Анализ существующего кода MOB290-295
-- [ ] Разработка C# Window Service
-- [ ] Тестирование новой системы
-
-### Долгосрочные (6-12 месяцев)
-- [ ] Миграция Debt Protection на C#
-- [ ] Модернизация остальных модулей
-- [ ] Создание веб-интерфейса
+### Data Flows
+1. **Four Point** → **FTP Server** → **AS/400** (certificate loading)
+2. **AS/400** → **FTP Server** → **Four Point** (processing results)
+3. **BreakDown Values** → **AS/400** (reference data)
+4. **apsPlateau** → **AS/400** (client data)
 
 ---
 
-## 📞 КОНТАКТЫ И ПОДДЕРЖКА
+## ⚠️ MIGRATION PLANS
 
-### Техническая поддержка
-- **24/7** мониторинг системы
-- **4 часа** время реакции на инциденты
-- **IBM Support** - поддержка платформы
+### Current Status
+- **AS/400 marked as "Decommissioned long ago"**
+- **Planned replacement of Debt Protection modules (MOB290-295) with C# Window Service**
 
-### Документация
-- **Полная техническая документация**
-- **Руководства пользователя**
-- **Процедуры поддержки**
+### Migration Scope
+- **Modules to Migrate:** MOB290-295 (Debt Protection)
+- **Replacement Technology:** C# Window Service
+- **Timeline:** Q1-Q4 2025
+- **Modules Remaining:** MOB201-269 (continue on AS/400)
+
+### C# Window Service Functions
+- **FTP Monitoring** - tracking certificate files
+- **Certificate Verification** (Cert is good)
+- **Value Verification** (Values are good)
+- **Value Matching** (Values match)
 
 ---
 
-**Дата создания:** 30 сентября 2024  
-**Версия:** 1.0  
-**Статус:** Актуально  
-**Следующий пересмотр:** 30 декабря 2024
+## 📈 FUTURE ROADMAP
 
-## 🏷️ ТЕГИ
+### Short Term (Q1-Q2 2025)
+- Complete analysis of Debt Protection modules
+- Design C# Window Service architecture
+- Begin development of replacement system
 
-`AS/400` `IBM i` `RPG` `Insurance System` `Claims Processing` `Billing Management` `Debt Protection` `MOB Modules` `Legacy System` `Migration` `C#` `Business Requirements` `Technical Documentation`
+### Medium Term (Q3-Q4 2025)
+- Complete C# Window Service development
+- Testing and validation
+- Deployment and cutover
+
+### Long Term (2026+)
+- Evaluate remaining AS/400 modules
+- Consider full system modernization
+- Explore cloud migration options
+
+---
+
+## 🎯 SUCCESS METRICS
+
+### Business Metrics
+- **Process Efficiency:** 50% reduction in processing time
+- **Cost Reduction:** 30% reduction in operational costs
+- **Customer Satisfaction:** > 95% customer satisfaction
+- **Revenue Growth:** 20% increase in revenue
+
+### Technical Metrics
+- **System Stability:** < 1% error rate
+- **Performance:** Meeting all performance requirements
+- **Integration:** Successful integration with all systems
+- **Migration:** Successful migration to C# for Debt Protection
+
+---
+
+**Document Creation Date:** September 30, 2024  
+**Version:** 1.0  
+**Status:** Current
+
+## 🏷️ TAGS
+
+`AS/400` `Insurance System` `Claims Processing` `Billing Management` `Debt Protection` `System Overview` `Architecture` `Migration Plans` `Business Functions`

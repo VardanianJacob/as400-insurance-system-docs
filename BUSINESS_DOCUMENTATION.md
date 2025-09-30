@@ -1,293 +1,293 @@
-# БИЗНЕС-ДОКУМЕНТАЦИЯ СИСТЕМЫ AS/400
+# AS/400 SYSTEM BUSINESS DOCUMENTATION
 ## Insurance Claims & Billing System
 
 ---
 
-## 📋 ОБЗОР СИСТЕМЫ
+## 📋 SYSTEM OVERVIEW
 
-**Название системы:** AS/400  
-**Назначение:** Обработка страховых полисов и претензий  
-**Количество модулей:** 32 модуля MOB  
-**Статус:** В эксплуатации (планируется миграция на C#)  
-
----
-
-## 🏢 БИЗНЕС-ПРОЦЕССЫ
-
-### 1. УПРАВЛЕНИЕ СТРАХОВЫМИ ПОЛИСАМИ
-
-#### Создание полиса
-1. **Регистрация клиента** - ввод данных клиента
-2. **Выбор типа страхования** - определение вида страхового продукта
-3. **Расчет премии** - определение размера страховой премии
-4. **Создание полиса** - генерация страхового полиса
-5. **Активация полиса** - ввод полиса в действие
-
-#### Изменение полиса
-1. **Поиск полиса** - идентификация полиса
-2. **Валидация изменений** - проверка допустимости изменений
-3. **Расчет корректировок** - пересчет премии
-4. **Обновление полиса** - внесение изменений
-5. **Уведомление клиента** - информирование об изменениях
-
-### 2. ОБРАБОТКА СТРАХОВЫХ ПРЕТЕНЗИЙ
-
-#### Регистрация претензии
-1. **Получение заявления** - регистрация заявления о страховом случае
-2. **Первичная оценка** - определение типа и сложности случая
-3. **Назначение специалиста** - прикрепление к специалисту по претензиям
-4. **Сбор документов** - запрос необходимых документов
-5. **Создание дела** - регистрация в системе
-
-#### Обработка претензии
-1. **Расследование** - сбор информации о страховом случае
-2. **Оценка ущерба** - определение размера ущерба
-3. **Проверка покрытия** - анализ условий полиса
-4. **Принятие решения** - решение о выплате или отказе
-5. **Урегулирование** - выплата или закрытие дела
-
-### 3. БИЛЛИНГ И ПЛАТЕЖИ
-
-#### Выставление счетов
-1. **Расчет премии** - определение суммы к оплате
-2. **Создание счета** - генерация счета
-3. **Отправка счета** - доставка клиенту
-4. **Контроль оплаты** - отслеживание платежей
-5. **Обработка платежей** - зачисление платежей
-
-#### Управление платежами
-1. **Получение платежа** - регистрация входящего платежа
-2. **Идентификация** - привязка к конкретному счету
-3. **Валидация** - проверка корректности платежа
-4. **Зачисление** - обновление баланса клиента
-5. **Подтверждение** - уведомление о зачислении
-
-### 4. ЗАЩИТА ОТ ДОЛГОВ
-
-#### Мониторинг задолженности
-1. **Выявление задолженности** - поиск неоплаченных счетов
-2. **Анализ рисков** - оценка вероятности взыскания
-3. **Классификация** - группировка по типам задолженности
-4. **Принятие мер** - выбор стратегии взыскания
-5. **Контроль результатов** - отслеживание эффективности
-
-#### Взыскание долгов
-1. **Напоминание** - отправка уведомлений о задолженности
-2. **Эскалация** - передача в коллекторское агентство
-3. **Правовые меры** - подача исков в суд
-4. **Взыскание** - принудительное взыскание
-5. **Закрытие** - списание безнадежной задолженности
+**System Name:** AS/400  
+**Purpose:** Insurance policy and claims processing  
+**Number of Modules:** 32 MOB modules  
+**Status:** In production (migration to C# planned)  
 
 ---
 
-## 📊 ОПИСАНИЕ МОДУЛЕЙ MOB
+## 🏢 BUSINESS PROCESSES
 
-### 1. СТРАХОВОЙ БИЛЛИНГ
+### 1. INSURANCE POLICY MANAGEMENT
+
+#### Policy Creation
+1. **Client Registration** - client data entry
+2. **Insurance Type Selection** - determining insurance product type
+3. **Premium Calculation** - determining insurance premium amount
+4. **Policy Creation** - generating insurance policy
+5. **Policy Activation** - putting policy into effect
+
+#### Policy Modification
+1. **Policy Search** - policy identification
+2. **Change Validation** - checking change feasibility
+3. **Adjustment Calculation** - premium recalculation
+4. **Policy Update** - implementing changes
+5. **Client Notification** - informing about changes
+
+### 2. INSURANCE CLAIMS PROCESSING
+
+#### Claims Registration
+1. **Claim Receipt** - registering insurance claim
+2. **Initial Assessment** - determining case type and complexity
+3. **Specialist Assignment** - assigning claims specialist
+4. **Document Collection** - requesting necessary documents
+5. **Case Creation** - system registration
+
+#### Claims Processing
+1. **Investigation** - gathering information about insurance case
+2. **Damage Assessment** - determining damage amount
+3. **Coverage Verification** - analyzing policy terms
+4. **Decision Making** - deciding on payment or denial
+5. **Settlement** - payment or case closure
+
+### 3. BILLING AND PAYMENTS
+
+#### Invoice Generation
+1. **Premium Calculation** - determining payment amount
+2. **Invoice Creation** - generating invoice
+3. **Invoice Delivery** - sending to client
+4. **Payment Monitoring** - tracking payments
+5. **Payment Processing** - crediting payments
+
+#### Payment Management
+1. **Payment Receipt** - registering incoming payment
+2. **Identification** - linking to specific invoice
+3. **Validation** - checking payment correctness
+4. **Crediting** - updating client balance
+5. **Confirmation** - payment confirmation notification
+
+### 4. DEBT PROTECTION
+
+#### Debt Monitoring
+1. **Debt Identification** - finding unpaid invoices
+2. **Risk Analysis** - assessing collection probability
+3. **Classification** - grouping by debt types
+4. **Action Planning** - choosing collection strategy
+5. **Result Monitoring** - tracking effectiveness
+
+#### Debt Collection
+1. **Reminders** - sending debt notifications
+2. **Escalation** - transferring to collection agency
+3. **Legal Actions** - filing court claims
+4. **Collection** - forced debt recovery
+5. **Closure** - writing off bad debt
+
+---
+
+## 📊 MOB MODULES DESCRIPTION
+
+### 1. INSURANCE BILLING
 
 #### MOB265 - Insurance Billing "Upload"
-**Назначение:** Загрузка данных биллинга в систему  
-**Функции:**
-- Загрузка страховых данных из внешних источников
-- Валидация загружаемых данных
-- Преобразование форматов данных
-- Инициализация процесса биллинга
+**Purpose:** Uploading billing data to the system  
+**Functions:**
+- Loading insurance data from external sources
+- Validating uploaded data
+- Converting data formats
+- Initializing billing process
 
 #### MOB266 - Insurance Billing "Allocate"
-**Назначение:** Распределение биллинга по клиентам  
-**Функции:**
-- Распределение страховых премий по полисам
-- Расчет комиссий агентам
-- Аллокация затрат по продуктам
-- Создание детализированных записей биллинга
+**Purpose:** Allocating billing to clients  
+**Functions:**
+- Distributing insurance premiums across policies
+- Calculating agent commissions
+- Allocating costs by products
+- Creating detailed billing records
 
 #### MOB267 - Insurance Billing
-**Назначение:** Основной модуль обработки биллинга  
-**Функции:**
-- Создание счетов клиентам
-- Обработка платежей
-- Управление задолженностью
-- Генерация отчетов по биллингу
+**Purpose:** Main billing processing module  
+**Functions:**
+- Creating client invoices
+- Processing payments
+- Managing receivables
+- Generating billing reports
 
-### 2. ОБРАБОТКА ПРЕТЕНЗИЙ
+### 2. CLAIMS PROCESSING
 
 #### MOB269X - Load Insurance Claims
-**Назначение:** Загрузка претензий в систему  
-**Функции:**
-- Импорт данных о страховых случаях
-- Валидация информации о претензиях
-- Создание записей претензий
-- Назначение специалистов по претензиям
+**Purpose:** Loading claims into the system  
+**Functions:**
+- Importing insurance case data
+- Validating claims information
+- Creating claims records
+- Assigning claims specialists
 
 #### MOB269XP - Detail Insurance Claims to Excel
-**Назначение:** Детализация претензий с экспортом в Excel  
-**Функции:**
-- Создание детализированных отчетов по претензиям
-- Экспорт данных в Excel для анализа
-- Фильтрация претензий по различным критериям
-- Генерация статистических отчетов
+**Purpose:** Detailed claims with Excel export  
+**Functions:**
+- Creating detailed claims reports
+- Exporting data to Excel for analysis
+- Filtering claims by various criteria
+- Generating statistical reports
 
-#### MOB269XP2 - Detail Insurance Claims to Excel (версия 2)
-**Назначение:** Улучшенная версия экспорта претензий  
-**Функции:**
-- Расширенная функциональность экспорта
-- Дополнительные фильтры и группировки
-- Улучшенное форматирование отчетов
-- Интеграция с внешними системами
+#### MOB269XP2 - Detail Insurance Claims to Excel (version 2)
+**Purpose:** Enhanced claims export version  
+**Functions:**
+- Extended export functionality
+- Additional filters and groupings
+- Improved report formatting
+- External system integration
 
-### 3. ЗАЩИТА ОТ ДОЛГОВ
+### 3. DEBT PROTECTION
 
 #### MOB290 - Debt Protection Allocation Driver Program
-**Назначение:** Основная программа распределения защиты от долгов  
-**Функции:**
-- Координация процесса защиты от долгов
-- Управление очередью обработки
-- Мониторинг статуса операций
-- Логирование всех операций
+**Purpose:** Main debt protection allocation program  
+**Functions:**
+- Coordinating debt protection process
+- Managing processing queue
+- Monitoring operation status
+- Logging all operations
 
 #### MOB291 - Debt Protection Allocation Date Range Delete
-**Назначение:** Удаление записей по диапазону дат  
-**Функции:**
-- Удаление устаревших записей
-- Очистка временных данных
-- Архивирование исторических данных
-- Оптимизация производительности
+**Purpose:** Deleting records by date range  
+**Functions:**
+- Removing outdated records
+- Cleaning temporary data
+- Archiving historical data
+- Performance optimization
 
 #### MOB292 - Debt Protection - Lvl #2 Filter
-**Назначение:** Фильтрация данных уровня 2  
-**Функции:**
-- Фильтрация клиентов по критериям риска
-- Группировка задолженности по типам
-- Применение бизнес-правил фильтрации
-- Подготовка данных для дальнейшей обработки
+**Purpose:** Level 2 data filtering  
+**Functions:**
+- Filtering clients by risk criteria
+- Grouping debt by types
+- Applying business filtering rules
+- Preparing data for further processing
 
 #### MOB293 - Debt Protection - Lvl #3 Filter (FEEDTLL1)
-**Назначение:** Фильтрация данных уровня 3  
-**Функции:**
-- Детальная фильтрация по финансовым показателям
-- Анализ платежеспособности клиентов
-- Применение сложных алгоритмов оценки рисков
-- Интеграция с внешними источниками данных
+**Purpose:** Level 3 data filtering  
+**Functions:**
+- Detailed filtering by financial indicators
+- Client solvency analysis
+- Applying complex risk assessment algorithms
+- External data source integration
 
 #### MOB294 - Debt Protection - Lvl #3 Filter (FEEDTLL1) v2
-**Назначение:** Улучшенная версия фильтрации уровня 3  
-**Функции:**
-- Расширенные алгоритмы фильтрации
-- Машинное обучение для оценки рисков
-- Адаптивные пороговые значения
-- Улучшенная производительность
+**Purpose:** Enhanced level 3 filtering version  
+**Functions:**
+- Extended filtering algorithms
+- Machine learning for risk assessment
+- Adaptive threshold values
+- Improved performance
 
 #### MOB295 - Debt Protection - Write CMPALCP Records
-**Назначение:** Запись записей CMPALCP  
-**Функции:**
-- Создание записей о мерах защиты от долгов
-- Обновление статуса клиентов
-- Генерация уведомлений и отчетов
-- Интеграция с коллекторскими агентствами
+**Purpose:** Writing CMPALCP records  
+**Functions:**
+- Creating debt protection records
+- Updating client status
+- Generating notifications and reports
+- Collection agency integration
 
-### 4. ПАКЕТНАЯ ОБРАБОТКА
+### 4. BATCH PROCESSING
 
 #### MOB201 - Batch Suspense File Booking
-**Назначение:** Пакетная обработка подвешенных операций  
-**Функции:**
-- Обработка больших объемов страховых данных
-- Управление очередью заданий
-- Мониторинг процесса обработки
-- Обработка ошибок и исключений
+**Purpose:** Batch processing of suspended operations  
+**Functions:**
+- Processing large volumes of insurance data
+- Managing job queue
+- Monitoring processing progress
+- Error and exception handling
 
 #### MOB258 - Billing Sequence Processing
-**Назначение:** Обработка последовательности биллинга  
-**Функции:**
-- Управление последовательностью операций биллинга
-- Синхронизация процессов
-- Контроль целостности данных
-- Обеспечение правильного порядка обработки
+**Purpose:** Billing sequence processing  
+**Functions:**
+- Managing billing operation sequence
+- Process synchronization
+- Data integrity control
+- Ensuring correct processing order
 
-### 5. КОММУНИКАЦИЯ ДАННЫХ
+### 5. DATA COMMUNICATION
 
 #### MOB206OB - Object Binary Module 1
-**Назначение:** Объектный бинарный модуль  
-**Функции:**
-- Обработка бинарных данных
-- Сериализация/десериализация объектов
-- Оптимизация передачи данных
-- Управление кэшированием
+**Purpose:** Object binary module  
+**Functions:**
+- Processing binary data
+- Object serialization/deserialization
+- Data transfer optimization
+- Cache management
 
 #### MOB207OB - Object Binary Module 2
-**Назначение:** Объектный бинарный модуль (версия 2)  
-**Функции:**
-- Расширенная обработка бинарных данных
-- Поддержка новых форматов
-- Улучшенная производительность
-- Дополнительные функции безопасности
+**Purpose:** Object binary module (version 2)  
+**Functions:**
+- Extended binary data processing
+- New format support
+- Improved performance
+- Additional security features
 
 #### MOB208DCC - Data Communication
-**Назначение:** Модуль коммуникации данных  
-**Функции:**
-- Обмен данными с внешними системами
-- Управление FTP соединениями
-- Синхронизация данных
-- Обработка протоколов передачи
+**Purpose:** Data communication module  
+**Functions:**
+- Data exchange with external systems
+- FTP connection management
+- Data synchronization
+- Transfer protocol handling
 
 #### MOB209ENC - Encoder Module
-**Назначение:** Модуль кодирования  
-**Функции:**
-- Шифрование чувствительных данных
-- Кодирование/декодирование информации
-- Управление ключами шифрования
-- Обеспечение безопасности данных
+**Purpose:** Encoding module  
+**Functions:**
+- Encrypting sensitive data
+- Information encoding/decoding
+- Encryption key management
+- Data security assurance
 
 ---
 
-## 🔄 ИНТЕГРАЦИИ
+## 🔄 INTEGRATIONS
 
-### Внешние системы
-- **Four Point (Java/Oracle)** - основная система
-- **FTP Server** - обмен файлами
-- **apsPlateau Database** - корпоративная база данных
-- **BreakDown Values** - справочные данные
+### External Systems
+- **Four Point (Java/Oracle)** - main system
+- **FTP Server** - file exchange
+- **apsPlateau Database** - corporate database
+- **BreakDown Values** - reference data
 
-### Потоки данных
-1. **Four Point** → **FTP Server** → **AS/400** (загрузка сертификатов)
-2. **AS/400** → **FTP Server** → **Four Point** (результаты обработки)
-3. **BreakDown Values** → **AS/400** (справочные данные)
-4. **apsPlateau** → **AS/400** (данные клиентов)
-
----
-
-## 📈 ОТЧЕТНОСТЬ
-
-### Операционные отчеты
-- **Отчет по полисам** - статистика по страховым полисам
-- **Отчет по претензиям** - анализ страховых случаев
-- **Отчет по биллингу** - финансовые показатели
-- **Отчет по задолженности** - анализ дебиторской задолженности
-
-### Аналитические отчеты
-- **Тренды по продуктам** - анализ популярности страховых продуктов
-- **Географический анализ** - распределение по регионам
-- **Анализ клиентов** - сегментация клиентской базы
-- **Прогнозирование** - прогнозы по претензиям и доходам
+### Data Flows
+1. **Four Point** → **FTP Server** → **AS/400** (certificate loading)
+2. **AS/400** → **FTP Server** → **Four Point** (processing results)
+3. **BreakDown Values** → **AS/400** (reference data)
+4. **apsPlateau** → **AS/400** (client data)
 
 ---
 
-## ⚠️ ПЛАНЫ МИГРАЦИИ
+## 📈 REPORTING
 
-### Текущий статус
-- **AS/400 помечена как "Decommissioned long ago"**
-- **Планируется замена модулей Debt Protection (MOB290-295) на C# Window Service**
+### Operational Reports
+- **Policy Report** - insurance policy statistics
+- **Claims Report** - insurance case analysis
+- **Billing Report** - financial indicators
+- **Debt Report** - receivables analysis
 
-### Функции C# Window Service
-- **Мониторинг FTP** - отслеживание файлов сертификатов
-- **Проверка сертификатов** (Cert is good)
-- **Проверка значений** (Values are good)
-- **Сопоставление значений** (Values match)
+### Analytical Reports
+- **Product Trends** - insurance product popularity analysis
+- **Geographic Analysis** - regional distribution
+- **Client Analysis** - client base segmentation
+- **Forecasting** - claims and revenue predictions
 
 ---
 
-**Дата создания:** 30 сентября 2024  
-**Версия:** 1.0  
-**Статус:** Актуально
+## ⚠️ MIGRATION PLANS
 
-## 🏷️ ТЕГИ
+### Current Status
+- **AS/400 marked as "Decommissioned long ago"**
+- **Planned replacement of Debt Protection modules (MOB290-295) with C# Window Service**
+
+### C# Window Service Functions
+- **FTP Monitoring** - tracking certificate files
+- **Certificate Verification** (Cert is good)
+- **Value Verification** (Values are good)
+- **Value Matching** (Values match)
+
+---
+
+**Creation Date:** September 30, 2024  
+**Version:** 1.0  
+**Status:** Current
+
+## 🏷️ TAGS
 
 `AS/400` `Insurance System` `Claims Processing` `Billing Management` `Debt Protection` `MOB Modules` `Business Processes` `Policy Management` `Business Documentation`

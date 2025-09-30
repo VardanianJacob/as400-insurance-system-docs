@@ -1,14 +1,14 @@
-# ДЕТАЛЬНАЯ ДОКУМЕНТАЦИЯ МОДУЛЕЙ СИСТЕМЫ MOB
+# DETAILED MOB SYSTEM MODULES DOCUMENTATION
 
-## ОСНОВНЫЕ МОДУЛИ (21 модуль)
+## CORE MODULES (21 modules)
 
-### MOB201 - Базовый модуль 201
-- **Тип:** Базовый модуль
-- **Записей:** 80,524
-- **Спецификаций:** Не указано
-- **Дата компиляции:** 09/18/13 11:45:41
-- **Назначение:** Основные банковские операции
-- **Статус:** Готов к использованию
+### MOB201 - Base Module 201
+- **Type:** Base module
+- **Records:** 80,524
+- **Specifications:** Not specified
+- **Compilation Date:** 09/18/13 11:45:41
+- **Purpose:** Core banking operations
+- **Status:** Ready for use
 
 ### MOB206 - Основной модуль 206
 - **Тип:** Базовый модуль

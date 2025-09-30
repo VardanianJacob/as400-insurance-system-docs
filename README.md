@@ -1,109 +1,109 @@
-# ДОКУМЕНТАЦИЯ СИСТЕМЫ AS/400 (Insurance Claims & Billing System)
+# AS/400 SYSTEM DOCUMENTATION (Insurance Claims & Billing System)
 
-## 📋 ОБЗОР
+## 📋 OVERVIEW
 
-Бизнес-документация системы обработки страховых полисов и претензий AS/400. Система включает 32 модуля MOB для управления страховыми полисами, претензиями, биллингом и защитой от долгов.
+Business documentation for AS/400 insurance policy and claims processing system. The system includes 32 MOB modules for managing insurance policies, claims, billing, and debt protection.
 
-> **📖 Полный индекс документации:** [INDEX.md](./INDEX.md)
+> **📖 Complete documentation index:** [INDEX.md](./INDEX.md)
 
-## 📁 СТРУКТУРА ДОКУМЕНТАЦИИ
+## 📁 DOCUMENTATION STRUCTURE
 
-### 🏗️ Основные документы
+### 🏗️ Main Documents
 
-1. **[BUSINESS_DOCUMENTATION.md](./BUSINESS_DOCUMENTATION.md)** - Полная бизнес-документация
-   - Бизнес-процессы системы
-   - Описание всех модулей MOB
-   - Интеграции и отчетность
-   - Планы миграции
+1. **[BUSINESS_DOCUMENTATION.md](./BUSINESS_DOCUMENTATION.md)** - Complete business documentation
+   - System business processes
+   - Description of all MOB modules
+   - Integrations and reporting
+   - Migration plans
 
-2. **[MODULES_REFERENCE.md](./MODULES_REFERENCE.md)** - Справочник модулей
-   - Полный список 32 модулей MOB
-   - Детальное описание каждого модуля
-   - Классификация по категориям
-   - Статистика и планы миграции
+2. **[MODULES_REFERENCE.md](./MODULES_REFERENCE.md)** - Modules reference
+   - Complete list of 32 MOB modules
+   - Detailed description of each module
+   - Classification by categories
+   - Statistics and migration plans
 
-3. **[BRD_INSURANCE_SYSTEM.md](./BRD_INSURANCE_SYSTEM.md)** - Бизнес-требования
-   - Цели и задачи системы
-   - Заинтересованные стороны
-   - Критерии успеха
-   - Соответствие требованиям
+3. **[BRD_INSURANCE_SYSTEM.md](./BRD_INSURANCE_SYSTEM.md)** - Business requirements
+   - System goals and objectives
+   - Stakeholders
+   - Success criteria
+   - Requirements compliance
 
-### 📊 Дополнительные файлы
+### 📊 Additional Files
 
-4. **[PROJECT_DOCUMENTATION.md](./PROJECT_DOCUMENTATION.md)** - Общая документация проекта
-   - Архитектура системы
-   - Функциональные области
-   - Хронология разработки
+4. **[PROJECT_DOCUMENTATION.md](./PROJECT_DOCUMENTATION.md)** - General project documentation
+   - System architecture
+   - Functional areas
+   - Development timeline
 
-5. **[MODULE_DOCUMENTATION.md](./MODULE_DOCUMENTATION.md)** - Детальная документация модулей
-   - Технические характеристики модулей
-   - Статистика по сложности
+5. **[MODULE_DOCUMENTATION.md](./MODULE_DOCUMENTATION.md)** - Detailed module documentation
+   - Module technical specifications
+   - Complexity statistics
 
-6. **[SYSTEM_OVERVIEW.md](./SYSTEM_OVERVIEW.md)** - Краткий обзор системы
-   - Основные характеристики
-   - Статус и планы
-   - Ключевые показатели
+6. **[SYSTEM_OVERVIEW.md](./SYSTEM_OVERVIEW.md)** - Brief system overview
+   - Key characteristics
+   - Status and plans
+   - Key indicators
 
-## 📁 ИСХОДНЫЕ ФАЙЛЫ
+## 📁 SOURCE FILES
 
-### Архитектурные диаграммы
-- **[AS400ReplacementFlowChart.pdf](./AS400ReplacementFlowChart.pdf)** - Диаграмма архитектуры системы
-- **[AS400 to FourPoint Export_Manual.pdf](./AS400%20to%20FourPoint%20Export_Manual.pdf)** - Руководство по экспорту данных
+### Architectural Diagrams
+- **[AS400ReplacementFlowChart.pdf](./AS400ReplacementFlowChart.pdf)** - System architecture diagram
+- **[AS400 to FourPoint Export_Manual.pdf](./AS400%20to%20FourPoint%20Export_Manual.pdf)** - Data export manual
 
-### Бизнес-процессы (Excel)
-- **[DCC Coverage.xls](./DCC%20Coverage.xls)** - Покрытие DCC
-- **[DCC New Business Process.xls](./DCC%20New%20Business%20Process.xls)** - Процесс новых бизнес-процессов
-- **[DCC Premium Allocation Process.xls](./DCC%20Premium%20Allocation%20Process.xls)** - Процесс распределения премий
-- **[DCC Premium Process.xls](./DCC%20Premium%20Process.xls)** - Процесс премий
-- **[Sovereign DCC Claims Export Process.xls](./Sovereign%20DCC%20Claims%20Export%20Process.xls)** - Экспорт претензий
-- **[Sovereign DCC Premium Export Process.xls](./Sovereign%20DCC%20Premium%20Export%20Process.xls)** - Экспорт премий
-- **[Sovereign DCC Premium Import Process.xls](./Sovereign%20DCC%20Premium%20Import%20Process.xls)** - Импорт премий
+### Business Processes (Excel)
+- **[DCC Coverage.xls](./DCC%20Coverage.xls)** - DCC coverage
+- **[DCC New Business Process.xls](./DCC%20New%20Business%20Process.xls)** - New business process
+- **[DCC Premium Allocation Process.xls](./DCC%20Premium%20Allocation%20Process.xls)** - Premium allocation process
+- **[DCC Premium Process.xls](./DCC%20Premium%20Process.xls)** - Premium process
+- **[Sovereign DCC Claims Export Process.xls](./Sovereign%20DCC%20Claims%20Export%20Process.xls)** - Claims export
+- **[Sovereign DCC Premium Export Process.xls](./Sovereign%20DCC%20Premium%20Export%20Process.xls)** - Premium export
+- **[Sovereign DCC Premium Import Process.xls](./Sovereign%20DCC%20Premium%20Import%20Process.xls)** - Premium import
 
-### Техническая документация
-- **[Greg_s notes on Premium Allocation Processing.pdf](./Greg_s%20notes%20on%20Premium%20Allocation%20Processing.pdf)** - Заметки по обработке премий
-- **[as400 tables by pgm.xlsx](./as400%20tables%20by%20pgm.xlsx)** - Таблицы AS/400 по программам
-- **[iSeries Job Scheduler (2).xls](./iSeries%20Job%20Scheduler%20(2).xls)** - Планировщик заданий iSeries
+### Technical Documentation
+- **[Greg_s notes on Premium Allocation Processing.pdf](./Greg_s%20notes%20on%20Premium%20Allocation%20Processing.pdf)** - Premium processing notes
+- **[as400 tables by pgm.xlsx](./as400%20tables%20by%20pgm.xlsx)** - AS/400 tables by programs
+- **[iSeries Job Scheduler (2).xls](./iSeries%20Job%20Scheduler%20(2).xls)** - iSeries job scheduler
 
-## 🚀 БЫСТРЫЙ СТАРТ
+## 🚀 QUICK START
 
-### Основные характеристики
-- **Система:** AS/400 (Insurance Claims & Billing System)
-- **Модулей MOB:** 32
-- **Функциональность:** Обработка страховых полисов и претензий, биллинг, защита от долгов
-- **Статус:** В эксплуатации (планируется миграция на C#)
+### Key Characteristics
+- **System:** AS/400 (Insurance Claims & Billing System)
+- **MOB Modules:** 32
+- **Functionality:** Insurance policy and claims processing, billing, debt protection
+- **Status:** In production (migration to C# planned)
 
-### Функциональные области
-- **Страховой биллинг** - MOB265, MOB266, MOB267
-- **Обработка претензий** - MOB269X, MOB269XP, MOB269XP2
-- **Защита от долгов** - MOB290-295
-- **Пакетная обработка** - MOB201, MOB258
-- **Коммуникация данных** - MOB206OB-209ENC
+### Functional Areas
+- **Insurance Billing** - MOB265, MOB266, MOB267
+- **Claims Processing** - MOB269X, MOB269XP, MOB269XP2
+- **Debt Protection** - MOB290-295
+- **Batch Processing** - MOB201, MOB258
+- **Data Communication** - MOB206OB-209ENC
 
-## 📚 ИСПОЛЬЗОВАНИЕ ДОКУМЕНТАЦИИ
+## 📚 USING THE DOCUMENTATION
 
-### Для бизнес-пользователей
-1. Начните с [BUSINESS_DOCUMENTATION.md](./BUSINESS_DOCUMENTATION.md) для понимания процессов
-2. Используйте [MODULES_REFERENCE.md](./MODULES_REFERENCE.md) как справочник по модулям
-3. Изучите [BRD_INSURANCE_SYSTEM.md](./BRD_INSURANCE_SYSTEM.md) для понимания требований
+### For Business Users
+1. Start with [BUSINESS_DOCUMENTATION.md](./BUSINESS_DOCUMENTATION.md) to understand processes
+2. Use [MODULES_REFERENCE.md](./MODULES_REFERENCE.md) as a module reference
+3. Study [BRD_INSURANCE_SYSTEM.md](./BRD_INSURANCE_SYSTEM.md) to understand requirements
 
-### Для аналитиков
-1. Используйте [MODULES_REFERENCE.md](./MODULES_REFERENCE.md) для анализа функциональности
-2. Обратитесь к [PROJECT_DOCUMENTATION.md](./PROJECT_DOCUMENTATION.md) для архитектуры
-3. Изучите планы миграции в бизнес-документации
+### For Analysts
+1. Use [MODULES_REFERENCE.md](./MODULES_REFERENCE.md) for functionality analysis
+2. Refer to [PROJECT_DOCUMENTATION.md](./PROJECT_DOCUMENTATION.md) for architecture
+3. Study migration plans in business documentation
 
-## ⚠️ ВАЖНАЯ ИНФОРМАЦИЯ
+## ⚠️ IMPORTANT INFORMATION
 
-### Планы миграции
-- **AS/400 помечена как "Decommissioned long ago"**
-- **Планируется замена модулей Debt Protection (MOB290-295) на C# Window Service**
-- **Остальные модули продолжают работать на AS/400**
+### Migration Plans
+- **AS/400 marked as "Decommissioned long ago"**
+- **Planned replacement of Debt Protection modules (MOB290-295) with C# Window Service**
+- **Other modules continue to run on AS/400**
 
 ---
 
-**Дата создания документации:** 30 сентября 2024  
-**Версия:** 1.0  
-**Статус:** Актуально
+**Documentation creation date:** September 30, 2024  
+**Version:** 1.0  
+**Status:** Current
 
-## 🏷️ ТЕГИ
+## 🏷️ TAGS
 
 `AS/400` `Insurance System` `Claims Processing` `Billing Management` `Debt Protection` `MOB Modules` `Business Documentation`

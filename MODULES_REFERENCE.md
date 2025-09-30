@@ -1,242 +1,242 @@
-# СПРАВОЧНИК МОДУЛЕЙ AS/400
+# AS/400 MODULES REFERENCE
 ## MOB Modules Reference
 
 ---
 
-## 📋 ПОЛНЫЙ СПИСОК МОДУЛЕЙ
+## 📋 COMPLETE MODULES LIST
 
-| Модуль | Название | Назначение | Категория |
-|--------|----------|------------|-----------|
-| **MOB201** | Batch Suspense File Booking | Пакетная обработка подвешенных операций | Batch Processing |
-| **MOB206** | Base Module 206 | Базовый функциональный модуль | Base Module |
-| **MOB206OB** | Object Binary Module 206 | Объектный бинарный модуль | Data Communication |
-| **MOB207** | Base Module 207 | Базовый функциональный модуль | Base Module |
-| **MOB207OB** | Object Binary Module 207 | Объектный бинарный модуль | Data Communication |
-| **MOB208** | Base Module 208 | Базовый функциональный модуль | Base Module |
-| **MOB208DCC** | Data Communication | Модуль коммуникации данных | Data Communication |
-| **MOB209** | Base Module 209 | Базовый функциональный модуль | Base Module |
-| **MOB209ENC** | Encoder Module | Модуль кодирования | Data Communication |
-| **MOB210** | Base Module 210 | Базовый функциональный модуль | Base Module |
-| **MOB216** | Base Module 216 | Базовый функциональный модуль | Base Module |
-| **MOB217** | Base Module 217 | Базовый функциональный модуль | Base Module |
-| **MOB258** | Billing Sequence Processing | Обработка последовательности биллинга | Batch Processing |
-| **MOB259** | Base Module 259 | Базовый функциональный модуль | Base Module |
-| **MOB259PRE** | Pre-compile Module 259 | Предварительная компиляция | Utilities |
-| **MOB265** | Insurance Billing "Upload" | Загрузка данных биллинга | Insurance Billing |
-| **MOB266** | Insurance Billing "Allocate" | Распределение биллинга | Insurance Billing |
-| **MOB267** | Insurance Billing | Основной модуль биллинга | Insurance Billing |
-| **MOB268** | Base Module 268 | Базовый функциональный модуль | Base Module |
-| **MOB269** | Base Module 269 | Базовый функциональный модуль | Base Module |
-| **MOB269P** | Phase Module 269 | Фазовая обработка претензий | Insurance Claims |
-| **MOB269P1** | Phase Module 269-1 | Фазовая обработка претензий (этап 1) | Insurance Claims |
-| **MOB269P2** | Phase Module 269-2 | Фазовая обработка претензий (этап 2) | Insurance Claims |
-| **MOB269X** | Load Insurance Claims | Загрузка претензий | Insurance Claims |
-| **MOB269XP** | Detail Claims to Excel | Детализация претензий в Excel | Insurance Claims |
-| **MOB269XP2** | Detail Claims to Excel v2 | Улучшенная детализация претензий | Insurance Claims |
-| **MOB290** | Debt Protection Driver | Основная программа защиты от долгов | Debt Protection |
-| **MOB291** | Debt Protection Date Delete | Удаление по диапазону дат | Debt Protection |
-| **MOB292** | Debt Protection Lvl #2 Filter | Фильтр уровня 2 | Debt Protection |
-| **MOB293** | Debt Protection Lvl #3 Filter | Фильтр уровня 3 | Debt Protection |
-| **MOB294** | Debt Protection Lvl #3 Filter v2 | Фильтр уровня 3 (версия 2) | Debt Protection |
-| **MOB295** | Debt Protection Write CMPALCP | Запись записей CMPALCP | Debt Protection |
+| Module | Name | Purpose | Category |
+|--------|------|---------|----------|
+| **MOB201** | Batch Suspense File Booking | Batch processing of suspended operations | Batch Processing |
+| **MOB206** | Base Module 206 | Basic functional module | Base Module |
+| **MOB206OB** | Object Binary Module 206 | Object binary module | Data Communication |
+| **MOB207** | Base Module 207 | Basic functional module | Base Module |
+| **MOB207OB** | Object Binary Module 207 | Object binary module | Data Communication |
+| **MOB208** | Base Module 208 | Basic functional module | Base Module |
+| **MOB208DCC** | Data Communication | Data communication module | Data Communication |
+| **MOB209** | Base Module 209 | Basic functional module | Base Module |
+| **MOB209ENC** | Encoder Module | Encoding module | Data Communication |
+| **MOB210** | Base Module 210 | Basic functional module | Base Module |
+| **MOB216** | Base Module 216 | Basic functional module | Base Module |
+| **MOB217** | Base Module 217 | Basic functional module | Base Module |
+| **MOB258** | Billing Sequence Processing | Billing sequence processing | Batch Processing |
+| **MOB259** | Base Module 259 | Basic functional module | Base Module |
+| **MOB259PRE** | Pre-compile Module 259 | Pre-compilation | Utilities |
+| **MOB265** | Insurance Billing "Upload" | Billing data upload | Insurance Billing |
+| **MOB266** | Insurance Billing "Allocate" | Billing allocation | Insurance Billing |
+| **MOB267** | Insurance Billing | Main billing module | Insurance Billing |
+| **MOB268** | Base Module 268 | Basic functional module | Base Module |
+| **MOB269** | Base Module 269 | Basic functional module | Base Module |
+| **MOB269P** | Phase Module 269 | Phase claims processing | Insurance Claims |
+| **MOB269P1** | Phase Module 269-1 | Phase claims processing (stage 1) | Insurance Claims |
+| **MOB269P2** | Phase Module 269-2 | Phase claims processing (stage 2) | Insurance Claims |
+| **MOB269X** | Load Insurance Claims | Claims loading | Insurance Claims |
+| **MOB269XP** | Detail Claims to Excel | Claims detail to Excel | Insurance Claims |
+| **MOB269XP2** | Detail Claims to Excel v2 | Enhanced claims detail | Insurance Claims |
+| **MOB290** | Debt Protection Driver | Main debt protection program | Debt Protection |
+| **MOB291** | Debt Protection Date Delete | Date range deletion | Debt Protection |
+| **MOB292** | Debt Protection Lvl #2 Filter | Level 2 filter | Debt Protection |
+| **MOB293** | Debt Protection Lvl #3 Filter | Level 3 filter | Debt Protection |
+| **MOB294** | Debt Protection Lvl #3 Filter v2 | Level 3 filter (version 2) | Debt Protection |
+| **MOB295** | Debt Protection Write CMPALCP | Write CMPALCP records | Debt Protection |
 
 ---
 
-## 🏦 СТРАХОВОЙ БИЛЛИНГ (3 модуля)
+## 🏦 INSURANCE BILLING (3 modules)
 
 ### MOB265 - Insurance Billing "Upload"
-**Что делает:** Загружает данные биллинга в систему  
-**Когда используется:** При получении новых страховых данных  
-**Входные данные:** Файлы с данными о полисах и премиях  
-**Выходные данные:** Валидированные данные для обработки  
+**What it does:** Uploads billing data to the system  
+**When used:** When receiving new insurance data  
+**Input data:** Files with policy and premium data  
+**Output data:** Validated data for processing  
 
 ### MOB266 - Insurance Billing "Allocate"
-**Что делает:** Распределяет биллинг по клиентам и продуктам  
-**Когда используется:** При расчете премий и комиссий  
-**Входные данные:** Данные о полисах и тарифах  
-**Выходные данные:** Распределенные суммы по счетам  
+**What it does:** Allocates billing to clients and products  
+**When used:** When calculating premiums and commissions  
+**Input data:** Policy and rate data  
+**Output data:** Allocated amounts by accounts  
 
 ### MOB267 - Insurance Billing
-**Что делает:** Основной модуль обработки биллинга  
-**Когда используется:** Ежедневно для создания счетов  
-**Входные данные:** Распределенные данные биллинга  
-**Выходные данные:** Счета клиентам и отчеты  
+**What it does:** Main billing processing module  
+**When used:** Daily for creating invoices  
+**Input data:** Allocated billing data  
+**Output data:** Client invoices and reports  
 
 ---
 
-## 📋 ОБРАБОТКА ПРЕТЕНЗИЙ (6 модулей)
+## 📋 CLAIMS PROCESSING (6 modules)
 
 ### MOB269X - Load Insurance Claims
-**Что делает:** Загружает претензии в систему  
-**Когда используется:** При поступлении новых страховых случаев  
-**Входные данные:** Заявления о страховых случаях  
-**Выходные данные:** Зарегистрированные претензии  
+**What it does:** Loads claims into the system  
+**When used:** When new insurance cases arrive  
+**Input data:** Insurance claim applications  
+**Output data:** Registered claims  
 
 ### MOB269XP - Detail Claims to Excel
-**Что делает:** Создает детализированные отчеты по претензиям  
-**Когда используется:** Для анализа и отчетности  
-**Входные данные:** Данные о претензиях  
-**Выходные данные:** Excel файлы с отчетами  
+**What it does:** Creates detailed claims reports  
+**When used:** For analysis and reporting  
+**Input data:** Claims data  
+**Output data:** Excel files with reports  
 
 ### MOB269XP2 - Detail Claims to Excel v2
-**Что делает:** Улучшенная версия экспорта претензий  
-**Когда используется:** Для расширенной аналитики  
-**Входные данные:** Данные о претензиях  
-**Выходные данные:** Расширенные Excel отчеты  
+**What it does:** Enhanced claims export version  
+**When used:** For extended analytics  
+**Input data:** Claims data  
+**Output data:** Extended Excel reports  
 
 ### MOB269P - Phase Module 269
-**Что делает:** Фазовая обработка претензий  
-**Когда используется:** При сложных случаях  
-**Входные данные:** Претензии для поэтапной обработки  
-**Выходные данные:** Результаты по этапам  
+**What it does:** Phase-based claims processing  
+**When used:** For complex cases  
+**Input data:** Claims for phased processing  
+**Output data:** Stage results  
 
 ### MOB269P1 - Phase Module 269-1
-**Что делает:** Первый этап обработки претензий  
-**Когда используется:** Начальная фаза расследования  
-**Входные данные:** Новые претензии  
-**Выходные данные:** Первичная оценка  
+**What it does:** First stage of claims processing  
+**When used:** Initial investigation phase  
+**Input data:** New claims  
+**Output data:** Initial assessment  
 
 ### MOB269P2 - Phase Module 269-2
-**Что делает:** Второй этап обработки претензий  
-**Когда используется:** Завершающая фаза расследования  
-**Входные данные:** Результаты первого этапа  
-**Выходные данные:** Финальное решение  
+**What it does:** Second stage of claims processing  
+**When used:** Final investigation phase  
+**Input data:** First stage results  
+**Output data:** Final decision  
 
 ---
 
-## 🛡️ ЗАЩИТА ОТ ДОЛГОВ (6 модулей)
+## 🛡️ DEBT PROTECTION (6 modules)
 
 ### MOB290 - Debt Protection Driver
-**Что делает:** Координирует процесс защиты от долгов  
-**Когда используется:** Ежедневно для мониторинга  
-**Входные данные:** Данные о задолженности  
-**Выходные данные:** План действий по взысканию  
+**What it does:** Coordinates debt protection process  
+**When used:** Daily for monitoring  
+**Input data:** Debt data  
+**Output data:** Collection action plan  
 
 ### MOB291 - Debt Protection Date Delete
-**Что делает:** Удаляет устаревшие записи  
-**Когда используется:** Еженедельно для очистки  
-**Входные данные:** Исторические данные  
-**Выходные данные:** Очищенная база данных  
+**What it does:** Removes outdated records  
+**When used:** Weekly for cleanup  
+**Input data:** Historical data  
+**Output data:** Cleaned database  
 
 ### MOB292 - Debt Protection Lvl #2 Filter
-**Что делает:** Фильтрует клиентов по критериям риска  
-**Когда используется:** При анализе задолженности  
-**Входные данные:** Данные о клиентах и платежах  
-**Выходные данные:** Отфильтрованные группы клиентов  
+**What it does:** Filters clients by risk criteria  
+**When used:** When analyzing debt  
+**Input data:** Client and payment data  
+**Output data:** Filtered client groups  
 
 ### MOB293 - Debt Protection Lvl #3 Filter
-**Что делает:** Детальная фильтрация по финансовым показателям  
-**Когда используется:** При глубоком анализе рисков  
-**Входные данные:** Финансовые данные клиентов  
-**Выходные данные:** Клиенты с высоким риском  
+**What it does:** Detailed filtering by financial indicators  
+**When used:** For deep risk analysis  
+**Input data:** Client financial data  
+**Output data:** High-risk clients  
 
 ### MOB294 - Debt Protection Lvl #3 Filter v2
-**Что делает:** Улучшенная фильтрация с машинным обучением  
-**Когда используется:** При сложном анализе рисков  
-**Входные данные:** Расширенные финансовые данные  
-**Выходные данные:** Точная оценка рисков  
+**What it does:** Enhanced filtering with machine learning  
+**When used:** For complex risk analysis  
+**Input data:** Extended financial data  
+**Output data:** Accurate risk assessment  
 
 ### MOB295 - Debt Protection Write CMPALCP
-**Что делает:** Записывает меры защиты от долгов  
-**Когда используется:** При принятии решений о взыскании  
-**Входные данные:** Результаты фильтрации  
-**Выходные данные:** Записи о мерах взыскания  
+**What it does:** Writes debt protection measures  
+**When used:** When making collection decisions  
+**Input data:** Filtering results  
+**Output data:** Collection action records  
 
 ---
 
-## ⚙️ ПАКЕТНАЯ ОБРАБОТКА (2 модуля)
+## ⚙️ BATCH PROCESSING (2 modules)
 
 ### MOB201 - Batch Suspense File Booking
-**Что делает:** Обрабатывает большие объемы данных  
-**Когда используется:** Ночью для пакетной обработки  
-**Входные данные:** Массивы страховых данных  
-**Выходные данные:** Обработанные записи  
+**What it does:** Processes large volumes of data  
+**When used:** Nightly for batch processing  
+**Input data:** Arrays of insurance data  
+**Output data:** Processed records  
 
 ### MOB258 - Billing Sequence Processing
-**Что делает:** Управляет последовательностью операций биллинга  
-**Когда используется:** При создании счетов  
-**Входные данные:** Операции биллинга  
-**Выходные данные:** Упорядоченные операции  
+**What it does:** Manages billing operation sequence  
+**When used:** When creating invoices  
+**Input data:** Billing operations  
+**Output data:** Ordered operations  
 
 ---
 
-## 🔗 КОММУНИКАЦИЯ ДАННЫХ (4 модуля)
+## 🔗 DATA COMMUNICATION (4 modules)
 
 ### MOB206OB - Object Binary Module 1
-**Что делает:** Обрабатывает бинарные данные  
-**Когда используется:** При передаче файлов  
-**Входные данные:** Бинарные файлы  
-**Выходные данные:** Обработанные объекты  
+**What it does:** Processes binary data  
+**When used:** When transferring files  
+**Input data:** Binary files  
+**Output data:** Processed objects  
 
 ### MOB207OB - Object Binary Module 2
-**Что делает:** Расширенная обработка бинарных данных  
-**Когда используется:** При сложных операциях  
-**Входные данные:** Сложные бинарные данные  
-**Выходные данные:** Оптимизированные объекты  
+**What it does:** Extended binary data processing  
+**When used:** For complex operations  
+**Input data:** Complex binary data  
+**Output data:** Optimized objects  
 
 ### MOB208DCC - Data Communication
-**Что делает:** Обменивается данными с внешними системами  
-**Когда используется:** Постоянно для синхронизации  
-**Входные данные:** Данные от внешних систем  
-**Выходные данные:** Данные для внешних систем  
+**What it does:** Exchanges data with external systems  
+**When used:** Constantly for synchronization  
+**Input data:** Data from external systems  
+**Output data:** Data for external systems  
 
 ### MOB209ENC - Encoder Module
-**Что делает:** Шифрует и кодирует данные  
-**Когда используется:** При передаче чувствительных данных  
-**Входные данные:** Открытые данные  
-**Выходные данные:** Зашифрованные данные  
+**What it does:** Encrypts and encodes data  
+**When used:** When transferring sensitive data  
+**Input data:** Open data  
+**Output data:** Encrypted data  
 
 ---
 
-## 🔧 УТИЛИТЫ (1 модуль)
+## 🔧 UTILITIES (1 module)
 
 ### MOB259PRE - Pre-compile Module
-**Что делает:** Предварительная компиляция модулей  
-**Когда используется:** При разработке и тестировании  
-**Входные данные:** Исходный код  
-**Выходные данные:** Подготовленный код для компиляции  
+**What it does:** Pre-compiles modules  
+**When used:** During development and testing  
+**Input data:** Source code  
+**Output data:** Code prepared for compilation  
 
 ---
 
-## 📊 СТАТИСТИКА МОДУЛЕЙ
+## 📊 MODULE STATISTICS
 
-### По категориям
-- **Базовые модули:** 21 (MOB201-217, MOB258-259, MOB268-269)
-- **Страховой биллинг:** 3 (MOB265-267)
-- **Обработка претензий:** 6 (MOB269X, MOB269XP, MOB269XP2, MOB269P, MOB269P1, MOB269P2)
-- **Защита от долгов:** 6 (MOB290-295)
-- **Пакетная обработка:** 2 (MOB201, MOB258)
-- **Коммуникация данных:** 4 (MOB206OB, MOB207OB, MOB208DCC, MOB209ENC)
-- **Утилиты:** 1 (MOB259PRE)
+### By Category
+- **Base Modules:** 21 (MOB201-217, MOB258-259, MOB268-269)
+- **Insurance Billing:** 3 (MOB265-267)
+- **Claims Processing:** 6 (MOB269X, MOB269XP, MOB269XP2, MOB269P, MOB269P1, MOB269P2)
+- **Debt Protection:** 6 (MOB290-295)
+- **Batch Processing:** 2 (MOB201, MOB258)
+- **Data Communication:** 4 (MOB206OB, MOB207OB, MOB208DCC, MOB209ENC)
+- **Utilities:** 1 (MOB259PRE)
 
-### По сложности
-- **Высокая сложность (>500 записей):** 5 модулей
-- **Средняя сложность (200-500 записей):** 15 модулей
-- **Низкая сложность (<200 записей):** 12 модулей
-
----
-
-## ⚠️ ПЛАНЫ МИГРАЦИИ
-
-### Модули для замены на C# Window Service
-- **MOB290-295** - все модули Debt Protection
-- **Причина:** AS/400 помечена как "Decommissioned long ago"
-- **Замена:** C# Window Service с функциями:
-  - Мониторинг FTP
-  - Проверка сертификатов
-  - Проверка значений
-  - Сопоставление значений
-
-### Модули, которые остаются
-- **MOB201-269** - все остальные модули
-- **Статус:** Продолжают работать на AS/400
+### By Complexity
+- **High complexity (>500 records):** 5 modules
+- **Medium complexity (200-500 records):** 15 modules
+- **Low complexity (<200 records):** 12 modules
 
 ---
 
-**Дата создания:** 30 сентября 2024  
-**Версия:** 1.0  
-**Статус:** Актуально
+## ⚠️ MIGRATION PLANS
 
-## 🏷️ ТЕГИ
+### Modules to be replaced with C# Window Service
+- **MOB290-295** - all Debt Protection modules
+- **Reason:** AS/400 marked as "Decommissioned long ago"
+- **Replacement:** C# Window Service with functions:
+  - FTP monitoring
+  - Certificate verification
+  - Value verification
+  - Value matching
+
+### Modules that remain
+- **MOB201-269** - all other modules
+- **Status:** Continue to run on AS/400
+
+---
+
+**Creation Date:** September 30, 2024  
+**Version:** 1.0  
+**Status:** Current
+
+## 🏷️ TAGS
 
 `AS/400` `MOB Modules` `Insurance System` `Claims Processing` `Billing Management` `Debt Protection` `Module Reference` `Business Functions`

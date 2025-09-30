@@ -5,304 +5,292 @@
 
 ## 📋 EXECUTIVE SUMMARY
 
-**Название системы:** AS/400 Insurance Claims & Billing System  
-**Тип системы:** Система обработки страховых полисов и претензий  
-**Платформа:** IBM i (AS/400)  
-**Язык программирования:** IBM ILE RPG  
-**Период разработки:** Сентябрь-Октябрь 2013  
-**Статус:** В эксплуатации (планируется миграция на C#)  
+**System Name:** AS/400 Insurance Claims & Billing System  
+**System Type:** Insurance policy and claims processing system  
+**Platform:** IBM i (AS/400)  
+**Programming Language:** IBM ILE RPG  
+**Development Period:** September-October 2013  
+**Status:** In production (migration to C# planned)  
 
 ---
 
 ## 🎯 BUSINESS OBJECTIVES
 
-### Основные бизнес-цели
-- **Автоматизация страховых процессов** - обработка полисов и претензий
-- **Управление биллингом** - выставление счетов и управление платежами
-- **Защита от долгов** - предотвращение финансовых потерь
-- **Отчетность и аналитика** - предоставление данных для принятия решений
+### Main Business Goals
+- **Insurance Process Automation** - policy and claims processing
+- **Billing Management** - invoice generation and payment management
+- **Debt Protection** - preventing financial losses
+- **Reporting and Analytics** - providing data for decision making
 
-### Ключевые показатели эффективности (KPI)
-- **Время обработки претензии:** < 24 часа
-- **Точность биллинга:** > 99.5%
-- **Доступность системы:** > 99.9%
-- **Время отклика:** < 3 секунды
+### Key Performance Indicators (KPI)
+- **Claims processing time:** < 24 hours
+- **Billing accuracy:** > 99.5%
+- **System availability:** > 99.9%
+- **Response time:** < 3 seconds
 
 ---
 
 ## 🏢 BUSINESS CONTEXT
 
-### Страховая отрасль
-Система MOB предназначена для автоматизации ключевых процессов страховой компании:
+### Insurance Industry
+The MOB system is designed to automate key insurance company processes:
 
-1. **Управление полисами** - создание, изменение, продление страховых полисов
-2. **Обработка претензий** - регистрация, обработка и урегулирование страховых случаев
-3. **Биллинг** - выставление счетов, управление платежами
-4. **Защита от долгов** - предотвращение финансовых потерь от неоплаченных премий
+1. **Policy Management** - creating, modifying, renewing insurance policies
+2. **Claims Processing** - registering, processing and settling insurance cases
+3. **Billing** - invoice generation, payment management
+4. **Debt Protection** - preventing financial losses from unpaid premiums
 
-### Пользователи системы
-- **Страховые агенты** - работа с полисами и клиентами
-- **Специалисты по претензиям** - обработка страховых случаев
-- **Финансовые аналитики** - биллинг и отчетность
-- **Администраторы системы** - техническая поддержка
+### System Users
+- **Insurance Agents** - working with policies and clients
+- **Claims Specialists** - processing insurance cases
+- **Financial Analysts** - billing and reporting
+- **System Administrators** - technical support
 
 ---
 
 ## 📊 BUSINESS PROCESSES
 
-### 1. 🏦 INSURANCE POLICY MANAGEMENT (Управление полисами)
+### 1. 🏦 INSURANCE POLICY MANAGEMENT
 
-#### 1.1 Создание полиса
-**Описание:** Процесс создания нового страхового полиса
+#### 1.1 Policy Creation
+**Description:** Process of creating a new insurance policy
 
-**Участники:**
-- Страховой агент
-- Система MOB
-- База данных полисов
+**Participants:**
+- Insurance agent
+- MOB system
+- Policy database
 
-**Шаги процесса:**
-1. **Регистрация клиента** - ввод данных клиента
-2. **Выбор типа страхования** - определение вида страхового продукта
-3. **Расчет премии** - определение размера страховой премии
-4. **Создание полиса** - генерация страхового полиса
-5. **Активация полиса** - ввод полиса в действие
+**Process Steps:**
+1. **Client Registration** - client data entry
+2. **Insurance Type Selection** - determining insurance product type
+3. **Premium Calculation** - determining insurance premium amount
+4. **Policy Creation** - generating insurance policy
+5. **Policy Activation** - putting policy into effect
 
-**Модули AS/400 (MOB):**
+**AS/400 Modules (MOB):**
 - MOB201 - Batch Suspense File Booking
 - MOB258 - Billing Sequence Processing
 
-**Результат:** Активированный страховой полис
+**Result:** Activated insurance policy
 
-#### 1.2 Изменение полиса
-**Описание:** Процесс внесения изменений в существующий полис
+#### 1.2 Policy Modification
+**Description:** Process of making changes to existing policy
 
-**Шаги процесса:**
-1. **Поиск полиса** - идентификация полиса
-2. **Валидация изменений** - проверка допустимости изменений
-3. **Расчет корректировок** - пересчет премии
-4. **Обновление полиса** - внесение изменений
-5. **Уведомление клиента** - информирование об изменениях
+**Process Steps:**
+1. **Policy Search** - policy identification
+2. **Change Validation** - checking change feasibility
+3. **Adjustment Calculation** - premium recalculation
+4. **Policy Update** - implementing changes
+5. **Client Notification** - informing about changes
 
-### 2. 📋 CLAIMS PROCESSING (Обработка претензий)
+### 2. 📋 CLAIMS PROCESSING
 
-#### 2.1 Регистрация претензии
-**Описание:** Процесс регистрации нового страхового случая
+#### 2.1 Claims Registration
+**Description:** Process of registering new insurance case
 
-**Участники:**
-- Клиент/Заявитель
-- Специалист по претензиям
-- Система MOB
+**Participants:**
+- Client/Claimant
+- Claims specialist
+- MOB system
 
-**Шаги процесса:**
-1. **Получение заявления** - регистрация заявления о страховом случае
-2. **Первичная оценка** - определение типа и сложности случая
-3. **Назначение специалиста** - прикрепление к специалисту по претензиям
-4. **Сбор документов** - запрос необходимых документов
-5. **Создание дела** - регистрация в системе
+**Process Steps:**
+1. **Claim Receipt** - registering insurance claim
+2. **Initial Assessment** - determining case type and complexity
+3. **Specialist Assignment** - assigning claims specialist
+4. **Document Collection** - requesting necessary documents
+5. **Case Creation** - system registration
 
-**Модули AS/400 (MOB):**
+**AS/400 Modules (MOB):**
 - MOB269X - Load Insurance Claims
 - MOB269XP - Detail Claims to Excel
+- MOB269XP2 - Detail Claims to Excel v2
 
-**Результат:** Зарегистрированная претензия
+**Result:** Registered insurance claim
 
-#### 2.2 Обработка претензии
-**Описание:** Процесс расследования и урегулирования претензии
+#### 2.2 Claims Processing
+**Description:** Process of investigating and settling claims
 
-**Шаги процесса:**
-1. **Расследование** - сбор информации о страховом случае
-2. **Оценка ущерба** - определение размера ущерба
-3. **Проверка покрытия** - анализ условий полиса
-4. **Принятие решения** - решение о выплате или отказе
-5. **Урегулирование** - выплата или закрытие дела
+**Process Steps:**
+1. **Investigation** - gathering information about insurance case
+2. **Damage Assessment** - determining damage amount
+3. **Coverage Verification** - analyzing policy terms
+4. **Decision Making** - deciding on payment or denial
+5. **Settlement** - payment or case closure
 
-**Модули системы:**
-- MOB269XP2 - Enhanced Claims Processing
-- MOB269P, MOB269P1, MOB269P2 - Phased Claims Processing
+**AS/400 Modules (MOB):**
+- MOB269P - Phase Module 269
+- MOB269P1 - Phase Module 269-1
+- MOB269P2 - Phase Module 269-2
 
-### 3. 💰 BILLING MANAGEMENT (Управление биллингом)
+### 3. 💰 BILLING MANAGEMENT
 
-#### 3.1 Выставление счетов
-**Описание:** Процесс создания и отправки счетов клиентам
+#### 3.1 Invoice Generation
+**Description:** Process of creating and sending invoices
 
-**Участники:**
-- Финансовый отдел
-- Система MOB
-- Клиенты
+**Process Steps:**
+1. **Premium Calculation** - determining payment amount
+2. **Invoice Creation** - generating invoice
+3. **Invoice Delivery** - sending to client
+4. **Payment Monitoring** - tracking payments
+5. **Payment Processing** - crediting payments
 
-**Шаги процесса:**
-1. **Расчет премии** - определение суммы к оплате
-2. **Создание счета** - генерация счета
-3. **Отправка счета** - доставка клиенту
-4. **Контроль оплаты** - отслеживание платежей
-5. **Обработка платежей** - зачисление платежей
-
-**Модули системы:**
+**AS/400 Modules (MOB):**
 - MOB265 - Insurance Billing "Upload"
 - MOB266 - Insurance Billing "Allocate"
 - MOB267 - Insurance Billing
 
-**Результат:** Выставленный и оплаченный счет
+#### 3.2 Payment Management
+**Description:** Process of managing client payments
 
-#### 3.2 Управление платежами
-**Описание:** Процесс обработки входящих платежей
+**Process Steps:**
+1. **Payment Receipt** - registering incoming payment
+2. **Identification** - linking to specific invoice
+3. **Validation** - checking payment correctness
+4. **Crediting** - updating client balance
+5. **Confirmation** - payment confirmation notification
 
-**Шаги процесса:**
-1. **Получение платежа** - регистрация входящего платежа
-2. **Идентификация** - привязка к конкретному счету
-3. **Валидация** - проверка корректности платежа
-4. **Зачисление** - обновление баланса клиента
-5. **Подтверждение** - уведомление о зачислении
+### 4. 🛡️ DEBT PROTECTION
 
-### 4. 🛡️ DEBT PROTECTION (Защита от долгов)
+#### 4.1 Debt Monitoring
+**Description:** Process of monitoring client debt
 
-#### 4.1 Мониторинг задолженности
-**Описание:** Процесс отслеживания неоплаченных счетов
+**Process Steps:**
+1. **Debt Identification** - finding unpaid invoices
+2. **Risk Analysis** - assessing collection probability
+3. **Classification** - grouping by debt types
+4. **Action Planning** - choosing collection strategy
+5. **Result Monitoring** - tracking effectiveness
 
-**Участники:**
-- Финансовый отдел
-- Система MOB
-- Коллекторское агентство
+**AS/400 Modules (MOB):**
+- MOB290 - Debt Protection Driver
+- MOB291 - Debt Protection Date Delete
+- MOB292 - Debt Protection Lvl #2 Filter
+- MOB293 - Debt Protection Lvl #3 Filter
+- MOB294 - Debt Protection Lvl #3 Filter v2
+- MOB295 - Debt Protection Write CMPALCP
 
-**Шаги процесса:**
-1. **Выявление задолженности** - поиск неоплаченных счетов
-2. **Анализ рисков** - оценка вероятности взыскания
-3. **Классификация** - группировка по типам задолженности
-4. **Принятие мер** - выбор стратегии взыскания
-5. **Контроль результатов** - отслеживание эффективности
+#### 4.2 Debt Collection
+**Description:** Process of collecting outstanding debts
 
-**Модули системы:**
-- MOB290 - Debt Protection Allocation Driver
-- MOB291 - Date Range Delete
-- MOB292 - Lvl #2 Filter
-- MOB293 - Lvl #3 Filter (FEEDTLL1)
-- MOB294 - Lvl #3 Filter (FEEDTLL1) v2
-- MOB295 - Write CMPALCP Records
-
-**Результат:** Управляемая задолженность
-
-#### 4.2 Взыскание долгов
-**Описание:** Процесс принудительного взыскания задолженности
-
-**Шаги процесса:**
-1. **Напоминание** - отправка уведомлений о задолженности
-2. **Эскалация** - передача в коллекторское агентство
-3. **Правовые меры** - подача исков в суд
-4. **Взыскание** - принудительное взыскание
-5. **Закрытие** - списание безнадежной задолженности
+**Process Steps:**
+1. **Reminders** - sending debt notifications
+2. **Escalation** - transferring to collection agency
+3. **Legal Actions** - filing court claims
+4. **Collection** - forced debt recovery
+5. **Closure** - writing off bad debt
 
 ---
 
-## 🔄 INTEGRATION PROCESSES
+## 🔄 INTEGRATION POINTS
 
-### 1. FTP Integration
-**Описание:** Обмен данными с внешними системами через FTP
+### External Systems
+- **Four Point (Java/Oracle)** - main system
+- **FTP Server** - file exchange
+- **apsPlateau Database** - corporate database
+- **BreakDown Values** - reference data
 
-**Процессы:**
-- **Загрузка сертификатов** - получение данных о полисах
-- **Выгрузка отчетов** - отправка отчетности
-- **Синхронизация данных** - обновление справочников
-
-**Модули системы:**
-- MOB208DCC - Data Communication
-- MOB209ENC - Encoder
-
-### 2. Database Integration
-**Описание:** Интеграция с корпоративными базами данных
-
-**Процессы:**
-- **Синхронизация клиентов** - обновление данных клиентов
-- **Обмен финансовыми данными** - передача данных о платежах
-- **Интеграция с CRM** - обновление информации о клиентах
+### Data Flows
+1. **Four Point** → **FTP Server** → **AS/400** (certificate loading)
+2. **AS/400** → **FTP Server** → **Four Point** (processing results)
+3. **BreakDown Values** → **AS/400** (reference data)
+4. **apsPlateau** → **AS/400** (client data)
 
 ---
 
 ## 📈 REPORTING & ANALYTICS
 
-### 1. Операционные отчеты
-- **Отчет по полисам** - статистика по страховым полисам
-- **Отчет по претензиям** - анализ страховых случаев
-- **Отчет по биллингу** - финансовые показатели
-- **Отчет по задолженности** - анализ дебиторской задолженности
+### Operational Reports
+- **Policy Report** - insurance policy statistics
+- **Claims Report** - insurance case analysis
+- **Billing Report** - financial indicators
+- **Debt Report** - receivables analysis
 
-### 2. Аналитические отчеты
-- **Тренды по продуктам** - анализ популярности страховых продуктов
-- **Географический анализ** - распределение по регионам
-- **Анализ клиентов** - сегментация клиентской базы
-- **Прогнозирование** - прогнозы по претензиям и доходам
-
-**Модули системы:**
-- MOB269XP - Detail Claims to Excel
-- MOB269XP2 - Enhanced Excel Export
+### Analytical Reports
+- **Product Trends** - insurance product popularity analysis
+- **Geographic Analysis** - regional distribution
+- **Client Analysis** - client base segmentation
+- **Forecasting** - claims and revenue predictions
 
 ---
 
-## 🔒 COMPLIANCE & SECURITY
+## ⚠️ NON-FUNCTIONAL REQUIREMENTS
 
-### 1. Соответствие требованиям
-- **Страховое законодательство** - соблюдение нормативных требований
-- **Финансовая отчетность** - соответствие стандартам учета
-- **Защита данных** - соблюдение требований по защите персональных данных
+### Performance Requirements
+- **Response Time:** < 3 seconds for standard operations
+- **Throughput:** 1000+ transactions per hour
+- **Availability:** 99.9% uptime
+- **Scalability:** Support for 10,000+ policies
 
-### 2. Безопасность
-- **Контроль доступа** - разграничение прав пользователей
-- **Аудит операций** - логирование всех действий
-- **Шифрование данных** - защита конфиденциальной информации
+### Security Requirements
+- **Data Encryption:** All sensitive data encrypted
+- **Access Control:** Role-based access control
+- **Audit Trail:** Complete audit log
+- **Backup:** Daily automated backups
 
----
-
-## 🚀 FUTURE ROADMAP
-
-### 1. Модернизация системы
-- **Миграция на C#** - переход на современную платформу
-- **Веб-интерфейс** - создание пользовательского интерфейса
-- **Мобильное приложение** - доступ с мобильных устройств
-
-### 2. Новые возможности
-- **Искусственный интеллект** - автоматизация принятия решений
-- **Блокчейн** - обеспечение прозрачности операций
-- **API интеграция** - подключение к внешним сервисам
+### Compliance Requirements
+- **Insurance Regulations:** Compliance with insurance laws
+- **Data Protection:** GDPR compliance
+- **Financial Reporting:** SOX compliance
+- **Audit Requirements:** Internal and external audits
 
 ---
 
-## 📊 SUCCESS METRICS
+## 🎯 SUCCESS CRITERIA
 
-### Количественные показатели
-- **Количество обработанных полисов:** 10,000+ в месяц
-- **Время обработки претензии:** < 24 часа
-- **Точность биллинга:** > 99.5%
-- **Доступность системы:** > 99.9%
+### Business Success
+- **Process Efficiency:** 50% reduction in processing time
+- **Cost Reduction:** 30% reduction in operational costs
+- **Customer Satisfaction:** > 95% customer satisfaction
+- **Revenue Growth:** 20% increase in revenue
 
-### Качественные показатели
-- **Удовлетворенность клиентов:** > 4.5/5
-- **Удовлетворенность пользователей:** > 4.0/5
-- **Соответствие требованиям:** 100%
-- **Безопасность:** 0 инцидентов
-
----
-
-## 📞 STAKEHOLDERS
-
-### Внутренние заинтересованные стороны
-- **Руководство** - стратегические решения
-- **IT отдел** - техническая поддержка
-- **Финансовый отдел** - биллинг и отчетность
-- **Отдел претензий** - обработка страховых случаев
-- **Отдел продаж** - работа с клиентами
-
-### Внешние заинтересованные стороны
-- **Клиенты** - пользователи страховых услуг
-- **Регуляторы** - страховые надзорные органы
-- **Партнеры** - внешние поставщики услуг
-- **Аудиторы** - проверка соответствия требованиям
+### Technical Success
+- **System Stability:** < 1% error rate
+- **Performance:** Meeting all performance requirements
+- **Integration:** Successful integration with all systems
+- **Migration:** Successful migration to C# for Debt Protection
 
 ---
 
-**Дата создания BRD:** 30 сентября 2024  
-**Версия:** 1.0  
-**Статус:** Утверждено  
-**Следующий пересмотр:** 30 декабря 2024
+## 👥 STAKEHOLDERS
 
-## 🏷️ ТЕГИ
+### Primary Stakeholders
+- **Insurance Company Management** - business owners
+- **IT Department** - technical implementation
+- **Insurance Agents** - end users
+- **Claims Specialists** - end users
 
-`BRD` `Business Requirements` `Insurance System` `Claims Processing` `Billing Management` `Debt Protection` `Policy Management` `Business Processes` `Stakeholders` `KPI` `Compliance` `Security` `AS/400` `RPG`
+### Secondary Stakeholders
+- **Clients** - policyholders
+- **Regulatory Bodies** - compliance requirements
+- **External Vendors** - system integration
+- **Auditors** - system validation
+
+---
+
+## ⚠️ MIGRATION PLANS
+
+### Current Status
+- **AS/400 marked as "Decommissioned long ago"**
+- **Planned replacement of Debt Protection modules (MOB290-295) with C# Window Service**
+
+### C# Window Service Functions
+- **FTP Monitoring** - tracking certificate files
+- **Certificate Verification** (Cert is good)
+- **Value Verification** (Values are good)
+- **Value Matching** (Values match)
+
+### Migration Timeline
+- **Phase 1:** Analysis and design (Q1 2025)
+- **Phase 2:** Development and testing (Q2-Q3 2025)
+- **Phase 3:** Deployment and cutover (Q4 2025)
+
+---
+
+**Document Creation Date:** September 30, 2024  
+**Version:** 1.0  
+**Status:** Current  
+**Next Review:** December 30, 2024
+
+## 🏷️ TAGS
+
+`BRD` `Business Requirements` `AS/400` `Insurance System` `Claims Processing` `Billing Management` `Debt Protection` `Business Processes` `Stakeholders` `Success Criteria`
